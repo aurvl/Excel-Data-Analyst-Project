@@ -1,0 +1,1666 @@
+order_id,order_date,customer_id,customer_name,channel,payment_terms,currency
+SO000001,2025-01-28,C0137,Jade Lopez,E-commerce,CB - comptant,EUR
+SO000002,2025-01-02,C0114,Optima Conseil Holding,Retail,45 jours,EUR
+SO000003,2025-01-15,C0061,Riviera Supply SAS,Inside Sales,30 jours,EUR
+SO000004,2025-01-31,C0065,Yassine Konate,Retail,CB - comptant,EUR
+SO000005,2025-01-14,C0053,Cap Sud Equipement SAS,E-commerce,45 jours,EUR
+SO000006,2025-01-25,C0110,Kevin Traore,E-commerce,30 jours,EUR
+SO000007,2025-01-12,C0033,Riviera Supply Holding,Inside Sales,30 jours,EUR
+SO000008,2025-01-15,C0028,Hexa Services Group,Retail,CB - comptant,EUR
+SO000009,2025-01-09,C0070,Nicolas Durand,E-commerce,45 jours,EUR
+SO000010,2025-01-05,C0049,Dylan Traore,E-commerce,CB - comptant,EUR
+SO000011,2025-01-11,C0078,Topline Solutions SARL,Inside Sales,CB - comptant,EUR
+SO000012,2025-01-05,C0095,Ahmed Lopez,Inside Sales,CB - comptant,EUR
+SO000013,2025-01-02,C0040,Urban Motion SARL,Retail,CB - comptant,EUR
+SO000014,2025-01-04,C0136,Thomas Martin,E-commerce,30 jours,EUR
+SO000015,2025-01-13,C0125,Louis Lambert,Retail,30 jours,EUR
+SO000016,2025-01-02,C0022,Elite Habitat SARL,Retail,30 jours,EUR
+SO000017,2025-01-15,C0172,Antoine Dupont,Retail,45 jours,EUR
+SO000018,2025-01-02,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO000019,2025-01-03,C0044,Paul Leroy,E Commerce,30 jours,EURO
+SO000020,2025-01-10,C0122,Kora Logistics SARL,Retail ,N/A,EUR
+SO000021,2025-01-01,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000022,2025-01-21,C0067,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000023,2025-01-10,C0042,Vision Commerce Services,E-commerce,CB - comptant,EUR
+SO000024,2025-01-27,C0169,Nicolas Laurent,E-commerce,30 jours,EUR
+SO000025,2025-01-22,C0060,Optima Conseil Group,Retail,45 jours,EUR
+SO000026,2025-01-08,C0156,Julie Roux,Retail,30 jours,EUR
+SO000027,2025-01-04,C0015,Chloe Moreau,E-commerce,45 jours,EUR
+SO000028,2025-01-08, C0046,,E-commerce,CB - comptant,EUR
+SO000029,2025-01-10,C0103,Louis Michel,Retail,30 jours,EUR
+SO000030,2025-01-22,C0167,Maxime Bertrand,E-commerce,30 jours,EUR
+SO000031,2025-01-25,C0175,Aurelien Morel,Inside Sales,30 jours,EUR
+SO000032,2025-01-10,C0016,Fatou Petit,Inside Sales,45 jours,EUR
+SO000033,2025-01-27,C0001,Sarah Bernard,Inside Sales,30 jours,EUR
+SO000034,2025-01-07,C0103,Louis Michel,E-commerce,30 jours,EUR
+SO000035,2025-01-20,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+SO000036,2025-01-01,C0117,Camille Garnier,E-commerce,45 jours,EUR
+SO000037,2025-01-19,C0152,Vision Commerce Group,E-commerce,30 jours,EUR
+SO000038,2025-01-08,C0063,Paul Konate,E-commerce,30 jours,EUR
+SO000039,2025-01-07,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO000040,2025-01-08,C0105,Noemie Laurent,E-commerce,45 jours,EUR
+SO000041,2025-01-03,C0040,Urban Motion SARL,Inside Sales,CB - comptant,EURO
+SO000042,2025-01-22,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO000043,2025-01-21,C0171,Louis Vincent,E-commerce,30 jours,EUR
+SO000044,2025-01-03,C0015,Chloe Moreau,E-commerce,45 jours,EUR
+SO000045,2025-01-12,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO000046,2025-01-18,C0024,Smart Office Holding,Retail,CB - comptant,EUR
+SO000047,2025-01-29,C0163,Nova Retail SAS,Retail,CB - comptant,EUR
+SO000048,2025-01-09,C0053,Cap Sud Equipement SAS,E-commerce,45 jours,EUR
+SO000049,2025-01-22,C0160,Mediterra Shop Services,E-commerce,45 jours,EUR
+SO000050,2025-01-07,C0085,Soleil Distribution SAS,Inside Sales,CB - comptant,EUR
+SO000051,2025-01-11,C0086,Smart Office Group,E-commerce,30 jours,EUR
+SO000052,2025-01-04,C0160,Mediterra Shop Services,Retail,45 jours,EUR
+SO000053,2025-01-22,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO000054,2025-01-17,C0102,Morgane Andre,Inside Sales,30 jours,EUR
+SO000055,2025-01-17,C0153,Camille Richard,Retail,45 jours,EUR
+SO000056,2025-01-05,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO000057,2025-01-27,C0080,Urban Motion Services,E-commerce,CB - comptant,EUR
+SO000058,2025-01-25,C0059,Soleil Distribution Group,Retail,30 jours,EUR
+SO000059,2025-01-10,C0148,Salome Moreau,Inside Sales,CB - comptant,EUR
+SO000060,2025-01-21,C0111,Lea Lambert,E-commerce,  45 jours  ,EURO
+SO000061,2025-01-10,C0094,Brahim Leroy,E-commerce,30 jours,EUR
+SO000062,2025-01-08,C0012,Aicha Vincent,Retail,30 jours,EUR
+SO000063,2025-01-25,C0001,Sarah Bernard,Retail,30 jours,EUR
+SO000064,2025-01-13,C0053,Cap Sud Equipement SAS,Inside Sales,45 jours,EUR
+SO000065,2025-01-25,C0139,Lea Konate,E-commerce,CB - comptant,EUR
+SO000066,2025-01-13,C0083,Elodie Martinez,E-commerce,30 jours,EUR
+SO000067,2025-01-25,C0136,Thomas Martin,E-commerce,30 jours,EUR
+SO000068,2025-01-04,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO000069,2025-01-26,C0103,Louis Michel,Inside Sales,30 jours,EUR
+SO000070,2025-01-18,C0063,Paul Konate,Retail,  30 jours  ,EUR
+SO000071,2025-01-15,C0165,Louis Petit,Retail,45 jours,EUR
+SO000072,2025-01-28,C0159,Maxime Diallo,Inside Sales,45 jours,EUR
+SO000073,2025-01-26,C0171,Louis Vincent,E-commerce,30 jours,EUR
+SO000074,2025-01-13,C0163,Nova Retail SAS,Retail,CB - comptant,EUR
+SO000075,2025-01-08,C0010,Elite Habitat Services,Inside Sales,CB - comptant,EUR
+SO000076,2025-01-11,C0012,Aicha Vincent,Inside Sales,30 jours,EUR
+SO000077,2025-01-30,C0104,Brahim Martinez,E-commerce,30 jours ,EUR
+SO000078,2025-01-17,C0122,Kora Logistics SARL,E-commerce,45 jours,EUR
+SO000079,2025-01-30,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO000080,2025-01-22,C0122,Kora Logistics SARL,Retail,45 jours,EUR
+SO000081,2025-01-15,C0085,Soleil Distribution SAS,E-commerce,CB - comptant,EUR
+SO000082,,C0110,Kevin Traore,E-commerce,30 jours,EUR
+SO000083,2025-01-09,C0077,Karim Roux,Retail,CB - comptant,EUR
+SO000084,2025-01-30,C0096,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO000085,2025-01-28,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000086,2025-01-15,C0062,Azur Concept Services,Retail,30 jours,EUR
+SO000087,2025-01-26,C0033,Riviera Supply Holding,E-commerce,30 jours,EUR
+SO000088,2025-01-20,C0076,Julie Diop,Retail,CB - comptant,EUR
+SO000089,2025-01-24,C0029,Chloe Legrand,E-commerce,CB - comptant,EUR
+SO000090,2025-01-14,C0033,Riviera Supply Holding,retail,30 jours,EUR
+SO000091,2025-01-08,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO000092,2025-01-16,C0161,  Noemie Leroy  ,Retail,CB - comptant,EUR
+SO000093,2025-01-01,C0151,Prestige Home Services,E-commerce,CB - comptant,EUR
+SO000094,2025-01-18,C0058,Elite Habitat Holding,E-commerce,30 jours,EUR
+SO000095,2025-01-09,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000096,2025-02-28,C0025,Thomas Dubois,Inside Sales,30 jours,EUR
+SO000097,2025-02-06,C0107,Benoit Bamba,Inside Sales,45 jours,EUR
+SO000098,2025-02-18,C0082,Mediterra Shop Holding,Retail,CB - comptant,EUR
+So000099,2025-02-14,C0013,Riviera Supply Group,Retail,CB - comptant, Eur 
+SO000100,2025-02-27,C0129,Smart Office Holding,E-commerce,45 jours,EUR
+SO000101 ,2025-02-07,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000102,2025-02-21,C0021,Blue Horizon SARL,Retail,CB - comptant,EUR
+SO000103,2025-02-13,C0021,Blue Horizon SARL,Inside Sales,CB - comptant,EUR
+SO000104,2025-02-10,C0140,Julie Lefevre,Inside Sales,30 jours,EUR
+SO000105,2025-02-28,C0161,Noemie Leroy,Retail,CB - comptant,EUR
+SO000106,2025-02-25,C0132,Soleil Distribution Services,E-commerce,30 jours,EUR
+SO000107,2025-02-10,C0074,Vision Commerce Group,E-commerce,30 jours,EUR
+SO000108,2025-02-05,C0062,Azur Concept Services,Retail,30 jours,EUR
+SO000109,2025-02-15,C0022,Elite Habitat SARL,Retail,30 jours,EUR
+SO000110,2025-02-05,C0009,Salome Michel,E-commerce,30 jours,EUR
+SO000111,2025-02-01,C0002,Prestige Home SAS,Retail,CB - comptant,EUR
+SO000112,2025-02-02,C0063,Paul Konate,Retail,30 jours,EUR
+SO000113,2025-02-13,C0124,Florian Robert,Retail,30 jours,EUR
+SO000114,2025-02-08,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO000115,2025-02-17,C0068,Kora Logistics SARL,Inside Sales,30 jours,EUR
+SO000116,2025-02-01,C0101,Camille Petit,Inside Sales,30 jours,EUR
+SO000117,2025-02-01,C0154,Noemie Vincent,Inside Sales,CB - comptant,EUR
+SO000118,2025-02-02,C0007,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO000119,2025-02-07,C0007,Urban Motion SAS,E-commerce,45 jours,EUR
+SO000120,2025-02-25,C0133,Prestige Home SARL,E-commerce,CB - comptant,EUR
+SO000121,2025-02-14,C0156,Julie Roux,Retail,30 jours,eur
+SO000122,2025-02-28,C0007,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO000123,2025-02-04,C0165,Louis Petit,Retail,45 jours,EUR
+SO000124,2025-02-28,C0038,Emma Dubois,E-commerce,CB - comptant,EUR
+SO000125,2025-02-20,C0020,Laura Diallo,E-commerce,CB - comptant,EUR
+SO000126,2025-02-11,C0156,Julie Roux,Retail,30 jours,EUR
+SO000127,2025-02-10,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000128,2025-02-09,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO000129,2025-02-16,C0039,  Morgane Vincent  ,E-commerce,CB - COMPTANT,EUR
+SO000130,2025-02-25,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO000131,2025-02-12,C0015,Chloe Moreau,Retail,45 jours,EUR
+SO000132,2025-02-07,C0067,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000133,2025-02-03,C0143,Brahim Morel,Retail,30 jours,EUR
+SO000134,2025-02-07,C0021,Blue Horizon SARL,E-commerce,CB - comptant,EUR
+SO000135,2025-02-14,C0022,Elite Habitat SARL,E-commerce,30 jours,EUR
+SO000136,2025-02-02,C0034,Atlas Trading Holding,Inside Sales,CB - comptant,EUR
+SO000137,2025-02-22,C0142,Ines Simon,E-commerce,CB - comptant,EUR
+SO000138,2025-02-17,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO000139,2025-02-13,C0155,Azur Concept SARL,Retail,30 jours,EUR
+SO000140,2025-02-16,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO000141,2025-02-28,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO000142,2025-02-02,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO000143,2025-02-27,C0152,Vision Commerce Group,Retail,30 jours,EUR
+SO000144,2025-02-23,C0058,Elite Habitat Holding,Inside Sales,30 jours,EUR
+SO000145,2025-02-17,C0079,Lea Diallo,Retail,30 jours,EUR
+SO000146,2025-02-16,C0142,Ines Simon,E-commerce,CB - comptant,EUR
+So000147,2025-02-18,c0010,Elite Habitat Services,Inside Sales,CB - comptant,EUR
+SO000148,2025-02-04,C0173,Vision Commerce Holding,Retail,45 jours,EUR
+SO000149,2025-02-09,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000150,2025-02-04,C0127,Topline Solutions SAS,Retail,45 jours,EUR
+SO000151,2025-02-19,C0062,Azur Concept Services,E-commerce,30 jours,EUR
+SO000152,2025-02-19,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO000153,2025-02-28,C0049,Dylan Traore,Retail,CB - comptant,EUR
+SO000154,2025-02-03,C0009,Salome Michel,Retail,30 jours,EUR
+SO000155,2025-02-23,C0089,Thomas Thomas,E-commerce,45 jours,EUR
+SO000156,2025-02-24,C0172,Antoine Dupont,Retail,45 jours,EUR
+SO000157,2025-02-05,C0086,Smart Office Group,E-commerce,30 jours,EUR
+SO000158,2025-02-23,C0128,Jade Richard,Retail,CB - comptant,EUR
+SO000159,2025-02-20,C0042,Vision Commerce Services,E-commerce,CB - comptant,EUR
+SO000160,2025-02-01,C0055,Florian Legrand,Inside Sales,CB - comptant,EUR
+SO000161,2025-02-08,C0107,Benoit Bamba,E-commerce,45 jours,EUR
+SO000162,2025-02-12,C0105,Noemie Laurent,E-commerce,45 jours,EUR
+SO000163,2025-02-19,C0128,Jade Richard,Ecommerce,CB - comptant,eur
+SO000164,2025-02-04,C0056,Paul Bamba,Inside Sales,45 jours,EUR
+SO000165,2025-02-25,C0003,atlas trading holding ,E-commerce,30 jours,EUR
+SO000166,2025-02-25,C0029,Chloe Legrand,Retail,CB - comptant,EUR
+SO000167,2025-02-16,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO000168,2025-02-09,C0118,Brahim Thomas,E-commerce,30 jours,EUR
+SO000169,2025-02-20,C0009,Salome Michel,Retail,30 jours,EUR
+SO000170,2025-02-23,C0115,Salome Traore,Inside Sales,30 jours,EUR
+SO000171,2025-02-11,  C0113  ,Clara Roux,Retail,30 jours, Eur 
+SO000172,2025-02-21,C0072, Camille Bertrand ,E-commerce,30 JOURS,EUR
+SO000173,2025-02-07,C0036,Chloe Bamba,Retail,CB - comptant,EUR
+SO000174,2025-02-03,C0092,Atlas Trading SARL,Inside Sales,CB - comptant,EUR
+SO000175,2025-02-27,C0177,Mehdi Lambert,Retail,CB - comptant,EUR
+SO000176,2025-02-26,C0013,Riviera Supply Group,Inside Sales,CB - comptant,EUR
+SO000177,2025-02-16,C0036,Chloe Bamba,Inside Sales, CB - comptant,eur
+SO000178,2025-02-04,C0124,Florian Robert,Inside Sales,30 jours,EUR
+SO000179,2025-02-07,C0123,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000180,2025-02-07,C0018,Aurelien Lefevre,Retail,30 jours,EUR
+SO000181,2025-02-28,C0156,Julie Roux,E-commerce,30 jours,EUR
+SO000182,2025-02-26,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO000183,2025-02-27,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO000184,2025-02-26,C0075,Elite Habitat SAS,E-commerce,CB - comptant,EUR
+SO000185,2025-02-22,C0034,Atlas Trading Holding,Retail,CB - comptant,EUR
+SO000186,2025-02-20,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000187,2025-02-04,C0058,Elite  Habitat  Holding,E-commerce,30 jours,EUR
+SO000188,2025-02-04,C0033,Riviera Supply Holding,E-commerce,30 jours,EUR
+SO000189,2025-02-28,C0143,Brahim Morel,N/A,30 jours,EUR
+SO000190,2025-02-12,C0142,Ines Simon,Retail,CB - comptant,EUR
+SO000191,2025-02-04,C0017,Blue Horizon Holding,E-commerce,CB - comptant,EUR
+SO000192,2025-02-20,C0065,Yassine Konate,Retail,CB - comptant,eur
+SO000193,2025-02-03,C0094,Brahim Leroy,E-commerce,30 jours,EUR
+SO000194,2025-02-25,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO000195,2025-02-23,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO000196,2025-02-22,C0150,Fatou Garcia,Retail,CB - comptant,EUR
+SO000197,2025-02-02,C0146,Antoine Leroy,Inside Sales,CB - comptant,EUR
+SO000198,2025-02-24,C0026,Atlas Trading Group,Retail,CB - comptant,EUR
+SO000199,2025-02-04,C0111,Lea Lambert,Retail,45 jours,EUR
+SO000200,2025-02-14,C0009,Salome Michel,Inside Sales,30 jours, Eur 
+SO000201,2025-03-30,C0012,Aicha Vincent,Inside Sales,30 jours,EUR
+SO000202,2025-03-25,C0015,Chloe Moreau,E-commerce,45 jours,EUR
+SO000203,2025-03-21,C0013,Riviera Supply Group,Inside Sales,CB - comptant,EUR
+SO000204,2025-03-20,C0105,Noemie Laurent,Inside Sales,45 jours,EUR
+SO000205,2025-03-08,C0087,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000206,2025-03-05,C0009,Salome Michel,Inside Sales,30 jours,EUR
+SO000207,2025-03-31,C0068,,E-commerce,30 jours,EUR
+SO000208,2025-03-02,C0011,Atlas Trading SAS,E-commerce,CB - comptant,EUR
+SO000209,2025-03-11,C0071,Optima Conseil Group,Inside Sales,45 jours,EUR
+SO000210,2025-03-28,C0070,Nicolas Durand,E-commerce,45 jours,EUR
+SO000211,2025-03-26,C0155,Azur Concept SARL,Retail,30 jours,EUR
+SO000212,2025-03-15,C0127,Topline Solutions SAS,Retail,45 jours,EUR
+SO000213,28/03/2025,C0136,Thomas Martin ,Ecommerce,30 jours,EUR
+SO000214,2025-03-06,C0081,Optima Conseil Holding,E-commerce,30 jours,EUR
+SO000215,2025-03-17,C0143, Brahim Morel,Inside Sales,30 jours, Eur 
+SO000216,2025-03-27,C0009,Salome Michel,E-commerce,30 jours,EUR
+SO000217,2025-03-30,C0048,Hugo David,E-commerce,45 jours,EUR
+SO000218,2025-03-19,C0154,Noemie  Vincent,Inside Sales,  CB - comptant  ,EUR
+SO000219,2025-03-20,C0165,Louis Petit,E-commerce,45 jours,EUR
+SO000220,2025-03-01,C0019,Paul Dubois,E-commerce,30 jours,EUR
+SO000221,2025-03-09,C0060,Optima Conseil Group,Retail,45 jours,EUR
+SO000222,2025-03-21,C0147,Sarah Petit,Retail,30 jours,EUR
+SO000223,2025-03-09,C0049,Dylan Traore,E-commerce,CB - comptant,EUR
+SO000224,2025-03-09,C0165,Louis Petit,E-commerce,45 jours,EUR
+SO000225,2025-03-19,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000226,2025-03-12,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO000227,2025-03-22,C0136,Thomas Martin,E-commerce,30 jours,EUR
+SO000228,2025-03-29,C0165,Louis Petit,Retail,45 jours,EUR
+SO000229,2025-03-13,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO000230,2025-03-07,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000231,2025-03-24,C0060,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000232,2025-03-11,C0044,Paul Leroy,Inside Sales,30 jours,EUR
+SO000233,2025-03-21,C0150,Fatou Garcia,Retail,CB - comptant,EUR
+SO000234,2025-03-08,C0174,Urban Motion Holding,Retail,45 jours,EUR
+SO000235,2025-03-02,C0107,Benoit Bamba,E-commerce,45 jours,EUR
+SO000236,2025-03-20,C0137,Jade Lopez,E-commerce,CB - comptant,EUR
+SO000237,2025-03-09,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000238,2025-03-25,C0010,Elite Habitat Services,Inside Sales,CB - comptant,EUR
+SO000239,2025-03-12,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO000240,2025-03-31,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO000241,2025-03-26,C0045,Salome Diallo,E-commerce,30 jours,EUR
+SO000242,2025-03-26,C0037,SOLEIL DISTRIBUTION SARL,Retail,45 jours,EUR
+SO000243,2025-03-20,C0003,ATLAS TRADING HOLDING,E-commerce,30 jours,EUR
+SO000244,2025-03-30,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+So000245,2025-03-12,C0021,Blue  Horizon  SARL,E-commerce,CB - comptant,EUR
+SO000246,2025-03-27,C0158,Sarah Robert,Inside Sales,30 jours,EUR
+SO000247,2025-03-19,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO000248,03-05-2025,C0007,  Urban Motion SAS  ,E-commerce,45 jours,EUR
+SO000249,2025-03-13,C0155,Azur Concept SARL,Inside Sales,30 jours,EUR
+SO000250,2025-03-17,C0153,Camille Richard,Retail,45 jours,EUR
+SO000251,2025-03-14,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000252,2025-03-18,C0035,Alpha Partners Group,E-commerce,CB - comptant,EUR
+SO000253,2025-03-31,C0047,Smart Office Services,Retail,30 jours,EUR
+SO000254,2025-03-22,C0020,LAURA DIALLO,retail,CB - comptant,EUR
+SO000255,2025-03-06,C0011,Atlas Trading SAS,Inside Sales,CB - comptant,EUR
+SO000256,2025-03-23,C0089,Thomas Thomas,Retail,45 jours,EUR
+SO000257,25-03-2025,C0016,Fatou  Petit,Retail,NA,EUR
+SO000258,2025-03-16,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO000259,2025-03-13,C0137,Jade Lopez,Retail,CB - comptant,EUR
+SO000260,2025-03-30,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO000261,2025-03-17,C0088,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000262,2025-03-13,C0136,Thomas Martin,Inside Sales,30 jours,EUR
+SO000263,2025-03-04,C0132,Soleil Distribution Services,E-commerce,30 jours,EUR
+SO000264,2025-03-02,C0124,Florian Robert,Inside Sales,30 jours,EUR
+SO000265,2025-03-10,C0108,Camille Diallo,Retail,45 jours,EUR
+SO000266,2025-03-28,C0030,Mediterra Shop Holding,E-commerce,30 jours,EUR
+SO000267,2025-03-30,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO000268,2025-03-23,C0088,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO000269,2025-03-18,C0025,Thomas Dubois,E-commerce,30 jours,EUR
+SO000270,2025-03-13,C0157,Noemie Bamba,Retail,CB - comptant,EUR
+SO000271,03-31-2025, C0152,Vision Commerce Group,Ecommerce,30 jours,EUR
+SO000272,2025-03-18,c0095,Ahmed Lopez,Retail,CB - comptant,EUR
+SO000273,2025-03-25,C0129,Smart Office Holding,E-commerce,45 jours,EUR
+SO000274,2025-03-17,C0075,Elite Habitat SAS,E-commerce,CB - comptant,EUR
+SO000275,2025-03-13,C0100,Cap Sud Equipement Holding,Inside Sales,CB - comptant,EUR
+SO000276,2025-03-10,C0146,Antoine Leroy,E-commerce,CB - comptant,EUR
+SO000277,2025-03-04,C0071,Optima Conseil Group,Retail,45 jours,EUR
+SO000278,2025-03-04,C0012,Aicha Vincent,Retail,30 jours,EUR
+SO000279,2025-03-03,C0015,CHLOE  MOREAU,InsideSales,45 jours,EUR
+SO000280,2025-03-21,C0146,Antoine Leroy,E-commerce,CB - comptant,EUR
+SO000281,2025-03-15,C0109,Lucie Bertrand,Retail,CB - comptant,EUR
+SO000282,2025-03-14,C0116,Mehdi Fournier,E-commerce,CB - comptant,EUR
+SO000283,2025-03-26,C0011,Atlas Trading SAS,Retail,CB - comptant,EUR
+SO000284,2025-03-12,C0036,Chloe Bamba,Retail,CB - comptant,EUR
+SO000285,2025-03-07,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000286,12/03/2025,C0088,ATLAS TRADING HOLDING,Retail,30 jours,EUR
+SO000287,2025-03-11,C0180,Dylan Lambert,Inside Sales,CB - comptant,EUR
+SO000288,2025-03-13,  C0167  ,Maxime Bertrand,e-commerce,30 jours,EUR
+SO000289,2025-03-24,C0162,Optima Conseil Services,Retail,45 jours,EUR
+SO000290,2025-03-26,c0057,Hexa Services SARL,,30 jours,EUR
+SO000291,2025-03-31,C0008,Dylan Chevalier,Retail,30 jours,EUR
+SO000292,2025-03-17,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO000293,2025-03-27,C0117,Camille Garnier,E-commerce,45 jours,EUR
+SO000294,2025-03-22,C0120,Romain Konate,E-commerce,CB - comptant,EUR
+SO000295,2025-03-29,C0100,Cap Sud Equipement Holding,E-commerce,CB - comptant,EUR
+  SO000296  ,2025-03-11,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO000297,2025-03-23,C0094,Brahim Leroy,Retail,30 jours,EUR
+SO000298,2025-03-08,C0092,Atlas Trading SARL,Retail,CB - comptant,EUR
+SO000299,2025-03-18,C0016,Fatou Petit,Inside Sales,45 jours,EUR
+SO000300,2025-03-28,C0025,Thomas Dubois,Inside Sales,30 jours,EUR
+SO000301,2025-03-27,C0070,Nicolas Durand,E-commerce,45 jours,EUR
+SO000302,2025-03-22,C0056,Paul Bamba,Inside Sales,45 jours,EUR
+SO000303,2025-03-18,C0084,Louis David,E-commerce,45 jours,EUR
+SO000304,2025-03-26,C0138,Bati Plus SARL,Inside Sales,CB - comptant,EUR
+SO000305,2025-03-26,C0048,Hugo David,E-commerce,45 jours,EUR
+SO000306,2025-03-19,C0016,Fatou Petit,E-commerce,45 jours,EUR
+SO000307,2025-03-14,C0043,Alpha Partners SAS,Inside Sales,CB - comptant,EUR
+SO000308,2025-03-14,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000309,2025-03-27,C0158,Sarah Robert,E-commerce,30 jours,EUR
+SO000310,2025-03-13,C0023,Topline Solutions SAS,E-commerce,CB - comptant,EUR
+SO000311,2025-03-06,C0108,Camille Diallo,Retail,45 jours,EUR
+SO000312,2025-03-19,C0086,Smart Office Group,Retail,30 jours,EUR
+SO000313,2025-03-14, C0038,Emma Dubois,Ecommerce,CB - comptant,EUR
+SO000314,2025-03-10,C0069,Florian Girard,E-commerce,30 jours,EUR
+SO000315,2025-03-22,C0086,Smart Office Group,E-commerce,30 jours,EUR
+SO000316,2025-04-15,C0129,Smart Office Holding,E-commerce,45 jours,EUR
+SO000317,2025-04-09,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO000318,2025-04-16,C0026,Atlas Trading Group,E Commerce,CB - comptant,EUR
+SO000319,2025-04-04,C0098,,E-commerce,, Eur 
+SO000320,2025-04-19,C0146,Antoine Leroy,Retail,CB - comptant,EUR
+SO000321,2025-04-25,C0172,Antoine Dupont,Retail,45 jours,EUR
+SO000322,2025-04-08,C0122,Kora Logistics SARL,E-commerce,45 jours,EUR
+SO000323,2025-04-11,C0057,Hexa Services SARL,E-commerce,30 jours,EUR
+SO000324,2025-04-22,C0015,Chloe Moreau,Inside Sales,45 jours,EUR
+SO000325,2025-04-02,C0166,Salome Bonnet,E-commerce,30 jours,EUR
+SO000326,2025-04-25,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO000327,2025-04-30,C0172,Antoine Dupont,Retail,45 jours,EUR
+SO000328,2025-04-16,C0107,Benoit Bamba,E-commerce,45 jours,EUR
+SO000329,2025-04-29,C0032,Chloe Robert,Inside Sales,30 jours,EUR
+SO000330,2025-04-15,C0004,Antoine Diallo,E-commerce,45 jours,EUR
+SO000331,2025-04-01,C0007,Urban Motion SAS,Retail,45 jours,EUR
+SO000332,2025-04-01,C0050,Nova Retail Group,E-commerce,30 jours,EUR
+SO000333,2025-04-27,C0055,Florian Legrand,Retail,CB - comptant,EUR
+SO000334,2025-04-01,C0155,Azur Concept SARL,E-commerce,30 jours,EUR
+SO000335,2025-04-27,C0166,Salome Bonnet,Inside Sales,30 jours,EUR
+SO000336,2025-04-26,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO000337,2025-04-07,C0153,Camille Richard,Inside Sales, 45 jours,EUR
+SO000338,2025-04-16,C0156,Julie Roux,E-commerce,30 jours,EUR
+SO000339,2025-04-18,C0082,Mediterra Shop Holding,Inside Sales,CB - comptant,EUR
+SO000340,2025-04-24,C0153,Camille Richard,Retail,45 jours,EUR
+SO000341,,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000342,2025-04-21,C0096,Atlas Trading Group,Retail,CB - comptant,EUR
+SO000343,2025-04-28,C0081,Optima Conseil Holding,Inside Sales,30 jours,EUR
+SO000344,2025-04-22,C0055,Florian Legrand,E-commerce,CB - comptant,EUR
+SO000345,2025-04-14,C0147,Sarah Petit,Retail,30 jours,EUR
+SO000346,2025-04-10,C0169,Nicolas Laurent,Retail,30 jours,EUR
+SO000347,2025-04-10,C0155,Azur Concept SARL,E-commerce,30 jours,EUR
+SO000348,2025-04-10,C0017,Blue Horizon Holding,Retail,CB - comptant,EUR
+SO000349,2025-04-23,C0027,Bati Plus Group,Retail,30 jours,EUR
+SO000350,2025-04-13,C0040,Urban Motion SARL,Retail,CB - comptant,EUR
+SO000351,2025-04-02,C0148,Salome Moreau,Retail,CB - comptant,EUR
+SO000352,2025-04-11,C0043,Alpha Partners SAS,Inside Sales,CB - comptant,EUR
+SO000353,2025-04-28,C0165,Louis Petit,E-commerce,45 jours,EUR
+SO000354,2025-04-28,C0167,Maxime Bertrand,Retail,30 jours,EUR
+SO000355,2025-04-10,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO000356,2025-04-16,C0002,Prestige Home SAS,E-commerce,CB - comptant,EUR
+SO000357,2025-04-26,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO000358,2025-04-21,C0058,Elite Habitat Holding,E-commerce,30 jours,EUR
+SO000359,2025-04-25,C0069,Florian Girard,Retail,30 jours,EUR
+SO000360,2025-04-19,C0098,Antoine Petit,E-commerce,45 jours,EUR
+SO000361,2025-04-25,C0065,Yassine Konate,E-commerce,CB - comptant,EUR
+SO000362,2025-04-15,C0057,Hexa Services SARL,Retail,30 jours,eur
+SO000363,2025-04-29,C0036,Chloe Bamba,E-commerce, CB  -  comptant,EUR
+SO000364,2025-04-23,C0013,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000365,2025-04-30,C0041,Mariam Garcia,Inside Sales,30 jours,EUR
+SO000366,2025-04-05,C0004,Antoine Diallo,Retail,45 jours,EUR
+SO000367,2025-04-09,C0169,Nicolas Laurent,NA,30 JOURS,EUR
+SO000368,2025-04-30,C0013,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000369,2025-04-25,C0110,Kevin Traore,Retail,30 jours,EUR
+SO000370,2025-04-19,C0082,Mediterra Shop Holding,E-commerce,CB - comptant,EUR
+SO000371,2025-04-13,C0069,Florian Girard,Retail,30 jours,EUR
+SO000372,04-23-2025,C0024,Smart Office Holding,E Commerce,CB - comptant,EUR
+SO000373,2025-04-22,C0086,Smart Office Group,E-commerce,30 jours,EUR
+SO000374,2025-04-24,C0168,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000375,2025-04-01,C0150,Fatou Garcia,Retail,CB - comptant,EUR
+SO000376,2025-04-11,C0068,    Kora Logistics SARL    ,Inside Sales,30 jours,EUR
+SO000377,2025-04-14,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO000378,2025-04-10,C0089,Thomas Thomas,Retail,45 jours,EUR
+SO000379,2025-04-05,C0020,Laura Diallo,E-commerce,CB - comptant,EUR
+SO000380,2025-04-18,C0042,Vision Commerce Services,Inside Sales,CB - comptant,EUR
+SO000381,2025-04-09,C0021,Blue Horizon SARL,E-commerce,CB - comptant,EUR
+SO000382,2025-04-12,C0017,Blue Horizon Holding,E-commerce,CB - comptant,EUR
+SO000383,2025-04-16,C0031,Hugo Lefevre,Retail,30 jours,EUR
+SO000384,2025-04-03,C0109,Lucie Bertrand,Retail,CB - comptant,EUR
+SO000385,2025-04-04,C0156,Julie Roux,Retail,30 jours,EUR
+SO000386,2025-04-08,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO000387,2025-04-07,C0111,Lea Lambert,Inside Sales,45 jours,EUR
+SO000388,2025-04-10,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO000389,2025-04-19,C0032,Chloe Robert,E-commerce,30 jours,EUR
+SO000390,2025-04-06,C0029,Chloe Legrand,E-commerce,CB - comptant,EUR
+SO000391,2025-04-08,C0118,Brahim Thomas,E-commerce,30 jours,EUR
+SO000392,2025-04-28,C0025,Thomas Dubois,E-commerce,30 jours,EUR
+SO000393,2025-04-22,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO000394,2025-04-23,C0009,Salome Michel,Retail,30 jours,EUR
+SO000395,2025-04-23,C0132,Soleil Distribution Services,E-commerce,30 jours,EUR
+SO000396,2025-04-09,C0180,Dylan Lambert,Retail,CB - comptant , Eur 
+SO000397,2025-04-15,C0026,Atlas Trading Group,Retail,CB - comptant,EUR
+SO000398,2025-04-12,C0167,Maxime Bertrand,Retail,30 jours,EUR
+SO000399,2025-04-07,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO000400,2025-04-06,C0130,Elodie Girard,Retail,CB - comptant,EUR
+SO000401,2025-04-08,C0155,Azur Concept SARL,Retail,30 jours,EUR
+SO000402,2025-04-03,C0115,Salome Traore,Retail,30 jours,EUR
+SO000403,2025-04-23,C0110,Kevin Traore,E-commerce,30 jours,EUR
+SO000404,2025-04-05,C0051,Delta Market Holding,Inside Sales,CB - comptant,EUR
+SO000405,2025-04-22,C0026,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO000406,2025-04-24,C0119,Soleil Distribution Group,E-commerce,45 jours,EUR
+SO000407,2025-04-22,C0171,Louis Vincent,Retail,30  jours,EUR
+SO000408,2025-04-16,C0047,Smart Office Services,Retail,30 jours,EUR
+SO000409,2025-04-21,C0140,Julie Lefevre,Retail,30 jours,EUR
+SO000410,2025-04-12,C0130,Elodie Girard,Retail,CB - comptant,eur
+SO000411,2025-04-25,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO000412,2025-04-01,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO000413 ,2025-04-08,C0007,Urban Motion SAS,E-commerce,45 jours,EUR
+SO000414,2025-04-08,C0040,Urban Motion SARL,Retail,CB - comptant,EUR
+SO000415,2025-04-06,C0164,Urban Motion SAS,Retail,45 jours,EUR
+SO000416,NA,c0152,Vision Commerce Group,Retail ,30 jours,EUR
+SO000417,2025-04-28,C0154,Noemie Vincent,E-commerce,CB - comptant,EUR
+SO000418,2025-04-01,C0051,Delta Market Holding,Inside Sales,CB - comptant,EUR
+SO000419,2025-04-14,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000420,2025-04-20,C0069,Florian Girard,E-commerce,30 jours,EUR
+SO000421,2025-04-17,C0060,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000422,2025-04-16,C0170,Fatou Bonnet,E Commerce,45 jours,EUR
+SO000423,2025-04-20,C0037,Soleil Distribution SARL,Retail,45 jours,EUR
+SO000424,2025-04-27,  C0025  ,Thomas Dubois,E-commerce,30 jours,EUR
+SO000425,2025-04-11,C0122,Kora Logistics SARL,Retail,45 jours,EUR
+SO000426,2025-04-06,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000427,2025-04-29,C0126,Ahmed Bertrand,Inside Sales,45 jours,EUR
+SO000428,2025-04-15,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO000429,2025-04-06,C0082, Mediterra Shop Holding,E-commerce,CB - comptant,EUR
+SO000430,04-17-2025,C0156,julie roux,E-commerce,30 jours,EUR
+SO000431,2025-04-29,C0155,Azur Concept SARL,Inside Sales,30 jours,EUR
+SO000432,2025-04-26,C0062,Azur Concept Services,E-commerce,30 jours,EUR
+SO000433,2025-04-27,C0109,Lucie Bertrand,Retail,CB - comptant,EUR
+SO000434,2025-04-12,C0165,Louis Petit,Retail,45 jours,EUR
+SO000435,2025-04-12,C0080,Urban Motion Services,Ecommerce,CB - comptant ,EUR
+SO000436,2025-05-04,C0041,Mariam Garcia,Retail,30 jours,EUR
+SO000437,2025-05-08,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO000438,2025-05-15,C0124,Florian Robert,E-commerce,30 jours,EUR
+SO000439,2025-05-07,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO000440,2025-05-21,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO000441,2025-05-23,C0081,Optima Conseil Holding,E-commerce,30 jours,EUR
+SO000442,2025-05-16,C0054,Thomas Dupont,E-commerce,30 jours,EUR
+SO000443,2025-05-04,C0005,Aicha Francois,Retail,30 jours,EUR
+SO000444,2025-05-20,C0003,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO000445,2025-05-23,C0161,Noemie Leroy,Retail,CB - comptant,EUR
+SO000446,2025-05-15,C0082,Mediterra Shop Holding,E-commerce,CB - comptant,EUR
+SO000447,2025-05-16,C0070,Nicolas Durand,Retail,45 jours,EUR
+SO000448,2025-05-10,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000449,2025-05-22,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO000450,2025-05-06,C0125,Louis Lambert,Inside Sales,30 jours,EUR
+SO000451,2025-05-07,C0158,Sarah Robert,Retail,30 jours,EUR
+SO000452,2025-05-15,C0135,Yassine Legrand,E-commerce,CB - comptant,EUR
+SO000453,2025-05-17,C0059,Soleil Distribution Group,E-commerce,30 jours,EUR
+SO000454,2025-05-30,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO000455,2025-05-19,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO000456,2025-05-18,C0002,Prestige Home SAS,Inside Sales,CB - comptant,EUR
+SO000457,2025-05-22,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000458,2025-05-06,C0010,Elite Habitat Services,Retail,CB - comptant,EUR
+SO000459 ,2025-05-04,C0065,Yassine Konate,Inside Sales,CB - comptant,EUR
+SO000460,2025-05-10,C0083,Elodie Martinez,E-commerce,30 jours,EUR
+SO000461,2025-05-02,C0088,Atlas Trading Holding,Retail,30 jours,EUR
+SO000462,2025-05-24,C0141,Atlas Trading Services,E-commerce,45 jours,EUR
+SO000463,2025-05-17,C0028,Hexa Services Group,Retail,CB - comptant,EUR
+SO000464,2025-05-24,C0029,Chloe Legrand,E-commerce,CB - comptant,EUR
+SO000465,2025-05-12,C0129,Smart Office Holding,Retail,45 jours,EUR
+SO000466,30-05-2025,C0164,Urban Motion SAS,E-commerce,45 jours,EUR
+SO000467,2025-05-22,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000468,2025-05-26,C0001,Sarah Bernard,Inside Sales,30 jours,EUR
+SO000469,2025-05-16,C0167,Maxime Bertrand,Retail ,N/A,EUR
+SO000470,2025-05-12,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000471,2025-05-18,C0096,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO000472,2025-05-04,C0095,Ahmed Lopez,Inside Sales,CB - comptant,EUR
+SO000473,2025-05-13,C0161,Noemie Leroy,E-commerce,CB - comptant,EUR
+SO000474,2025-05-14,C0098,Antoine Petit,E-commerce,45 jours,EUR
+SO000475,2025-05-02,C0165,Louis Petit,E-commerce,45 jours,EUR
+SO000476,2025-05-01,C0108,Camille Diallo,Retail,45 jours,EUR
+so000477,2025-05-08,C0095,Ahmed Lopez,Inside Sales,CB - comptant,EUR
+SO000478,2025-05-02,C0065,Yassine Konate,Inside Sales,CB - comptant,EUR
+SO000479,2025-05-11,C0094,Brahim Leroy,Inside Sales,30 jours,EUR
+SO000480,2025-05-14,C0076,Julie Diop,Inside Sales,CB - comptant,EUR
+SO000481,2025-05-06,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO000482,2025-05-20,C0089,Thomas Thomas,E-commerce,45 jours,EUR
+SO000483,2025-05-28,C0152,Vision Commerce Group,Retail,30 jours,EUR
+SO000484,2025-05-28,C0126,Ahmed Bertrand,E-commerce,45 jours,EUR
+SO000485,2025-05-14,C0142,Ines Simon,E-commerce,CB - comptant,EUR
+SO000486,2025-05-03,C0080,Urban Motion Services ,Retail ,CB - comptant,EUR
+SO000487,2025-05-04,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO000488,2025-05-16,C0043,Alpha Partners SAS,Retail,CB - comptant,EUR
+SO000489,2025-05-09,C0011,Atlas Trading SAS,Inside Sales,CB - comptant,EUR
+SO000490,2025-05-19,C0080,Urban Motion Services,Retail,CB - comptant,EUR
+SO000491,2025-05-30,C0071,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000492,2025-05-15,C0046,Smart Office Group,E-commerce,CB - comptant,EUR
+SO000493,2025-05-17,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000494,2025-05-27,C0058,Elite Habitat Holding,E-commerce,  30 jours  ,EUR
+SO000495,2025-05-22,C0008,Dylan Chevalier,E-commerce,30 jours,EUR
+SO000496,2025-05-24,C0057,Hexa Services SARL,E-commerce,30 jours,EUR
+SO000497,2025-05-28,C0006,Azur Concept Services,Inside Sales,CB - comptant,EUR
+SO000498,2025-05-07,C0076,Julie Diop,E-commerce,CB - comptant,EUR
+SO000499,2025-05-12,C0073,Bati Plus Holding,Inside Sales,CB - comptant,EUR
+So000500,2025-05-12,C0100,Cap Sud Equipement Holding,Inside Sales,CB - comptant,EUR
+SO000501,2025-05-10,C0162,Optima Conseil Services,Inside Sales,45 jours,EUR
+SO000502,2025-05-29,C0085,Soleil Distribution SAS,Retail,CB - comptant,EUR
+SO000503,2025-05-18,C0127,Topline Solutions SAS,E-commerce,45 jours,EUR
+SO000504,2025-05-31,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO000505,2025-05-02,C0033,Riviera Supply Holding,Inside Sales,30 jours,EUR
+SO000506,2025-05-28,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO000507,2025-05-10,C0152,Vision Commerce Group,Retail ,30 jours,EURO
+SO000508,2025-05-15,C0074,Vision Commerce Group,E-commerce,30 jours,EUR
+SO000509,2025-05-13,C0148,Salome Moreau,Retail,CB - comptant,EUR
+SO000510,2025-05-21,C0003,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000511,2025-05-13,C0110,Kevin Traore,E-commerce,30 jours,EUR
+SO000512,2025-05-05,C0113,Clara Roux,E-commerce,30 jours,EUR
+SO000513,2025-05-05,C0171,Louis Vincent,E-commerce,30 jours,EUR
+SO000514,2025-05-15,C0045,Salome Diallo,E-commerce,30 jours,EUR
+SO000515,2025-05-03,C0020,Laura Diallo,Retail,CB - comptant,EUR
+SO000516,2025-05-02,C0003,Atlas Trading Holding,Retail,30 jours,EUR
+SO000517,2025-05-25,C0142,Ines Simon,Inside Sales,CB - comptant,EUR
+SO000518,2025-05-01,C0047,Smart Office Services,Retail,30 jours,EUR
+SO000519,2025-05-28,C0020,Laura Diallo,Retail,CB - comptant,EUR
+SO000520,2025-05-05,C0168,Riviera Supply Group,Inside Sales,CB - comptant,EUR
+SO000521,2025-05-22,C0004,Antoine Diallo,E-commerce,45 jours,EUR
+SO000522,2025-05-23,C0154,Noemie Vincent,Inside Sales,CB - comptant,EUR
+SO000523,2025-05-30,C0002,Prestige Home SAS,Retail,CB - comptant,EUR
+SO000524,2025-05-13,C0090,Bati Plus Group,E-commerce,CB - comptant,EUR
+SO000525,2025-05-25,C0118,Brahim Thomas,E-commerce,30 jours,EUR
+SO000526,2025-05-22,C0017, Blue Horizon Holding,E-commerce,CB - COMPTANT, Eur 
+SO000527,2025-05-11,C0045,Salome Diallo,E-commerce,30 jours,EUR
+SO000528,2025-05-21,C0072,Camille Bertrand,E-commerce,30 jours,EUR
+SO000529,2025-05-03,C0101,Camille Petit,Retail,30 jours,EUR
+SO000530,2025-05-16,C0136,Thomas Martin,Retail,30 jours,EUR
+SO000531,2025-05-23,C0106,Laura Bertrand,E-commerce,30 jours,EUR
+SO000532,2025-05-16,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,EUR
+SO000533,2025-05-20,C0122,Kora Logistics SARL,inside sales,45 jours,EUR
+SO000534,2025-05-04,C0014,Cap Sud Equipement SAS,E-commerce,CB - comptant,EUR
+SO000535,2025-05-18,C0118,Brahim Thomas,Retail,30 jours,EUR
+SO000536,2025-05-09,C0061,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO000537,2025-05-12,C0145,Elite Habitat SARL,E-commerce,N/A,EUR
+SO000538,N/A,C0066 ,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO000539,2025-05-26,C0034,Atlas Trading Holding,Retail,CB - comptant,EUR
+SO000540,2025-05-19,C0087,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000541,2025-05-06,C0111,Lea Lambert,E-commerce,45 jours,EUR
+SO000542,2025-05-18,C0145,Elite Habitat SARL,Retail,45 jours,EUR
+SO000543 ,2025-05-02,C0026, Atlas Trading Group,E-commerce,CB - comptant,EURO
+SO000544,2025-05-17,C0153,Camille Richard,Retail,45 jours,EUR
+SO000545,2025-05-06,C0046,Smart Office Group,E-commerce,CB - comptant,EUR
+SO000546,2025-05-31,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO000547,2025-05-01,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+SO000548,2025-05-01,C0169,Nicolas Laurent,E-commerce,30 jours,EUR
+SO000549,2025-05-16,C0088,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO000550,2025-05-18,C0029,Chloe Legrand,E-commerce,CB - comptant,EUR
+SO000551,2025-05-23,C0043,Alpha Partners SAS,Retail,CB - comptant,EUR
+SO000552,2025-05-29,C0035,Alpha Partners Group,inside sales,CB - comptant,EUR
+SO000553,2025-05-07,C0044,Paul Leroy,E-commerce,30 jours,EUR
+SO000554,2025-05-02,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO000555,2025-05-17,C0113,Clara Roux,E-commerce,30 jours,EUR
+SO000556,2025-05-17,C0030,Mediterra Shop Holding,Inside Sales,30 jours,EUR
+SO000557,2025-05-05,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO000558,2025-05-23,C0080,Urban Motion Services,E-commerce,CB - comptant,EUR
+SO000559,2025-05-24,C0176,Emma Bernard,Retail,CB - comptant,EUR
+SO000560,2025-05-09,C0025,Thomas Dubois,E-commerce,30 jours,EUR
+SO000561,2025-05-10,C0066,Mehdi Moreau,Inside Sales,CB - comptant,EUR
+SO000562,2025-05-22,C0049,Dylan Traore,Retail,CB - comptant,EUR
+SO000563,2025-05-24,C0147,Sarah Petit,E-commerce,30 jours,EUR
+SO000564,2025-06-19,C0045,Salome Diallo,Retail,30 jours,EUR
+SO000565,2025-06-20,C0040,Urban Motion SARL,Retail,CB - comptant,EUR
+SO000566,2025-06-23,C0117,Camille Garnier,E-commerce,45 jours,EUR
+SO000567,2025-06-24,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO000568,2025-06-29,C0034,Atlas Trading Holding,E-commerce,CB - comptant,EUR
+SO000569,2025-06-27,C0063,Paul Konate,Inside Sales,30 jours,EUR
+SO000570,2025-06-14,C0119,Soleil Distribution Group,E-commerce,45 jours,EUR
+SO000571,2025-06-06,C0154,Noemie Vincent,Retail,CB - comptant,EUR
+SO000572,2025-06-18,C0102,Morgane Andre,E-commerce,30 jours,EUR
+SO000573,2025-06-26,C0053,Cap Sud Equipement SAS,E Commerce,45 jours,EUR
+SO000574,2025-06-23,C0099,Noemie Lefevre,E-commerce,30 jours,EUR
+SO000575,2025-06-18,C0117,Camille Garnier,E-commerce,45 jours,EUR
+SO000576,2025-06-02,C0126,Ahmed Bertrand,Inside Sales,45 jours,EUR
+SO000577,2025-06-10,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO000578,2025-06-14,C0078,Topline Solutions SARL,Inside Sales,CB - comptant,EUR
+SO000579,2025-06-28,C0100,Cap Sud Equipement Holding,E-commerce,CB - comptant,EUR
+ SO000580,2025-06-21,C0006,azur concept services,E-commerce,CB - comptant,EUR
+so000581,06-02-2025,C0010,Elite Habitat Services,Retail,CB - comptant,EUR
+SO000582,2025-06-16,C0069,Florian Girard,E-commerce,30 jours,EUR
+SO000583,2025-06-05,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,EUR
+SO000584,2025-06-20,C0131,Urban Motion SAS,Retail,CB - comptant,EUR
+SO000585,2025-06-26,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO000586,2025-06-19,C0156,Julie Roux,E-commerce,30 jours,eur
+SO000587,2025-06-26,C0072,Camille Bertrand,Inside Sales,30 jours,EUR
+SO000588,2025-06-10,C0032,Chloe Robert,Retail,30 jours,EUR
+SO000589,2025-06-07,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO000590,2025-06-03,C0163,Nova Retail SAS,Retail,CB - comptant,EUR
+SO000591,2025-06-26,C0004,Antoine Diallo,Retail,45 jours,EUR
+SO000592,2025-06-16,C0123,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000593,2025-06-16,C0027,Bati Plus Group,Retail,30 jours,EUR
+SO000594,2025-06-06,C0137,Jade Lopez,Inside Sales,CB - comptant,EURO
+SO000595,2025-06-19,C0053,Cap Sud Equipement SAS,Retail,45 jours,EUR
+SO000596,2025-06-03,C0143,Brahim Morel,Retail,30 jours,EUR
+SO000597,2025-06-06,C0077,Karim Roux,Inside Sales,CB - comptant,EUR
+SO000598,2025-06-17,C0135,Yassine Legrand,Inside Sales,CB - comptant,EUR
+SO000599,2025-06-05,C0052,Riviera Supply SAS,Inside Sales,30 jours,EUR
+SO000600,2025-06-08,C0150,Fatou Garcia,E-commerce,CB - comptant,EUR
+SO000601,2025-06-29,C0146,Antoine Leroy,E-commerce,CB - comptant,EUR
+SO000602,2025-06-18,C0124,Florian Robert,Inside Sales,30 jours,EUR
+SO000603,26/06/2025,C0138,Bati Plus SARL,retail,CB - comptant,EUR
+SO000604,2025-06-24,C0053,Cap Sud Equipement SAS,E-commerce,45 jours,EUR
+SO000605,2025-06-20,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO000606,2025-06-30,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO000607,2025-06-01,C0121,Riviera Supply SARL,E-commerce,45 jours,EUR
+SO000608,2025-06-24,C0140,Julie Lefevre,E-commerce,30 jours,EUR
+SO000609,2025-06-26,C0020,Laura Diallo,Inside Sales,CB - comptant,EUR
+SO000610,2025-06-05,C0164,Urban Motion SAS,Retail,45 jours,EUR
+SO000611,2025-06-05,C0054,Thomas Dupont,Retail,30 jours,EUR
+ SO000612,26-06-2025,C0052,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO000613,2025-06-02,C0058,Elite Habitat Holding,Retail,30 jours,EUR
+SO000614,2025-06-20,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO000615,2025-06-28,C0011,Atlas Trading SAS,E-commerce,CB - comptant,EUR
+SO000616,2025-06-12,C0073,Bati Plus Holding,Inside Sales,CB - comptant,EUR
+SO000617,06-10-2025,C0071,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000618,2025-06-22,C0177,Mehdi Lambert,E-commerce,CB - comptant,EUR
+SO000619,2025-06-10,C0132,Soleil Distribution Services,E-commerce,30 jours,EUR
+SO000620,2025-06-10,C0138,Bati Plus SARL,Inside Sales,CB - comptant, Eur 
+SO000621,02/06/2025,C0141,Atlas Trading Services,Retail,45 jours,EUR
+SO000622,2025-06-25,C0161,Noemie Leroy,E-commerce,CB - comptant,EUR
+SO000623,2025-06-28,C0018,Aurelien Lefevre,Inside Sales,30 jours,EUR
+SO000624,2025-06-17,C0160,Mediterra Shop Services,Inside Sales,45 jours,EUR
+SO000625,2025-06-27,C0011,Atlas Trading SAS,Retail,CB - comptant,EUR
+so000626,2025-06-08,C0108,CAMILLE DIALLO,E-commerce,45 jours,EUR
+SO000627,2025-06-15,C0092,Atlas Trading SARL,Inside Sales,CB - comptant,EUR
+SO000628,2025-06-17,C0138,Bati Plus SARL,Inside Sales,CB - comptant,EUR
+SO000629,2025-06-18,C0003,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO000630,2025-06-13,C0144,Kora Logistics SARL,E-commerce,30 jours,EUR
+SO000631,2025-06-10,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO000632,2025-06-07,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO000633,2025-06-20,C0112,Karim Dupont,Inside Sales,CB - comptant,EUR
+SO000634,2025-06-24,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO000635,2025-06-07,C0111,Lea Lambert,Retail,45 jours,EUR
+SO000636,2025-06-01,C0123,Riviera Supply Group,Retail,CB - comptant,EUR
+  SO000637  ,2025-06-12,C0158,Sarah Robert,Inside Sales,30 jours,EUR
+SO000638,2025-06-23,C0111,Lea Lambert,Retail,45 jours,EUR
+SO000639,2025-06-02,C0105,Noemie Laurent,Retail,45 jours,EUR
+SO000640,2025-06-06,C0138,Bati Plus SARL,Inside Sales,CB - comptant,EUR
+SO000641,2025-06-05,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO000642,2025-06-23,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO000643,2025-06-13,C0158,SARAH ROBERT,Retail,30 jours,EUR
+SO000644,2025-06-30,C0026,Atlas Trading Group,retail,CB - comptant,EUR
+SO000645,2025-06-17,C0113,Clara Roux,E-commerce,30 jours,EUR
+SO000646,2025-06-28,C0178,Prestige Home Holding,E-commerce,45 jours,EUR
+SO000647,2025-06-18,C0103,Louis Michel,Retail,30 jours,EUR
+SO000648,2025-06-02,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+So000649,2025-06-24,c0090,Bati Plus Group,E-commerce,CB - comptant,eur
+SO000650,2025-06-06,C0098,Antoine Petit,Inside Sales,45 jours,EUR
+SO000651,2025-06-09,C0071,Optima Conseil Group,Inside Sales,45 jours,EUR
+SO000652,2025-06-26,C0180,Dylan Lambert,E-commerce,CB - comptant,EUR
+SO000653,2025-06-03,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO000654,2025-06-07,C0128,Jade Richard ,E-commerce,CB - comptant,EUR
+SO000655,2025-06-21,C0112,karim dupont,Inside Sales,CB - comptant,EUR
+ SO000656,25-06-2025,C0171,Louis  Vincent,E-commerce,30 jours,EUR
+SO000657,2025-06-13,C0047,Smart Office Services,E-commerce,30 jours,EUR
+SO000658,2025-06-03,C0050,Nova Retail Group,Inside Sales,30 jours,EUR
+SO000659,2025-06-11,C0046,Smart Office Group,Inside Sales,CB - comptant,EUR
+SO000660,2025-06-11, C0158,Sarah Robert,Retail,30 jours,EUR
+SO000661,2025-06-18,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,EUR
+SO000662,2025-06-27,C0084,Louis David,Retail,45 jours,EUR
+SO000663,2025-06-18,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO000664,2025-06-12,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO000665,2025-06-13,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000666,2025-06-26,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+so000667,2025-06-29,C0176,Emma Bernard,Retail ,CB - comptant,EUR
+SO000668,2025-06-20,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO000669,2025-06-14,C0157,Noemie Bamba,E-commerce,CB - comptant,EUR
+SO000670,2025-06-06,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO000671,2025-06-05,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO000672,2025-06-22,C0015,Chloe Moreau,E-commerce,45 jours,EUR
+SO000673,2025-06-27,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO000674,11-06-2025,C0043,Alpha Partners SAS,Inside  Sales,CB - comptant,EUR
+SO000675,2025-06-07,C0048,Hugo David,E-commerce,45 jours,EUR
+SO000676,2025-06-08,C0089,Thomas Thomas,Retail,45 jours,EUR
+SO000677,2025-06-10,C0059,Soleil Distribution Group,Retail,30 jours,EUR
+SO000678,2025-06-06,C0003,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO000679,2025-06-11,C0149,Ines Chevalier,Retail,30 jours,EUR
+SO000680,2025-06-21,C0002,Prestige Home SAS,Inside Sales,CB - comptant,EUR
+SO000681,2025-06-29,C0166,Salome Bonnet,Retail,30 jours,EUR
+SO000682,2025-06-01,C0125,Louis Lambert,E-commerce,30 jours,EUR
+SO000683,2025-06-10,C0145,Elite Habitat SARL,Inside Sales,45 jours,eur
+SO000684,2025-06-16,C0113,Clara Roux,Retail,30 JOURS,EUR
+SO000685,2025-06-03,C0170,Fatou Bonnet,Inside Sales,45 jours,EUR
+SO000686,2025-06-27,C0108,Camille Diallo,Inside Sales,45 jours,EUR
+SO000687,2025-06-09,C0034,Atlas Trading Holding,E-commerce,CB - comptant,EUR
+SO000688,2025-06-01,C0077,Karim Roux,E-commerce,CB - comptant,EUR
+SO000689,2025-06-04,C0100,Cap Sud Equipement Holding,Inside Sales,CB - comptant,EUR
+SO000690,2025-06-26,C0014,Cap Sud Equipement SAS,E-commerce,CB - comptant,EUR
+SO000691,2025-06-02,C0129,Smart Office Holding,E-commerce,45 jours,EUR
+SO000692,2025-06-19,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO000693,2025-06-29,C0044,Paul Leroy,E-commerce,30 jours,EUR
+SO000694,2025-06-11,C0176,Emma Bernard,Inside Sales,CB - comptant,EUR
+SO000695,2025-06-30,C0178,Prestige Home Holding,E-commerce,45 jours,EUR
+SO000696,2025-06-15,C0130,Elodie Girard,E-commerce,CB - comptant,EUR
+SO000697,2025-06-19,C0173,Vision Commerce Holding,Retail,45 jours,EUR
+SO000698,2025-06-26,C0082,Mediterra Shop Holding,Inside Sales,CB - comptant,EUR
+SO000699,2025-07-05,C0174,Urban Motion Holding,Retail,45 jours,EUR
+SO000700,2025-07-12,C0125,Louis Lambert,E-commerce,30 jours,EUR
+SO000701,2025-07-25,C0155,Azur Concept SARL,E-commerce,30 jours,EUR
+SO000702,2025-07-12,C0003,Atlas Trading Holding,Retail,30 jours,EUR
+SO000703,2025-07-06,C0146,Antoine Leroy,Retail,CB - comptant,EUR
+SO000704,2025-07-26,C0166,Salome Bonnet,E-commerce,30 jours,eur
+SO000705,2025-07-11,C0089,Thomas Thomas,E-commerce,45 jours,EUR
+SO000706,2025-07-08,C0061,Riviera Supply SAS,Retail,30 jours,EUR
+SO000707,2025-07-26,C0045,Salome Diallo,Retail,30 jours,EUR
+SO000708,2025-07-19,C0052,Riviera Supply SAS,NA,30 jours,EUR
+SO000709,2025-07-22,C0001,Sarah Bernard,Inside Sales,30 jours,EUR
+SO000710,2025-07-30,C0122,Kora Logistics SARL,E-commerce,45 jours,EUR
+SO000711,2025-07-17,C0096,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO000712,2025-07-12,C0079,Lea Diallo,Retail,30 jours,EUR
+SO000713,2025-07-09,C0087,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000714,2025-07-23,C0107,Benoit Bamba,Retail,45 jours,EUR
+SO000715,2025-07-01,C0093,Vision Commerce SAS,E-commerce,CB - comptant,EUR
+SO000716,2025-07-16,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO000717,2025-07-16, C0130,Elodie Girard,E-commerce,CB - comptant,EUR
+SO000718,2025-07-19,C0052,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO000719,2025-07-06,C0038,Emma Dubois,E-commerce,CB - comptant,EUR
+SO000720,2025-07-12,C0153,Camille Richard,Inside Sales,45 jours,EUR
+SO000721,2025-07-30,C0090,Bati Plus Group,E-commerce,CB - comptant,EUR
+SO000722 ,2025-07-02,C0092,Atlas Trading SARL,retail,CB - comptant,EUR
+SO000723,2025-07-06,C0133,Prestige Home SARL,Retail,CB - comptant,EUR
+SO000724,2025-07-01,C0044,Paul Leroy,E-commerce,30 jours,EUR
+SO000725,NA,C0068,Kora Logistics SARL,e-commerce,30 jours,EUR
+SO000726,2025-07-01, C0134,Delta Market Group,Retail,  30 jours  ,EUR
+SO000727,2025-07-10,C0121,Riviera Supply SARL,Inside Sales,45 jours,EUR
+SO000728,2025-07-27,C0148,Salome Moreau,Inside Sales,CB - comptant,EUR
+SO000729,2025-07-24,C0067,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000730,2025-07-14,C0161,Noemie Leroy,Retail,CB - comptant,EUR
+SO000731,2025-07-07,C0020,Laura Diallo,Retail,CB - comptant,EUR
+SO000732,2025-07-01,C0080,Urban Motion Services,Retail,CB - comptant,EUR
+SO000733,2025-07-20,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO000734,2025-07-29,C0062,Azur Concept Services,E-commerce,30 jours,EUR
+SO000735,2025-07-12,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000736,2025-07-01,C0120,Romain Konate,Retail,CB - comptant,EUR
+SO000737 ,,C0139,Lea Konate,E-commerce,CB - comptant,EUR
+SO000738,2025-07-16,C0098,Antoine Petit,Inside Sales,45 jours,EUR
+SO000739,2025-07-19,C0096,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO000740,2025-07-04,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO000741,2025-07-11,C0025,Thomas Dubois,E-commerce,30 jours,EUR
+SO000742,2025-07-26,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO000743,2025-07-23,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO000744,2025-07-12,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000745,2025-07-11,C0070,Nicolas Durand,E-commerce,45 jours,EUR
+SO000746,2025-07-25,C0099,NOEMIE LEFEVRE ,E-commerce, 30 jours,EUR
+SO000747,2025-07-31,C0038,Emma Dubois,Inside Sales,CB - comptant,EUR
+So000748,2025-07-15,C0152,Vision Commerce Group,E Commerce,30  jours,EUR
+SO000749,2025-07-14,C0118,Brahim Thomas,E-commerce,30 jours,EUR
+SO000750,2025-07-08,C0020,Laura Diallo,E-commerce,CB - comptant,EUR
+SO000751,2025-07-11,C0101,Camille Petit,Retail,30 jours,EUR
+SO000752,2025-07-20,C0027,Bati Plus Group,Inside Sales,30 jours,EUR
+SO000753,2025-07-22,C0177,Mehdi Lambert,Retail,CB - comptant,EUR
+SO000754,2025-07-08,C0082,Mediterra Shop Holding,Retail,CB - comptant,EUR
+SO000755,2025-07-07,C0088,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000756,2025-07-12,C0024,Smart Office Holding,Retail,CB - comptant,EUR
+SO000757,2025-07-26,C0131,Urban Motion SAS,E-commerce,CB - comptant,EUR
+SO000758,2025-07-07,C0012,Aicha Vincent,E-commerce,30 jours,EUR
+SO000759,2025-07-19,C0031,Hugo Lefevre,E-commerce,30 jours,EUR
+SO000760,2025-07-31,C0076,Julie Diop,Retail,CB - comptant,EUR
+SO000761,2025-07-02,C0007,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO000762,2025-07-02,C0024,Smart Office Holding,Retail,CB - comptant,EUR
+SO000763,2025-07-06,C0149,Ines Chevalier,Retail,30 jours,EUR
+SO000764,2025-07-08,C0033,Riviera Supply Holding,,30 jours,EUR
+SO000765,2025-07-22,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO000766,2025-07-11,C0030,Mediterra Shop Holding,E-commerce,30 jours,EUR
+SO000767,2025-07-27,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,EUR
+SO000768,20/07/2025,C0141,Atlas Trading Services,E-commerce,45 JOURS,EUR
+SO000769,2025-07-21,C0105,Noemie Laurent,E-commerce,45 jours,EUR
+SO000770,2025-07-14,C0013,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000771,2025-07-08,C0133,Prestige Home SARL,E-commerce,CB - comptant,EUR
+SO000772,2025-07-11,C0095,Ahmed Lopez,E Commerce,CB - comptant,EUR
+SO000773,2025-07-29,C0112,Karim Dupont,E-commerce,CB - COMPTANT,EUR
+SO000774,2025-07-16,C0051,Delta Market Holding,Inside Sales,CB - comptant,EUR
+SO000775,2025-07-18,C0103,Louis Michel,Inside Sales,30 jours,eur
+SO000776,2025-07-09,C0119,Soleil Distribution Group,Inside Sales,45 jours,EUR
+SO000777,2025-07-28,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO000778,2025-07-13,C0175,Aurelien Morel,Inside Sales,30 jours,EUR
+SO000779,2025-07-17,C0083,Elodie Martinez,E-commerce,30 jours,EUR
+SO000780,2025-07-27,C0055,Florian Legrand,E-commerce,CB - comptant,EUR
+SO000781,2025-07-31,C0132,Soleil Distribution Services,E-commerce,30 jours,EUR
+SO000782,2025-07-25,C0065,Yassine Konate,Retail,CB - comptant,EUR
+SO000783,2025-07-06,C0033,Riviera Supply Holding,E-commerce,30 jours,EUR
+SO000784,2025-07-22,C0043,Alpha Partners SAS,Inside Sales,CB - comptant,EUR
+SO000785,2025-07-22,C0154,Noemie Vincent,E-commerce,CB - comptant,EUR
+SO000786,2025-07-22,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO000787,2025-07-22,C0075,Elite Habitat SAS,Retail,CB - comptant,EUR
+SO000788,2025-07-20,C0051,Delta Market Holding,Inside Sales,CB - comptant,EUR
+SO000789,2025-07-18,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000790,2025-07-10,C0050,Nova Retail Group,Retail,30 jours,EUR
+SO000791,2025-07-19,C0151,Prestige  Home  Services,E-commerce,CB - comptant,EUR
+SO000792,2025-07-17,C0167,Maxime Bertrand,Retail,30 jours,EUR
+SO000793,2025-07-05,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO000794,2025-07-01,C0009,Salome Michel,Inside Sales,30 jours,EUR
+SO000795,2025-07-23,C0021,Blue Horizon SARL,InsideSales,CB - comptant, Eur 
+SO000796,2025-07-29,C0167,Maxime Bertrand,Inside Sales,30 jours,EUR
+SO000797,2025-07-05,C0064,Kora Logistics Group,Retail,30 jours,EUR
+SO000798,N/A,C0142,Ines Simon,Inside Sales,CB - comptant,EUR
+SO000799,2025-07-28,C0139,Lea Konate,Retail,CB - comptant,EUR
+SO000800,2025-07-28,C0127,Topline Solutions SAS,E-commerce,45 jours,EUR
+SO000801,2025-07-14,C0119,Soleil Distribution Group,E-commerce,45 jours,EUR
+SO000802,2025-07-29,C0106,Laura Bertrand,E-commerce,30 jours,EUR
+SO000803,2025-07-25,C0090,Bati Plus Group,Retail,CB - comptant,EUR
+SO000804,2025-07-16,C0001,Sarah Bernard,Inside Sales,30 jours,EUR
+SO000805,2025-07-01,C0016,Fatou Petit,Retail,45 jours,EUR
+SO000806,2025-07-01,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO000807,2025-07-14,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO000808,2025-07-10,C0107,Benoit Bamba,E-commerce,45 jours,EUR
+SO000809,2025-07-25,C0077,Karim Roux,E-commerce,CB - comptant,EUR
+SO000810,2025-07-15,C0101,Camille Petit,Retail,30 jours,EUR
+SO000811,2025-07-28,C0138,Bati Plus SARL,E-commerce,CB - comptant,EUR
+SO000812,2025-07-26,C0019,Paul Dubois,E-commerce,30 jours,EUR
+SO000813,2025-07-03,C0163,Nova Retail SAS,E-commerce,CB - comptant,eur
+SO000814,2025-07-18,C0065,Yassine Konate,E-commerce,CB - comptant,EUR
+SO000815,2025-07-05,C0085,Soleil Distribution SAS,Retail,CB - comptant,EUR
+SO000816,2025-07-21,C0016,Fatou Petit,E-commerce,45 jours,EUR
+SO000817,2025-07-28,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO000818,2025-07-06,C0169,Nicolas Laurent,Inside Sales,30 jours,EUR
+SO000819,2025-07-03,C0107,Benoit Bamba,Inside Sales,45 jours,EUR
+SO000820,2025-07-02,C0067,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000821,2025-07-04,C0110,Kevin Traore,Inside Sales,30 jours,EUR
+SO000822,2025-07-09,C0054,Thomas Dupont,E-commerce,30 jours,EUR
+SO000823,2025-07-07,C0115,Salome Traore,Retail,30 jours,EUR
+SO000824,2025-07-29,C0152,Vision Commerce Group,Inside Sales,30 jours,EUR
+SO000825,2025-07-24,C0074,Vision Commerce Group,Retail,30 jours,EUR
+SO000826,2025-07-03,C0103,Louis Michel,Inside Sales,30 jours,EUR
+SO000827,2025-07-09,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO000828,2025-07-31,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO000829,2025-07-30,C0019,Paul Dubois,Inside Sales,30 jours,EUR
+SO000830,2025-07-28,C0023,Topline Solutions SAS,Retail,CB - comptant,EUR
+SO000831,2025-07-29,C0049,Dylan Traore,Inside Sales,CB - comptant,EUR
+SO000832,2025-07-04,C0131,Urban Motion SAS,Inside Sales,CB - comptant,EUR
+SO000833,2025-07-01,C0016,Fatou Petit,E-commerce,45 jours,EUR
+SO000834 ,17/07/2025,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000835,2025-07-17,C0002,Prestige Home SAS,Inside Sales,CB - comptant,EUR
+SO000836,2025-07-05,C0150,Fatou Garcia,E-commerce,CB - comptant,EUR
+SO000837,2025-07-06,C0098,Antoine Petit,Inside Sales,45 jours,EUR
+SO000838,2025-07-13,C0032,Chloe Robert,Retail,30 jours,EUR
+SO000839,2025-07-21,C0157,Noemie Bamba,E-commerce,CB - comptant,EURO
+SO000840,2025-07-10,C0061,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO000841,2025-08-19,C0067,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000842,2025-08-11,C0175,Aurelien Morel,E-commerce,30 jours,EUR
+SO000843,2025-08-04,C0173,Vision Commerce Holding,Retail,45 jours,EUR
+SO000844,2025-08-13,C0158,Sarah Robert,Retail,30 jours,EUR
+SO000845,2025-08-22,C0151,Prestige Home Services,Retail,CB - comptant,EUR
+SO000846,2025-08-30,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO000847,2025-08-20,C0052,Riviera Supply SAS,Retail,30 jours,EUR
+SO000848,2025-08-18,C0050,Nova Retail Group,Retail,30 jours,EUR
+SO000849,2025-08-12,C0062,Azur Concept Services,Ecommerce,30  jours,EUR
+SO000850,2025-08-12,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000851,2025-08-30,C0047,Smart Office Services,Inside Sales,30 jours,EUR
+SO000852,2025-08-29,C0071,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000853,2025-08-28,C0073,Bati Plus Holding,E-commerce,CB - comptant,EUR
+SO000854,2025-08-30,C0123,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000855,2025-08-01,C0009,Salome Michel,Inside Sales,30 jours,EUR
+SO000856,2025-08-17,C0067,Riviera Supply Group,Inside Sales,CB - comptant,EUR
+SO000857,2025-08-21,C0033,Riviera Supply Holding,Retail,30 jours,EUR
+SO000858,2025-08-07,C0074,Vision Commerce Group,E-commerce,30 jours,EUR
+SO000859,2025-08-11,C0024,Smart Office Holding,E-commerce,CB - comptant,EUR
+SO000860,2025-08-01,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO000861,2025-08-08,  c0071  ,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000862,2025-08-18,C0022,Elite Habitat SARL,Retail,30 jours,EUR
+SO000863,2025-08-15,C0060,Optima Conseil Group,Inside Sales,45 jours,EUR
+SO000864,2025-08-09,C0095, ahmed lopez,Retail,CB - comptant,EUR
+SO000865,2025-08-04,C0067,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO000866,2025-08-09,C0134,Delta Market Group,E-commerce,30 jours,EUR
+SO000867,2025-08-12,C0157,Noemie Bamba,Retail,CB - comptant,EUR
+SO000868,2025-08-30,C0068,Kora Logistics SARL,Inside Sales,30 jours,EUR
+SO000869,2025-08-27,C0024,Smart Office Holding,Inside Sales,CB - comptant,EUR
+SO000870,2025-08-01,C0007,Urban Motion SAS,E-commerce,45 jours,EUR
+SO000871,2025-08-23,C0137,Jade Lopez,E-commerce,CB - comptant,EUR
+SO000872,2025-08-28,C0048,Hugo David,Retail,45 jours,EUR
+SO000873,2025-08-01,C0095,Ahmed Lopez,Retail,CB - comptant,EUR
+SO000874,2025-08-28,C0003,Atlas Trading Holding,Retail,30 jours,EUR
+SO000875,2025-08-09,C0144,Kora Logistics SARL,Retail,30 jours,EUR
+SO000876,2025-08-29,C0125,Louis Lambert,Retail,30 jours,EUR
+SO000877,2025-08-23,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO000878,2025-08-29,C0065,Yassine Konate,Retail,CB - comptant,EUR
+SO000879,2025-08-05,C0085,Soleil Distribution SAS,E-commerce,CB - comptant,EUR
+SO000880,2025-08-13,C0036,Chloe Bamba,Retail,CB - comptant,EUR
+SO000881,2025-08-18,C0174,Urban Motion Holding,Inside Sales,45 jours,EURO
+SO000882,2025-08-11,C0102,Morgane Andre,E-commerce,30 jours,EUR
+SO000883,2025-08-30,C0129,Smart Office Holding,E-commerce,45 jours,EUR
+SO000884,2025-08-02,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO000885,2025-08-02,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO000886,2025-08-24,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO000887,,C0073,Bati Plus Holding,Retail,CB - comptant, Eur 
+SO000888,2025-08-12,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO000889,2025-08-10,C0153,Camille Richard,Inside Sales,45 jours,EUR
+SO000890,2025-08-03,C0147,Sarah Petit,Retail,30 jours,EUR
+SO000891,2025-08-19,C0054,Thomas Dupont,Inside Sales,30 jours,EUR
+SO000892,2025-08-07,C0108,Camille Diallo,Inside Sales,45 jours,EUR
+SO000893,2025-08-27,C0006,,Inside Sales,CB - comptant,EURO
+SO000894,2025-08-29,C0011,Atlas Trading SAS,Retail,CB - comptant,EUR
+SO000895,2025-08-07,  C0031  ,Hugo Lefevre,E-commerce,30 jours,EURO
+SO000896,2025-08-16,C0031,Hugo Lefevre,Retail,30 jours,EUR
+SO000897,2025-08-15,C0087,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO000898,2025-08-11,C0059,SOLEIL DISTRIBUTION GROUP,E-commerce,30 jours,EUR
+SO000899,2025-08-09,C0178,Prestige Home Holding,E-commerce,45 jours,EUR
+SO000900,2025-08-15,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO000901,2025-08-26,C0098,Antoine Petit,E-commerce,45 jours,EUR
+SO000902,2025-08-08,C0158,Sarah Robert,Inside Sales,30 jours,EUR
+SO000903,2025-08-17,C0008,Dylan Chevalier,Retail,30 jours,EUR
+SO000904,2025-08-04,C0038,Emma Dubois,Inside Sales,CB - comptant,EUR
+SO000905,2025-08-04,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO000906,2025-08-12,C0151,Prestige Home Services,Retail,CB - comptant,EUR
+SO000907,2025-08-29,C0051,Delta Market Holding,E-commerce,CB - comptant,EUR
+SO000908,2025-08-29,C0145,Elite Habitat SARL,Inside Sales,45 jours,EUR
+SO000909,2025-08-09,C0036,Chloe Bamba,Retail,CB - comptant,EUR
+SO000910,2025-08-04,C0153,Camille Richard,Inside Sales,45 jours,EUR
+SO000911,2025-08-02,C0086,Smart Office Group,Retail,30 jours,EUR
+SO000912,2025-08-03,C0061,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO000913,2025-08-18,C0024,Smart Office Holding,Retail,CB - comptant,EUR
+SO000914,2025-08-30,C0005,Aicha Francois,Retail,30 jours,EUR
+SO000915,2025-08-21,C0014,Cap Sud Equipement SAS,Inside Sales,CB - comptant,EUR
+SO000916,2025-08-17,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO000917,2025-08-03,C0166,Salome Bonnet,E-commerce,30 jours,EUR
+SO000918,2025-08-01,C0026,Atlas Trading Group,E Commerce,NA,EUR
+SO000919,2025-08-10,C0044,Paul Leroy,E-commerce,30 jours,EUR
+SO000920,2025-08-15,C0057,Hexa Services SARL,Retail,30 jours,EUR
+SO000921,2025-08-21,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO000922,01-08-2025,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO000923,2025-08-22,C0054,Thomas Dupont,Retail,30 jours,EUR
+SO000924,2025-08-21,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO000925,2025-08-28,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO000926,2025-08-25,C0036,Chloe Bamba,E-commerce,CB - comptant,EUR
+SO000927,2025-08-07,C0170,Fatou  Bonnet,E-commerce,45  jours,EUR
+SO000928,2025-08-13,C0150,Fatou Garcia,Retail,CB - comptant,EUR
+SO000929,2025-08-02,C0073,Bati Plus Holding,E-commerce,CB - comptant,EUR
+SO000930,2025-08-05,C0084,Louis David,Retail,45 jours,EUR
+SO000931,2025-08-01,C0099,Noemie Lefevre,Inside Sales,30 jours,EUR
+SO000932,2025-08-01,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO000933,2025-08-18,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO000934,2025-08-26,C0089,Thomas Thomas,Retail,45 jours,EUR
+SO000935,2025-08-22,C0054,THOMAS DUPONT ,E-commerce,30 jours,eur
+SO000936,08-05-2025,C0002,Prestige Home SAS,e-commerce,CB - comptant,EUR
+SO000937,2025-08-04,C0031,Hugo Lefevre,Retail,30 jours,EUR
+SO000938,2025-08-17,C0127,Topline Solutions SAS,E-commerce,45 jours,EUR
+SO000939,2025-08-24,C0069,Florian Girard,Retail,30 jours,EUR
+SO000940,2025-08-24,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO000941,2025-08-30,C0031,  Hugo Lefevre  ,Retail, 30 jours,EUR
+SO000942,2025-08-17,C0180,Dylan Lambert,Retail,CB - comptant,EUR
+SO000943,2025-08-06,C0154,Noemie Vincent,Inside Sales,CB - comptant,EUR
+SO000944,2025-08-05,C0154,Noemie Vincent,Retail,CB - comptant,EUR
+SO000945,2025-08-25,C0160,Mediterra Shop Services,E-commerce,45 jours,EUR
+SO000946,2025-08-31,C0174,  Urban Motion Holding  ,Inside Sales,45 jours,EUR
+SO000947,2025-08-17,C0097,Cap Sud Equipement SARL,Inside Sales,CB - comptant,EUR
+SO000948,2025-08-01,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO000949,2025-08-27,C0030,Mediterra Shop Holding,E-commerce,30 jours,EUR
+SO000950,2025-08-07,C0102,Morgane Andre,E-commerce,30 jours,EUR
+SO000951,2025-08-09,C0060,Optima Conseil Group,E-commerce,45 jours,EUR
+SO000952,2025-08-17,C0034,Atlas Trading Holding,Retail,CB - comptant,EUR
+SO000953,21-08-2025,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO000954,2025-08-05,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO000955,2025-08-15,C0016,Fatou Petit,Retail,45 jours,EUR
+SO000956,,C0137,Jade Lopez,Retail,CB - comptant,EUR
+SO000957,2025-08-17,C0056,Paul Bamba,E-commerce,45 jours,EUR
+SO000958,2025-08-13,C0040,Urban Motion SARL,Inside Sales,CB - comptant,EUR
+SO000959,2025-08-23,C0021,Blue Horizon SARL,Retail,CB - comptant,EUR
+ SO000960,2025-08-23,C0113,Clara Roux,E-commerce,30 jours,EUR
+SO000961,2025-08-02,C0023,Topline Solutions SAS,Retail,CB - comptant,EUR
+SO000962,2025-08-16,C0058,Elite Habitat Holding,Inside Sales,30 jours,EUR
+SO000963,2025-08-28,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO000964,2025-08-24,C0115,Salome Traore,Inside Sales,30 jours,EUR
+SO000965,2025-08-06,C0157,Noemie Bamba,Retail,CB - comptant,EUR
+SO000966,2025-08-16,C0094,Brahim Leroy,E-commerce,30 jours,EUR
+SO000967,2025-08-18,C0162,Optima Conseil Services,Inside Sales,45 jours,EUR
+SO000968,2025-08-03,C0174,Urban Motion Holding,Retail,45 jours,EUR
+SO000969,2025-08-06,C0169,Nicolas Laurent,E-commerce,30 jours,EUR
+SO000970,2025-08-14,C0124,Florian Robert,Retail,30 jours,EUR
+SO000971,2025-08-10,C0077,Karim Roux,Inside Sales,CB - comptant,EUR
+SO000972,2025-08-23,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO000973,2025-08-18,C0143,Brahim Morel,Inside Sales,30 jours,EUR
+SO000974,2025-08-25,C0138,bati plus sarl,E-commerce,CB - comptant,EURO
+SO000975,2025-08-31,C0139,Lea Konate,Inside Sales,CB - comptant,EUR
+SO000976,2025-08-12,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO000977,2025-08-31,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO000978,2025-08-17,C0121,Riviera Supply SARL,Inside Sales,45 jours,EUR
+SO000979,2025-08-15,C0159,Maxime Diallo,Retail,45 jours,EUR
+SO000980,08-19-2025,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO000981,2025-08-23,C0023,Topline Solutions SAS,E-commerce,CB - comptant,EUR
+SO000982,2025-08-10,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO000983,2025-08-09,C0043,Alpha Partners SAS,Inside Sales,CB - comptant,EURO
+SO000984,2025-08-25,C0063,Paul Konate,E-commerce,30 jours,EUR
+SO000985,2025-08-18,C0082,Mediterra Shop Holding,Retail,CB - comptant,EUR
+SO000986,2025-08-13,C0100,Cap Sud Equipement Holding,Retail,CB - comptant,EUR
+SO000987,2025-08-23,C0016,Fatou Petit,Retail,45 jours,EUR
+SO000988,2025-08-15,C0096,Atlas Trading Group,Inside Sales,CB - comptant,EUR
+SO000989,2025-08-09,C0063,Paul Konate,E-commerce,30 jours,EUR
+SO000990,2025-08-22,C0106,Laura Bertrand,Inside Sales,30 jours,EUR
+SO000991,01-09-2025,C0012,Aicha Vincent,inside sales,30 jours,EUR
+SO000992,2025-09-16,C0019,Paul Dubois,Retail,30 jours,EUR
+SO000993,2025-09-12,C0006,Azur Concept Services,Inside Sales,CB - comptant,EUR
+SO000994,2025-09-15,C0113,Clara Roux,Inside Sales,30 jours,EUR
+SO000995,2025-09-24,C0176,Emma Bernard,Inside Sales,CB - comptant,EUR
+SO000996,2025-09-30,C0007,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO000997,2025-09-10,C0038,Emma Dubois,Retail,CB - comptant,EUR
+SO000998,2025-09-20,C0051,Delta Market Holding,Inside Sales,CB - comptant,EUR
+SO000999,2025-09-09,C0141,Atlas Trading Services,E-commerce,45 jours,EUR
+SO001000,2025-09-30,C0088,Atlas Trading Holding,Retail,30 jours,EUR
+SO001001,2025-09-20,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO001002,2025-09-04,C0059,Soleil Distribution Group,Retail,30 jours,EUR
+SO001003,2025-09-12,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001004,2025-09-14,C0065,Yassine Konate,Inside Sales,CB - comptant,EUR
+SO001005,2025-09-18,C0105,Noemie Laurent,E-commerce,45 jours,EUR
+SO001006,2025-09-15,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO001007,2025-09-25,C0127,Topline Solutions SAS,E-commerce,45 jours,EUR
+SO001008,2025-09-30,C0036,Chloe Bamba,Inside Sales,CB - comptant,EUR
+SO001009,2025-09-20,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO001010,2025-09-09,C0163,Nova Retail SAS,Retail,CB - comptant,EUR
+SO001011,2025-09-09,C0126,Ahmed Bertrand,E-commerce,45 jours,EUR
+SO001012,2025-09-22,C0139,Lea Konate,E-commerce,CB - comptant,EUR
+SO001013,2025-09-03,C0011,Atlas Trading SAS,E-commerce,CB - comptant,EUR
+SO001014,2025-09-28,C0108,Camille Diallo,Inside Sales,45 jours,EUR
+SO001015,2025-09-26,C0099,Noemie Lefevre,Inside  Sales,30 jours,EUR
+SO001016,2025-09-09,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO001017,2025-09-09,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001018,2025-09-19,C0042,Vision Commerce Services,Retail,CB - comptant,EUR
+SO001019,2025-09-05,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO001020,2025-09-24,C0148,Salome Moreau,E-commerce,CB - comptant,EUR
+SO001021,2025-09-16,C0145,Elite Habitat SARL,Inside Sales,45 jours,EUR
+SO001022,2025-09-16,C0160,Mediterra Shop Services,Inside Sales,45 jours,EUR
+SO001023,2025-09-07,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001024,2025-09-18,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO001025,2025-09-19,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO001026,2025-09-10,C0002,Prestige Home SAS,E-commerce,CB - comptant,EUR
+SO001027,2025-09-28,C0127,Topline Solutions SAS,E-commerce,45 jours,EUR
+SO001028,2025-09-24,C0057,Hexa Services SARL,E-commerce,30 jours,EUR
+SO001029,2025-09-05,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+  SO001030   ,2025-09-28,C0002,Prestige Home SAS,E-commerce,Cb - Comptant,EUR
+SO001031,2025-09-10,C0137,Jade Lopez,Inside Sales,CB - comptant,EUR
+SO001032,2025-09-25,C0085,Soleil Distribution SAS,Inside Sales,CB - comptant,EUR
+SO001033,2025-09-03,C0164,Urban Motion SAS,E-commerce,45 jours,EUR
+SO001034,2025-09-03,C0084,Louis David,Retail,45 jours,EUR
+SO001035,2025-09-30,C0015,Chloe Moreau,E-commerce,45 jours,EUR
+SO001036,2025-09-21,C0013,Riviera Supply Group,Retail,CB - comptant,EUR
+SO001037,2025-09-12,C0065,Yassine Konate,Retail,CB - comptant,EUR
+SO001038,2025-09-10,C0170,Fatou Bonnet,E-commerce,45 jours,EUR
+SO001039,2025-09-07,C0171,Louis Vincent,Retail,30 jours,EUR
+SO001040,2025-09-20,C0096,Atlas Trading Group,Inside Sales,CB - comptant,EUR
+SO001041,2025-09-02,C0037,Soleil Distribution SARL,Inside Sales,45 jours,EUR
+SO001042,2025-09-19,C0075,Elite Habitat SAS,Retail,CB - comptant,EUR
+SO001043,2025-09-23,C0158,Sarah Robert,Inside Sales,30 jours,EUR
+SO001044,2025-09-21,C0064,Kora Logistics Group,Retail,30 jours,EUR
+SO001045,2025-09-10,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO001046,2025-09-26,C0146,Antoine Leroy,E-commerce,CB - comptant,EUR
+SO001047,2025-09-16,C0075,Elite Habitat SAS,Retail,CB - comptant,EUR
+SO001048,2025-09-06,C0094,Brahim Leroy,E-commerce,30 jours,EUR
+SO001049,2025-09-25,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO001050,2025-09-28,C0138,Bati Plus SARL,Retail,CB - comptant,EUR
+SO001051,2025-09-15,C0170,Fatou Bonnet,Retail,45 jours,EUR
+SO001052,2025-09-08,C0175,Aurelien Morel,Retail,30 jours,EUR
+SO001053,2025-09-22,C0112,Karim Dupont,Retail,CB - comptant,EUR
+SO001054,2025-09-24,C0064,Kora Logistics Group,Retail,30 jours,EUR
+SO001055,2025-09-29,C0087,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO001056,2025-09-14,C0029,Chloe Legrand,Inside Sales,CB - comptant,EUR
+SO001057,2025-09-03,C0171,Louis Vincent,Retail,30 jours,EUR
+SO001058,2025-09-04,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO001059,2025-09-27,C0034,Atlas Trading Holding,E-commerce,CB - comptant,EUR
+SO001060,2025-09-29,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO001061,2025-09-07,C0100,Cap Sud Equipement Holding,E-commerce,CB - comptant,EUR
+SO001062,2025-09-25,C0149,Ines Chevalier,E-commerce,30 jours,EUR
+SO001063,2025-09-16,C0159,Maxime Diallo,E-commerce,45 jours,EURO
+SO001064,2025-09-30,C0085,Soleil Distribution SAS,Retail,CB - comptant,EUR
+SO001065,2025-09-09,C0140,Julie Lefevre,Inside Sales,30 jours,EUR
+SO001066,2025-09-08,C0027,Bati Plus Group,E-commerce,30 jours,EUR
+SO001067,2025-09-12,C0017,Blue Horizon Holding,E-commerce,CB - comptant,EUR
+SO001068,2025-09-29,C0027,Bati Plus Group,Retail,30 jours,EUR
+SO001069,2025-09-16,C0097,Cap Sud Equipement SARL,Inside Sales,CB - comptant,EUR
+SO001070,2025-09-10,C0034,Atlas Trading Holding,Retail,CB - comptant,EUR
+SO001071,2025-09-21,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO001072,2025-09-24,C0066,Mehdi Moreau,Retail,CB - comptant,EUR
+SO001073,2025-09-12,C0116,Mehdi Fournier,Inside Sales,CB - comptant,EUR
+SO001074,2025-09-12,C0031,Hugo Lefevre,E-commerce,30 jours,EUR
+SO001075,2025-09-09,C0110,Kevin Traore,Retail,30 jours,EUR
+SO001076,2025-09-09,C0073,Bati Plus Holding,E-commerce,CB - comptant,EUR
+SO001077,2025-09-21,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO001078,2025-09-04,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO001079,2025-09-06,C0046,Smart Office Group,Retail,CB - comptant,EUR
+SO001080,2025-09-17,C0156,Julie Roux,E-commerce,30 jours,EUR
+SO001081,08/09/2025,C0082,Mediterra Shop Holding,Retail,CB - comptant,EUR
+SO001082,2025-09-09,C0063,Paul Konate,E-commerce,30 jours,EUR
+SO001083,2025-09-06,C0025,Thomas Dubois,Retail ,30 jours,EUR
+SO001084,2025-09-28,C0092,Atlas Trading SARL,Inside Sales,CB - comptant,EUR
+SO001085,2025-09-26,C0146,Antoine Leroy,E-commerce,CB - comptant,EUR
+SO001086,2025-09-13,C0110,Kevin Traore,Inside Sales,30 jours,EUR
+SO001087,2025-09-26,C0151,Prestige Home Services,E-commerce,CB - comptant,EUR
+SO001088,2025-09-05,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001089,2025-09-04,C0161,Noemie Leroy,inside sales,CB - COMPTANT,EUR
+SO001090,2025-09-27,C0020,Laura Diallo,Retail,CB - comptant,EUR
+SO001091,2025-09-23,C0131,Urban Motion SAS,Inside Sales,CB - comptant,EUR
+SO001092,2025-09-20,C0102,Morgane Andre,Inside Sales,30 jours,EUR
+SO001093,2025-09-04,C0099,Noemie Lefevre,Ecommerce,30 jours,EUR
+SO001094,2025-09-12,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO001095,2025-09-20,C0102,Morgane Andre,Retail,30 jours,EUR
+SO001096,2025-09-15,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO001097,2025-09-29,C0053,Cap Sud Equipement SAS,Inside Sales,45 jours,EUR
+SO001098,2025-09-01,C0076,Julie Diop,Inside Sales,CB - comptant,EUR
+SO001099,2025-09-08,C0108,Camille Diallo,Inside Sales,45 jours,EUR
+SO001100,2025-09-21,C0065,Yassine Konate,Retail,CB - comptant, Eur 
+SO001101,2025-09-25,C0025,Thomas Dubois,Retail,30 jours,EUR
+SO001102,2025-09-22,C0089,Thomas Thomas,E-commerce,45 jours,EUR
+SO001103,2025-09-26,C0007,,Inside Sales,45 jours,EUR
+SO001104,2025-09-23,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001105,2025-09-21,C0157,Noemie Bamba,Retail,CB - comptant,EUR
+SO001106,2025-09-06,C0126,Ahmed Bertrand,Retail,45 jours,EUR
+SO001107,2025-09-01,C0119,Soleil Distribution Group,Retail,45 jours,EUR
+SO001108,2025-09-08,C0092,Atlas Trading SARL,E Commerce,CB - comptant,EUR
+SO001109,NA,C0014,Cap Sud Equipement SAS,Retail,Cb - Comptant,EUR
+SO001110,2025-09-29,C0170,Fatou Bonnet,Inside Sales,45 jours,EUR
+SO001111,2025-09-11,C0154,Noemie Vincent,E-commerce, CB - comptant,EUR
+SO001112,2025-09-27,C0173,Vision Commerce Holding,Retail,45 jours,EUR
+SO001113,2025-09-04,C0027,Bati Plus Group ,E-commerce,30 jours,EURO
+SO001114,2025-09-17,C0174,Urban Motion Holding,Retail,45 jours,EUR
+SO001115,2025-09-05,C0154,Noemie Vincent,Retail,CB - comptant,EUR
+SO001116,2025-09-14,C0012,Aicha Vincent,Inside Sales,30 jours,EUR
+SO001117,2025-09-15,C0036,Chloe Bamba,E-commerce,CB - comptant,EUR
+SO001118,2025-09-10,C0011,Atlas Trading SAS,E-commerce,CB - comptant,EUR
+SO001119,2025-09-12,C0036,Chloe Bamba,E-commerce,CB - comptant,EUR
+SO001120,2025-09-12,C0030,Mediterra Shop Holding,Retail,30 jours,EUR
+SO001121,2025-09-12,C0063,Paul Konate,E-commerce,30 jours,EUR
+SO001122,2025-09-14,C0119,Soleil Distribution Group,Retail,45 jours,EUR
+SO001123,2025-10-24,C0152,Vision Commerce Group,Inside Sales,30 jours,EUR
+SO001124,2025-10-17,C0091,Fatou Robert,Retail ,CB - comptant,EUR
+SO001125,2025-10-06,C0051,Delta Market Holding,Retail,CB - comptant,EUR
+SO001126,2025-10-12,C0047,Smart Office Services,E-commerce,30 jours,EUR
+SO001127,2025-10-08,C0045,Salome Diallo,Inside Sales,30 jours,EUR
+SO001128,2025-10-22,C0075,Elite Habitat SAS,E-commerce,Cb - Comptant,eur
+SO001129,2025-10-24,C0158,Sarah Robert,Retail,30 jours,EUR
+SO001130,2025-10-18,C0139,Lea Konate,Inside Sales,CB - comptant,EUR
+SO001131,2025-10-25,C0141,Atlas Trading Services,Retail,45 jours,EUR
+SO001132,2025-10-17,C0092,Atlas Trading SARL,Retail,CB - comptant,EUR
+SO001133,2025-10-04,C0123,Riviera Supply Group,Retail,CB - comptant,EUR
+SO001134,10-16-2025,C0003,Atlas Trading Holding,Retail ,30 jours,EUR
+SO001135,2025-10-21,C0030,Mediterra Shop Holding,E-commerce,30 jours,EUR
+SO001136,2025-10-31,C0060,Optima Conseil Group,Inside Sales,45 jours,EUR
+SO001137,2025-10-15,C0061,Riviera Supply SAS,Retail,30 jours,EUR
+SO001138,2025-10-01,C0125,Louis Lambert,Inside Sales,30 jours,EUR
+SO001139,2025-10-06,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO001140,2025-10-28,C0121,Riviera Supply SARL,Retail,45 jours,EUR
+SO001141,2025-10-30,C0160,Mediterra Shop Services,E-commerce,45 jours,EUR
+SO001142,2025-10-29,C0015,Chloe Moreau,Retail,45 jours,EUR
+SO001143,2025-10-01,C0131,Urban Motion SAS,E-commerce,CB - comptant,EUR
+SO001144,2025-10-22,C0008,Dylan Chevalier,Retail,30 jours,EUR
+SO001145,2025-10-11,C0155,Azur Concept SARL,Inside Sales,30 jours,EUR
+SO001146,2025-10-16,C0125,Louis Lambert,E-commerce,30 jours,EUR
+SO001147,2025-10-02,C0121,Riviera Supply SARL,Retail,45 jours,EUR
+SO001148,2025-10-16,C0151,Prestige Home Services,Retail ,CB - comptant, Eur 
+SO001149,2025-10-05,C0024,Smart Office Holding,E-commerce,CB - comptant,EUR
+SO001150,2025-10-27,C0166,Salome Bonnet,Inside Sales,30 jours,EUR
+SO001151,2025-10-16,C0089,Thomas Thomas,Inside Sales,45 jours,EUR
+SO001152,2025-10-27,C0024,smart office holding,Retail,CB - comptant,EUR
+SO001153,2025-10-29,C0047,Smart Office Services,E-commerce,30 jours,EUR
+SO001154,2025-10-17,C0112,Karim Dupont,Retail,CB - comptant,EUR
+SO001155,2025-10-11,C0093,Vision Commerce SAS,Retail,CB - comptant,EUR
+SO001156,2025-10-06,C0026,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO001157,2025-10-10,C0107,Benoit Bamba,Retail,45 jours,EUR
+SO001158,2025-10-02,C0161,Noemie Leroy,E-commerce,CB - comptant,EUR
+SO001159,2025-10-13,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO001160,2025-10-20,C0143,Brahim Morel,Retail,30 jours,EUR
+SO001161,2025-10-09,C0022,Elite Habitat SARL,E-commerce,30 jours,EUR
+SO001162,13-10-2025,C0122,Kora Logistics SARL,E-commerce,45 jours,EUR
+SO001163,2025-10-01,C0011,Atlas Trading SAS,Inside Sales,CB - comptant,EUR
+SO001164,2025-10-14,C0116,Mehdi Fournier,Retail,CB - comptant,EUR
+SO001165,2025-10-11,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO001166,2025-10-03,C0039,Morgane Vincent,Retail,CB - comptant,EUR
+SO001167,2025-10-06,C0062,Azur Concept Services,E-commerce,30 jours,EUR
+SO001168,2025-10-20,C0075,Elite Habitat SAS,E-commerce,CB - comptant,EUR
+SO001169,2025-10-22,C0042,Vision Commerce Services,E-commerce,CB - comptant,EUR
+SO001170,2025-10-27,C0160,Mediterra Shop Services,E-commerce,45 jours,EUR
+SO001171,2025-10-06,C0061,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO001172 ,2025-10-19,C0169,Nicolas Laurent,Retail,30 jours,EURO
+SO001173,2025-10-17,C0170,Fatou Bonnet,Inside Sales,45 jours,EUR
+SO001174,2025-10-04,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO001175,2025-10-01,C0064,Kora Logistics Group,E-commerce,30 jours,EUR
+SO001176,2025-10-12,C0075,Elite Habitat SAS,E-commerce,CB - comptant,EUR
+SO001177,2025-10-07,C0071,Optima Conseil Group,E-commerce,45 jours,EUR
+SO001178,2025-10-24,C0004,Antoine Diallo,Retail,45 jours,EUR
+SO001179,2025-10-03,C0057,Hexa Services Sarl,E-commerce,30 jours,EUR
+SO001180,2025-10-29,C0167,Maxime Bertrand,E-commerce,30 jours,EUR
+SO001181,2025-10-27,C0131,Urban Motion SAS,Retail,CB - comptant,EUR
+SO001182,2025-10-25,C0008,Dylan Chevalier,E-commerce,30 jours,EUR
+SO001183,2025-10-26,C0179,Chloe Lefevre,Retail,CB - comptant,EUR
+SO001184,2025-10-10,C0049,Dylan Traore,E-commerce,CB - comptant,EUR
+SO001185,2025-10-21,C0087,Atlas Trading Holding,Retail,30 jours,EUR
+SO001186,2025-10-12,C0151,Prestige Home Services,Retail,CB - comptant,EUR
+SO001187,2025-10-31,C0050,Nova Retail Group,E-commerce, 30 jours,EUR
+ SO001188,31-10-2025,C0016,Fatou Petit,E-commerce,45 JOURS,EUR
+SO001189,2025-10-24,C0133,Prestige Home SARL,E-commerce,CB - comptant,EUR
+SO001190,2025-10-10,C0101,Camille Petit,E-commerce,30 jours,EUR
+SO001191,22-10-2025,C0042,Vision Commerce Services,E-commerce,CB - comptant,EUR
+SO001192,2025-10-02,C0122,Kora Logistics SARL,E-commerce,45 jours,EUR
+SO001193,2025-10-28,C0149,Ines Chevalier,Retail,30 jours,EUR
+SO001194,2025-10-11,C0049,Dylan Traore,Retail,CB - comptant,EUR
+SO001195,2025-10-30,C0059,Soleil Distribution Group,E-commerce,30 jours,EUR
+SO001196,2025-10-25,C0164,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO001197,2025-10-10,C0112,Karim Dupont,Inside Sales,CB - comptant,EUR
+SO001198,,C0137,JADE LOPEZ,Retail,CB - comptant,EUR
+SO001199,2025-10-08,C0063,Paul Konate,Inside Sales,30 jours,EUR
+SO001200,2025-10-19,C0155,Azur Concept SARL,E-commerce,30 jours,EUR
+SO001201,2025-10-13,C0162,Optima Conseil Services,Inside Sales,45 jours,EUR
+SO001202,2025-10-08,C0065,Yassine Konate,Retail,CB - comptant,EUR
+SO001203,2025-10-05,C0143,Brahim Morel,Retail,30 jours,EUR
+SO001204,2025-10-18,C0095,Ahmed Lopez,Retail,CB - comptant,EUR
+SO001205,2025-10-31,C0084,Louis David,Retail,45 jours,EUR
+SO001206,2025-10-10,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO001207,2025-10-07,C0016,Fatou Petit,Retail,45 jours,EUR
+SO001208,2025-10-25,C0010,Elite Habitat Services,Retail,CB - comptant,EUR
+SO001209,2025-10-04,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+SO001210,2025-10-19,C0111,Lea Lambert,Retail,45 jours,EUR
+SO001211,2025-10-01,C0044,Paul Leroy,E-commerce,30 jours,EUR
+SO001212,2025-10-17,C0112,Karim Dupont,Ecommerce,CB - comptant,EUR
+SO001213,2025-10-04,C0178,Prestige Home Holding,Retail,45 jours,EUR
+SO001214,2025-10-12,C0169,Nicolas Laurent,E-commerce,30 jours,EUR
+so001215,2025-10-21,C0020,Laura Diallo,Inside Sales,CB - comptant,EUR
+SO001216,2025-10-17,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO001217,2025-10-13,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO001218,2025-10-26,C0169,Nicolas Laurent,Retail,30 jours,EUR
+SO001219,2025-10-01,C0116,Mehdi Fournier,Inside Sales,CB - comptant,EUR
+SO001220,2025-10-21,C0045,Salome Diallo,E-commerce,30 jours,EUR
+SO001221,2025-10-14,C0048,Hugo David,Inside Sales,45 jours,EUR
+SO001222,2025-10-15,C0130,Elodie Girard,Retail,CB - comptant,EUR
+SO001223,2025-10-19,C0145,Elite Habitat SARL,E-commerce,45 jours,EUR
+SO001224,2025-10-02,C0079,Lea Diallo,E-commerce,30 jours,EUR
+SO001225,2025-10-24,C0034,Atlas Trading Holding,E-commerce,CB - comptant,EUR
+SO001226,2025-10-24,C0088,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO001227,2025-10-19,C0066,Mehdi Moreau,Retail,CB - comptant,EUR
+SO001228,2025-10-15,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO001229,2025-10-25,C0065,Yassine Konate,Inside Sales,CB - comptant,EUR
+SO001230,2025-10-01,C0174,Urban Motion Holding,E-commerce,45 jours,EUR
+SO001231,2025-10-26,C0156,Julie Roux,Inside Sales,30 jours,EUR
+SO001232,2025-10-07,C0018,Aurelien Lefevre,Retail,30 jours,EUR
+SO001233,2025-10-17,C0139,Lea Konate,E-commerce,CB - comptant,EUR
+SO001234,2025-10-08,C0016,Fatou Petit,Retail,45 jours,EUR
+SO001235,2025-10-12,C0121,Riviera Supply SARL,E-commerce,45 jours,EUR
+SO001236,2025-10-28,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO001237,2025-10-31,C0042,Vision Commerce Services,E-commerce,CB - comptant,EUR
+SO001238,2025-10-06,C0121,Riviera Supply SARL,E-commerce,45 jours,EUR
+SO001239,2025-10-31,C0145,Elite Habitat SARL,E-commerce,45 jours,EUR
+SO001240,2025-10-10,C0092,Atlas Trading SARL,Inside Sales,CB - comptant,EUR
+SO001241,2025-10-12,C0045,Salome  Diallo,Inside Sales,30 JOURS,EUR
+SO001242,2025-10-11,C0156,Julie Roux,E-commerce,30 jours,EUR
+SO001243,2025-10-07,C0154,Noemie Vincent,E-commerce,CB - comptant,EUR
+SO001244,2025-10-13,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO001245,2025-10-25,C0067,Riviera Supply Group,Retail,CB - comptant,EUR
+SO001246,2025-10-28,C0021,Blue Horizon SARL,Inside Sales,CB - comptant,EUR
+SO001247,2025-10-24,C0034,Atlas Trading Holding,E-commerce,CB - comptant,EUR
+SO001248,2025-10-04,C0010,Elite Habitat Services,Retail,CB - comptant,EUR
+SO001249,2025-10-10,C0175,Aurelien Morel,Retail,30 jours,EUR
+SO001250,2025-10-29,C0020,Laura Diallo,Inside Sales,CB - comptant,EUR
+SO001251,2025-10-26,C0017,Blue Horizon Holding,E-commerce,CB - comptant,EUR
+SO001252,2025-10-05,C0161,Noemie Leroy,Inside Sales,CB - comptant,EUR
+SO001253,2025-10-16,C0121,Riviera Supply SARL,Inside Sales,45 jours,EUR
+SO001254,2025-10-09,C0051,Delta Market Holding,Retail,CB - comptant,EUR
+SO001255,2025-10-07,C0147,Sarah Petit,Inside Sales,30 jours,EUR
+SO001256,2025-10-06,C0059,Soleil Distribution Group,Inside Sales,30 jours,EUR
+SO001257,2025-10-09,C0103,Louis Michel,E-commerce,30 jours,EUR
+SO001258,2025-10-18,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,EUR
+SO001259 ,2025-10-11,C0041,Mariam Garcia,Retail,30 jours,EUR
+SO001260,2025-10-16,C0014,Cap Sud Equipement SAS,Retail,CB - comptant,EUR
+SO001261,2025-10-16,C0025,  Thomas Dubois  ,E-commerce,30 Jours,EUR
+SO001262,2025-10-19,C0055,Florian Legrand,Retail,CB - comptant,EUR
+SO001263,2025-10-17,C0017,Blue Horizon Holding,E-commerce,CB - COMPTANT,EUR
+SO001264,2025-10-17,C0037,Soleil Distribution SARL,E-commerce,45 jours,EUR
+SO001265,2025-10-29,C0082,Mediterra Shop Holding,Retail,CB - comptant,EUR
+SO001266,2025-10-31,C0020,Laura Diallo,Inside Sales,CB - comptant,EUR
+SO001267,2025-10-15,C0082,mediterra  shop  holding,Retail,CB - comptant,EUR
+SO001268,2025-10-24,C0090,Bati Plus Group,Retail,CB - comptant,EUR
+SO001269,2025-11-18,C0079,Lea Diallo,Retail,30 jours,EUR
+SO001270,2025-11-05,C0145,Elite Habitat SARL,E-commerce,45 jours,EUR
+SO001271,2025-11-06,C0158,Sarah Robert,Retail,30 jours,EUR
+SO001272,2025-11-07,C0029,Chloe Legrand,E-commerce,CB - comptant,EUR
+SO001273,2025-11-19,C0047,Smart Office Services,Retail,30 jours,EUR
+SO001274,2025-11-03,C0046,Smart Office Group,Retail,CB - comptant,EUR
+SO001275,2025-11-17,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO001276,2025-11-04,C0012,Aicha Vincent,E-commerce,30 jours,EUR
+SO001277,2025-11-17,C0063,Paul Konate,Retail,30 jours,EUR
+SO001278,2025-11-22,C0048,Hugo David,E-commerce,45 jours,EUR
+SO001279,2025-11-08,C0175,Aurelien Morel,E-commerce,30 jours,EUR
+SO001280,2025-11-27,C0044,Paul Leroy,Retail,30 jours,EUR
+SO001281,2025-11-17,C0130,Elodie Girard,E-commerce,CB - comptant,EUR
+SO001282,2025-11-03,C0069,Florian Girard,Retail,30 jours,EUR
+SO001283,2025-11-17,C0074,Vision Commerce Group,E-commerce,30 jours,EUR
+SO001284,2025-11-13,C0152,Vision Commerce Group,Retail,30 jours,EUR
+SO001285,2025-11-19,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO001286,2025-11-16,C0026,Atlas Trading Group,E-commerce,CB - comptant,EUR
+SO001287,2025-11-16,C0046,Smart Office Group,E-commerce,CB - comptant,EUR
+SO001288,2025-11-10,C0076,Julie Diop,Retail,CB - comptant,EUR
+SO001289,2025-11-13,C0138,Bati Plus SARL,E-commerce,CB - comptant,EUR
+SO001290,2025-11-19,C0064,Kora Logistics Group,Retail,30 jours,EUR
+SO001291,,C0052,Riviera Supply SAS,e-commerce,30 jours,EUR
+SO001292,2025-11-24,C0129,Smart Office Holding,Inside Sales,45 jours,EUR
+SO001293,2025-11-23,C0130,Elodie Girard,E-commerce,CB - comptant,EUR
+SO001294,2025-11-24,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO001295,2025-11-14,C0116,Mehdi Fournier,Inside Sales,CB - comptant,EUR
+SO001296,2025-11-21,C0043,Alpha Partners SAS,Retail,CB - comptant,EUR
+SO001297,2025-11-03,C0041,Mariam Garcia,E-commerce,30 jours, Eur 
+SO001298,2025-11-22,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO001299,2025-11-25,C0058,Elite Habitat Holding,E-commerce,30 jours,EUR
+SO001300,2025-11-15,C0005,Aicha Francois,Retail,30 jours,EUR
+SO001301,2025-11-10,C0057,Hexa Services SARL,E-commerce,30 jours,EUR
+SO001302,2025-11-16,C0031,Hugo Lefevre,E-commerce,30 jours,EUR
+SO001303,2025-11-19,C0052,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO001304,2025-11-16,C0149,Ines Chevalier,Retail,30 jours,EUR
+SO001305,2025-11-07,C0064,Kora Logistics Group,Inside Sales,30 jours,EUR
+SO001306,2025-11-21,C0165,Louis Petit,Retail,45 jours,EUR
+SO001307,2025-11-21,C0094,Brahim Leroy,Retail,30 jours,EUR
+SO001308,2025-11-29,C0022,Elite Habitat SARL,E-commerce,30 jours,EUR
+SO001309,2025-11-11,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO001310,2025-11-09,C0147,Sarah Petit,Inside Sales,30 jours ,EUR
+SO001311,2025-11-02,C0033,Riviera Supply Holding,Retail,30 jours,EUR
+  SO001312  ,2025-11-07,C0165,Louis Petit,Retail,45 JOURS,EURO
+SO001313,2025-11-05,C0027,Bati Plus Group,Inside Sales,30 jours,EUR
+SO001314,2025-11-28,C0144,Kora Logistics SARL,e-commerce,30 jours,EUR
+SO001315,2025-11-08,C0038,Emma Dubois,e-commerce,CB - comptant,EUR
+SO001316,2025-11-28,C0048,Hugo David,E-commerce,45 jours,EUR
+SO001317,2025-11-12,C0126,Ahmed Bertrand,Inside Sales,45 jours,EUR
+SO001318,2025-11-17,C0058, Elite Habitat Holding,Retail,30 jours,EUR
+SO001319,2025-11-13,C0097,Cap Sud Equipement SARL,Inside Sales,CB - comptant,EUR
+SO001320,2025-11-26,C0120,Romain Konate,Inside Sales,CB - comptant,EUR
+SO001321,2025-11-13,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO001322,2025-11-12,C0035,Alpha Partners Group,E-commerce,CB - comptant,EUR
+SO001323,2025-11-04,C0171,Louis Vincent,Inside Sales,30 jours,EUR
+SO001324,2025-11-14,C0042,Vision Commerce Services,Retail,CB - comptant,EUR
+SO001325,2025-11-06,C0025,Thomas Dubois,InsideSales,30 jours,EUR
+SO001326,2025-11-06,C0052,Riviera Supply SAS,Retail,30 jours,EUR
+SO001327,2025-11-03,C0055,Florian Legrand,Retail,CB - comptant,EUR
+SO001328,2025-11-17,C0028,Hexa Services Group,Retail,CB - comptant,EUR
+SO001329,2025-11-30,C0038,Emma Dubois,Inside Sales,CB - comptant,EUR
+SO001330,2025-11-19,C0163,Nova Retail SAS,E-commerce,CB - comptant,EUR
+SO001331,2025-11-19,C0002,Prestige Home SAS,retail,CB - comptant,EUR
+SO001332,2025-11-08,C0043,Alpha Partners SAS,Inside Sales,CB - comptant,EUR
+SO001333,2025-11-04,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO001334,2025-11-06,C0168,Riviera Supply Group,Retail,CB - comptant,EUR
+SO001335,2025-11-11,C0164,Urban Motion SAS,E-commerce,45 jours,EUR
+SO001336,2025-11-29,C0116,Mehdi Fournier,Retail,CB - comptant,EUR
+SO001337,2025-11-02,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO001338,2025-11-13,C0104,Brahim Martinez,Inside Sales,30 jours,EUR
+SO001339,2025-11-05,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO001340,2025-11-19,C0166,Salome Bonnet,E-commerce,30 jours,EUR
+  so001341  ,2025-11-22,C0124,  Florian Robert  ,Inside Sales,30 jours,EUR
+SO001342,2025-11-19,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO001343,2025-11-10,C0097,Cap Sud Equipement SARL,Retail,CB - comptant,EUR
+SO001344,2025-11-05,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001345,2025-11-30,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO001346,2025-11-21,C0145,Elite Habitat SARL,Inside Sales,45 jours,EUR
+SO001347,2025-11-17,C0140,Julie Lefevre,Retail,30 jours,EUR
+SO001348,2025-11-15,C0069,Florian Girard,Inside Sales,30 jours,EUR
+SO001349,2025-11-27,C0147,Sarah Petit,Inside Sales,30 jours,EUR
+SO001350,2025-11-29,C0163,Nova Retail SAS,Inside Sales,CB - comptant,EUR
+SO001351,2025-11-06,C0030,Mediterra Shop Holding,Retail,30 jours,EUR
+SO001352,2025-11-13,C0036,Chloe Bamba,E-commerce,CB - comptant,EUR
+SO001353,2025-11-12,C0103,Louis Michel,E-commerce,30 jours,EUR
+SO001354,2025-11-09,C0102,Morgane Andre,Retail,30 jours,EUR
+SO001355,2025-11-14,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO001356,2025-11-14,C0010,Elite Habitat Services,E-commerce,CB - comptant,EUR
+SO001357,2025-11-21,C0090,Bati Plus Group,E-commerce,CB - comptant,EUR
+SO001358,2025-11-22,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO001359,2025-11-01,C0057,Hexa Services SARL,E-commerce,30 jours,EUR
+SO001360,2025-11-27,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+SO001361,2025-11-18,C0112,Karim Dupont,Retail,CB - comptant,EUR
+SO001362,2025-11-07,C0125,Louis Lambert,E-commerce,30 jours,EUR
+SO001363,2025-11-20,C0114,Optima Conseil Holding,Retail,45 jours,EUR
+SO001364,2025-11-26,C0068,Kora Logistics SARL,E-commerce,30 jours,EUR
+SO001365,2025-11-27,C0048,Hugo David,E-commerce,45 jours,EUR
+SO001366,2025-11-28,C0052,Riviera Supply SAS,Retail,30 jours,EUR
+SO001367,2025-11-17,C0072,Camille Bertrand,Retail,30 jours,EUR
+SO001368,09/11/2025,C0092,Atlas Trading SARL,Retail,CB - comptant,N/A
+SO001369,2025-11-20,C0062,Azur Concept Services,E-commerce,30 jours,EUR
+SO001370,2025-11-22,C0126,Ahmed Bertrand,E-commerce,45 jours,EUR
+SO001371,28-11-2025,C0067,Riviera Supply Group,E-commerce,CB - comptant,EURO
+SO001372,2025-11-24,C0005,Aicha Francois,E-commerce,30 jours,EUR
+SO001373,2025-11-30,c0178,Prestige  Home  Holding,Inside Sales,45 jours,EUR
+SO001374,2025-11-07,C0111,Lea Lambert,Retail,45 jours,EUR
+SO001375,2025-11-25,C0094,Brahim Leroy,Retail,30 jours,EUR
+SO001376,2025-11-20,C0100,Cap Sud Equipement Holding,E-commerce,CB - comptant,EUR
+SO001377,2025-11-28,C0059,Soleil Distribution Group,retail,30 jours,EUR
+SO001378,2025-11-19,C0082,Mediterra Shop Holding,E-commerce,CB - comptant,EUR
+SO001379,2025-11-29,C0119,Soleil Distribution Group,Retail,45 jours,EUR
+SO001380,2025-11-29,C0079,Lea Diallo,E-commerce,30 jours,EUR
+SO001381,2025-11-17,C0098,Antoine Petit,Inside Sales,45 jours, Eur 
+SO001382,2025-11-12,C0136,Thomas Martin,E-commerce,30 jours,EUR
+SO001383,2025-11-10,C0070,Nicolas Durand,Inside Sales,45 jours,EUR
+SO001384,2025-11-10,C0066,Mehdi Moreau,E-commerce,CB - comptant,EUR
+SO001385,2025-11-29,C0124,Florian Robert,Inside Sales,30 jours,EUR
+SO001386,2025-11-07,C0051,Delta Market Holding,Retail,CB - comptant,EUR
+SO001387,2025-11-10,C0157,Noemie Bamba,Inside Sales,CB - comptant,EUR
+SO001388,2025-11-20,C0154,Noemie Vincent,E-commerce,CB - comptant,EUR
+SO001389,2025-11-03,C0088,Atlas Trading Holding,Retail,30 jours,EUR
+SO001390,2025-11-04,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO001391,2025-11-09,C0083,Elodie Martinez,Retail,30 jours,EUR
+SO001392,2025-11-14,C0114,Optima Conseil Holding,Inside Sales,45 jours,EUR
+SO001393,2025-11-02,C0134,Delta Market Group,Retail,30 JOURS,EUR
+SO001394,2025-11-18,C0037,Soleil Distribution SARL,E-commerce,45 jours,EUR
+SO001395,2025-11-17,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO001396,2025-11-18,C0084,Louis David,E-commerce,45 jours,EUR
+SO001397,2025-11-17,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO001398,2025-11-29,C0157,Noemie Bamba,E-commerce,CB - comptant,EUR
+SO001399,2025-11-04,C0149,Ines Chevalier,Inside Sales,30 jours,EUR
+SO001400,2025-11-16,C0088,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO001401,2025-11-24,C0037,Soleil Distribution SARL,Retail,45 jours,EUR
+SO001402,2025-11-23,C0035,Alpha Partners Group,E-commerce,CB - comptant,EUR
+SO001403,2025-11-12,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001404,2025-11-20,C0152,Vision Commerce Group,E-commerce,30 jours,EUR
+SO001405,2025-11-28,C0001,Sarah Bernard,E-commerce,30 jours,EUR
+SO001406,2025-11-18,C0092,Atlas Trading SARL,E-commerce,CB - comptant,EUR
+SO001407,2025-11-11,C0123, Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001408,2025-11-04,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO001409,2025-11-26,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO001410,2025-11-26,C0080,Urban Motion Services,Inside Sales,CB - comptant,EUR
+SO001411,N/A,C0033,Riviera Supply Holding,e-commerce,30 jours, Eur 
+SO001412,2025-11-25,C0052,Riviera Supply SAS,Inside Sales,30 jours,EUR
+SO001413,2025-11-08,C0143,Brahim Morel,Retail,30 jours,EUR
+SO001414,2025-11-17,C0063,Paul Konate,Retail,30 jours,EUR
+SO001415,2025-11-03,C0180,Dylan Lambert,E-commerce,CB - comptant,EUR
+SO001416,2025-11-10,C0114,Optima Conseil Holding,Inside Sales,45 jours,EUR
+SO001417,2025-11-23,C0121,Riviera Supply SARL,Retail,45 jours,EUR
+SO001418,2025-11-15,C0150,Fatou Garcia,E-commerce,CB - comptant,EUR
+SO001419,2025-11-30,C0126,Ahmed Bertrand,Retail,45 jours,EUR
+SO001420,2025-11-29,C0137,Jade Lopez,e-commerce,CB - COMPTANT,EUR
+SO001421,2025-11-05,C0151,Prestige Home Services,E-commerce,CB - comptant,EUR
+SO001422,2025-11-24,C0028,Hexa Services Group,E Commerce,CB - comptant,EUR
+SO001423,2025-11-18,C0087,Atlas Trading Holding,E-commerce,30 jours,EUR
+SO001424,2025-11-12,C0164,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO001425,2025-11-07,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO001426,2025-11-13,C0125,louis lambert,e-commerce,30 jours,EUR
+SO001427,2025-11-17,C0139,Lea Konate,Retail,CB - comptant,EUR
+SO001428,2025-11-19,C0058,Elite Habitat Holding,Inside Sales,30 jours,EUR
+SO001429,2025-11-03,C0050,Nova Retail Group,E-commerce,30 jours,EUR
+SO001430,2025-11-27,C0107,Benoit Bamba,Inside Sales,45 jours,EUR
+SO001431,2025-11-11,C0140,Julie Lefevre,Retail,30 jours,EUR
+SO001432,2025-11-02,C0005,Aicha Francois,Retail,30 jours,EUR
+SO001433,2025-11-30,C0081,Optima Conseil Holding,E-commerce,30 jours,EUR
+SO001434,2025-11-07,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001435,2025-11-15,C0133,Prestige Home SARL,Inside Sales,CB - comptant,EUR
+SO001436,2025-11-15,C0114,Optima Conseil Holding,Inside Sales,45 jours,EUR
+SO001437,2025-11-01,C0172,Antoine Dupont,E-commerce,45 jours,EUR
+SO001438,2025-11-11,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001439,2025-11-07,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO001440,2025-11-23,C0155,Azur Concept SARL,Retail,30 jours,EUR
+SO001441,2025-11-18,C0039,Morgane Vincent,Inside Sales,CB - comptant,EUR
+SO001442,2025-11-14,C0006,Azur Concept Services,Inside Sales,CB - comptant,EUR
+SO001443,2025-11-13,C0013,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001444,2025-12-29,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001445,2025-12-19,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO001446,2025-12-27,C0021,Blue Horizon SARL,E-commerce,CB - comptant,EUR
+SO001447,2025-12-03,C0022,Elite Habitat SARL,E-commerce,30 jours,EUR
+SO001448,2025-12-06,C0135,Yassine Legrand,Retail,CB - comptant,EUR
+SO001449,2025-12-25,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO001450,2025-12-15,C0039,Morgane Vincent,Inside Sales,CB - comptant,EUR
+SO001451,2025-12-15,C0052,Riviera Supply SAS,E-commerce,30 jours,EUR
+SO001452,2025-12-15,C0088,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO001453,2025-12-20,C0031,Hugo Lefevre,E-commerce,30 jours,EUR
+SO001454,2025-12-11,C0174,Urban Motion Holding,E-commerce,45 jours,EUR
+SO001455,2025-12-01,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001456,2025-12-25,C0032,Chloe Robert,Inside Sales,30 JOURS,NA
+SO001457,2025-12-21,C0036,Chloe Bamba,Inside Sales,CB - comptant,EUR
+SO001458,2025-12-19,C0116,Mehdi Fournier,E-commerce,CB - comptant,EUR
+SO001459,2025-12-28,C0159,Maxime Diallo,E-commerce,45 jours,EUR
+SO001460,2025-12-10,C0155,Azur Concept SARL,Retail,30 jours,EURO
+SO001461,2025-12-05,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO001462,2025-12-04,C0095,Ahmed Lopez,E-commerce,CB - comptant,EUR
+SO001463,2025-12-16,C0107,Benoit Bamba,E-commerce,45 jours,EUR
+SO001464,2025-12-03,C0076,Julie Diop,Retail,CB - comptant,EUR
+SO001465,2025-12-04,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO001466,2025-12-29,C0024,Smart Office Holding,Inside Sales,CB - comptant,EUR
+SO001467,2025-12-26,C0167,Maxime Bertrand,E-commerce,30 jours,EUR
+SO001468,2025-12-03,C0147,Sarah Petit,Retail,30 jours,EUR
+SO001469,2025-12-08,C0010,Elite Habitat Services,Retail,CB - comptant,EUR
+SO001470,2025-12-09,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO001471,2025-12-30,C0091,Fatou Robert,Retail,CB - comptant,EUR
+SO001472,2025-12-10,C0141,Atlas Trading Services,E-commerce,45 jours,EUR
+SO001473,2025-12-14,C0139,Lea Konate,Inside Sales,CB - comptant,EUR
+SO001474,2025-12-10,C0090,Bati Plus Group,Inside Sales,CB - comptant,N/A
+SO001475,2025-12-28,C0008,Dylan Chevalier,E-commerce,30 jours,EUR
+SO001476,2025-12-17,C0176,Emma Bernard,E-commerce,CB - comptant,EUR
+SO001477,2025-12-02,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001478,2025-12-25,C0007,Urban Motion SAS,Inside Sales,45 jours,EUR
+SO001479,2025-12-21,C0026,Atlas Trading Group,Inside Sales,CB - comptant,EUR
+SO001480,2025-12-26,C0081,Optima Conseil Holding,Inside Sales,30 jours,EUR
+SO001481,2025-12-02,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO001482,2025-12-23,C0024,Smart Office Holding,Inside Sales,CB - comptant,EUR
+SO001483,2025-12-30,C0074,Vision Commerce Group,E-commerce,30 jours,EUR
+SO001484,2025-12-06,C0133,Prestige Home SARL,Inside Sales,CB - comptant,EUR
+SO001485,2025-12-20,C0096,Atlas Trading Group,Retail,CB - comptant,EUR
+SO001486,2025-12-19,C0127,Topline Solutions SAS,Retail,45 jours,EUR
+SO001487,2025-12-25,C0144,Kora Logistics SARL,E-commerce,30 jours,EUR
+SO001488,2025-12-01,C0060,Optima Conseil Group,E-commerce,45 jours,EUR
+SO001489,2025-12-26,C0122,Kora Logistics SARL,inside sales,  45 jours  , Eur 
+SO001490,2025-12-07,C0120,romain konate,Retail,,EUR
+SO001491,2025-12-27,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO001492,2025-12-11,C0157,Noemie Bamba,Inside Sales,CB - comptant,EUR
+SO001493,2025-12-03,C0108,Camille Diallo,E-commerce,45 jours,EUR
+SO001494,2025-12-30,C0052,Riviera Supply SAS,Inside Sales,30 jours,EUR
+SO001495,2025-12-31,C0025,Thomas Dubois,E-commerce,30 jours,EUR
+SO001496,2025-12-16,C0093,Vision Commerce SAS,Inside Sales,CB - comptant,EUR
+SO001497,2025-12-17,C0013,Riviera Supply Group,Inside Sales,N/A,EURO
+SO001498,2025-12-18,C0134,Delta Market Group,E-commerce,30 jours,EUR
+SO001499,2025-12-21,C0152,Vision Commerce Group,E-commerce,30 jours,EUR
+SO001500,2025-12-31,C0037,Soleil Distribution SARL,Inside Sales,45 jours,EUR
+SO001501,2025-12-13,C0144,Kora Logistics SARL,Retail,30 jours,EUR
+SO001502,2025-12-20,C0176,Emma Bernard,Inside Sales,CB - comptant,EUR
+SO001503,2025-12-26,C0133,Prestige Home SARL,E-commerce,CB - comptant,EUR
+SO001504,2025-12-29,C0110,Kevin Traore,E-commerce,30 jours,EUR
+SO001505,2025-12-07,C0101,Camille Petit,Retail,30 jours,EUR
+SO001506,2025-12-24,C0083,Elodie Martinez,Retail,30 jours,EUR
+SO001507,2025-12-02,C0045,Salome Diallo,E-commerce,30 jours,EUR
+SO001508,2025-12-10,C0111,Lea Lambert,Retail,45 jours,EUR
+SO001509,2025-12-06,C0033,Riviera Supply Holding,Retail,30 jours,EUR
+SO001510,2025-12-04,C0128,Jade Richard,Retail,CB - comptant,EUR
+SO001511,2025-12-19,C0030,Mediterra Shop Holding,E-commerce,30 jours,EUR
+SO001512,2025-12-07,C0007,Urban Motion SAS,Retail,45 jours,EUR
+SO001513,2025-12-08,C0065,Yassine Konate,E-commerce,CB - comptant,EUR
+SO001514,2025-12-05,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO001515,2025-12-05,C0162,Optima Conseil Services,E-commerce,45 jours,EUR
+SO001516,2025-12-28,C0025,Thomas Dubois,Retail,30 jours,EUR
+SO001517,2025-12-14,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO001518,2025-12-26,C0019,Paul Dubois,E-commerce,30 jours,EUR
+SO001519,2025-12-04,C0037,Soleil Distribution SARL,E-commerce,45 jours,EUR
+SO001520,2025-12-16,C0109,Lucie Bertrand ,E-commerce,CB - comptant,EUR
+SO001521,2025-12-04,C0027,Bati Plus Group,Inside Sales,30 jours,EUR
+SO001522,2025-12-15,C0077,Karim Roux,E-commerce,CB - comptant,EUR
+SO001523,2025-12-30,C0172,Antoine Dupont,Inside Sales,45 jours,EUR
+SO001524,2025-12-10,C0041,Mariam Garcia,E-commerce,30 jours,EUR
+SO001525,2025-12-03,C0097,Cap Sud Equipement SARL,E-commerce,CB - comptant,eur
+SO001526,2025-12-29,C0054,Thomas Dupont,E-commerce,30 jours,EUR
+SO001527,2025-12-26,C0017,Blue Horizon Holding,E-commerce,CB - comptant,EUR
+SO001528,2025-12-27,C0022,Elite Habitat SARL,Inside Sales,30 jours,EUR
+SO001529,12-04-2025,C0083,Elodie Martinez,Retail,30 jours, Eur 
+So001530,2025-12-22,C0060,Optima  Conseil  Group,Ecommerce,45 jours,EUR
+SO001531,2025-12-17,C0128,Jade Richard,E-commerce,CB - comptant,EUR
+SO001532,2025-12-24,C0092,Atlas Trading SARL,Inside Sales,CB - comptant,EUR
+SO001533,2025-12-12,C0142,Ines Simon,Retail,CB - comptant,EUR
+SO001534,2025-12-28,C0156,Julie Roux,Inside Sales,30 jours,EUR
+SO001535,2025-12-23,C0151,Prestige Home Services,E-commerce,CB - comptant,EUR
+SO001536,2025-12-15,C0110,Kevin Traore,Retail,30 jours,EUR
+SO001537,2025-12-13,C0109,Lucie Bertrand,E-commerce,CB - comptant,EUR
+SO001538,2025-12-29,C0085,Soleil Distribution SAS,Retail,CB - comptant,EUR
+SO001539,2025-12-08,C0104,Brahim Martinez,E-commerce,30 jours,EUR
+SO001540,2025-12-04,C0007,Urban Motion SAS,Retail,45 jours,EUR
+SO001541,2025-12-17,C0176,Emma Bernard,Retail,CB - comptant,EUR
+SO001542,2025-12-12,C0089,Thomas Thomas,E-commerce,45 jours,EUR
+SO001543,2025-12-21,C0016,Fatou Petit,Retail ,45 jours,EUR
+SO001544,2025-12-05,C0015,Chloe Moreau,Inside Sales,45 jours,EUR
+SO001545,2025-12-22,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO001546,2025-12-10,C0077,Karim  Roux,Retail,CB - comptant,EUR
+SO001547,2025-12-09,C0117,Camille Garnier,E-commerce,45 jours,EUR
+SO001548,2025-12-06,C0087,Atlas Trading Holding,Retail,30 jours,EUR
+SO001549,2025-12-01,C0091,Fatou Robert,E-commerce,CB - comptant,EUR
+SO001550,2025-12-11,C0019,Paul Dubois,E-commerce,30 jours,EUR
+SO001551,2025-12-10,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO001552,2025-12-23,C0039,Morgane Vincent,Inside Sales,CB - comptant,EUR
+SO001553,2025-12-03,C0046,Smart Office Group,E-commerce,CB - comptant,EUR
+SO001554,2025-12-24,C0156,Julie Roux,Retail,30 jours,EUR
+SO001555,2025-12-22,C0021,Blue Horizon SARL,Retail,CB - comptant,EUR
+SO001556,2025-12-28,C0166,Salome Bonnet,Retail,30 jours,EUR
+SO001557,2025-12-21,C0077,Karim Roux,Inside Sales,CB - comptant,EUR
+SO001558,2025-12-04,C0068,Kora Logistics SARL,Retail,30 jours,EUR
+SO001559,2025-12-19,C0154,Noemie Vincent,Inside Sales,CB - comptant,EUR
+SO001560,2025-12-07,C0009,Salome Michel,Inside Sales,30 jours,EUR
+SO001561,2025-12-27,C0165,Louis Petit,E-commerce,45 jours,EUR
+SO001562,2025-12-20,C0081,Optima Conseil Holding,Retail,30 jours,EUR
+SO001563,2025-12-25,C0143,Brahim Morel,E-commerce,30 jours,EUR
+SO001564,2025-12-10,C0134,Delta Market Group,E-commerce,30 jours,EUR
+SO001565,2025-12-06,C0002,Prestige Home SAS,E-commerce,CB - comptant,EUR
+SO001566,2025-12-22,C0056,Paul Bamba,Retail,45 jours,EUR
+SO001567,2025-12-04,C0084,Louis David,E-commerce,45 jours,EUR
+SO001568,2025-12-07,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO001569,2025-12-26,C0050,Nova Retail Group,Retail,30 jours,EUR
+SO001570,2025-12-01,C0041,Mariam Garcia,Retail,30 jours,EUR
+SO001571,2025-12-30,C0054,Thomas Dupont,Inside Sales,30 jours,EUR
+SO001572,2025-12-13,C0067,Riviera Supply Group,Retail,CB - comptant,EUR
+SO001573,2025-12-24,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO001574,2025-12-30,C0179,Chloe Lefevre,E-commerce,CB - comptant,EUR
+SO001575,2025-12-08,C0079,Lea Diallo,E-commerce,30 jours,EUR
+SO001576,2025-12-04,C0104,Brahim Martinez,E-commerce,30 jours,eur
+So001577,2025-12-02,C0084,Louis David,E-commerce,45 jours,EURO
+SO001578,2025-12-07,C0125,Louis Lambert,E-commerce,30 jours,EUR
+SO001579,2025-12-14,C0058,Elite Habitat Holding,Retail,30 jours,EUR
+SO001580,2025-12-01,C0141,Atlas Trading Services,E-commerce,45 jours,EUR
+SO001581,2025-12-21,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO001582,2025-12-11,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001583,2025-12-07,C0045,Salome Diallo,Retail,30 jours,EUR
+SO001584,2025-12-10,C0008,Dylan Chevalier,E-commerce,30 jours,EUR
+SO001585,2025-12-15,C0130,Elodie Girard,Retail,CB - comptant,EUR
+SO001586,2025-12-10,C0005,Aicha Francois,E-commerce,30 jours,EUR
+SO001587,2025-12-10,C0167,Maxime Bertrand,Inside Sales,30 jours,EUR
+SO001588,2025-12-23,C0104,Brahim Martinez,Retail,30 jours,EUR
+SO001589,2025-12-01,C0108,Camille Diallo,Retail,45 jours,EUR
+SO001590,2025-12-01,C0156,Julie Roux,Inside Sales,30 jours,EUR
+SO001591,2025-12-09,C0128,Jade Richard,Retail,CB - comptant,EUR
+SO001592,2025-12-08,C0038,Emma Dubois,Retail,CB - comptant,EUR
+SO001593,2025-12-15,C0089,Thomas Thomas,Inside Sales,45 jours,EUR
+SO001594,2025-12-03,C0116,Mehdi Fournier,Retail,CB - comptant,EUR
+SO001595,06/12/2025,C0162,Optima Conseil Services,Retail,45 jours,EUR
+SO001596,2025-12-02,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO001597,2025-12-01,C0115,Salome Traore,Inside Sales,30 jours,EUR
+SO001598,2025-12-12,C0155,Azur Concept SARL,Retail,30 jours,EUR
+SO001599,2025-12-23,C0115,Salome Traore,E-commerce,30 jours,EUR
+SO001600,2025-12-11,C0088,Atlas Trading Holding,Inside Sales,30 jours,EUR
+SO001601,2025-12-17,C0040,Urban Motion SARL,E-commerce,CB - comptant,EUR
+SO001602,2025-12-27,C0156,Julie Roux,Inside Sales,30 jours,EUR
+SO001603,2025-12-21,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001604,2025-12-08,C0118,Brahim Thomas,E-commerce,30 jours,EUR
+SO001605,2025-12-31,C0047,Smart Office Services,E-commerce,30 jours,EUR
+SO001606,2025-12-20,C0076,Julie Diop,Inside Sales,CB - comptant,EUR
+SO001607,2025-12-30,C0155,Azur Concept SARL,E-commerce,30 jours,EUR
+SO001608,2025-12-24,C0162,Optima Conseil Services,Retail,45 jours,EUR
+SO001609,2025-12-04,C0014,Cap Sud Equipement SAS,Retail,CB - comptant,EUR
+SO001610,2025-12-15,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO001611,2025-12-04,C0040,Urban Motion SARL,Retail,CB - comptant,EUR
+SO001612,2025-12-05,C0118,Brahim Thomas,Inside Sales,30 jours,EUR
+SO001613,2025-12-18,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO001614,2025-12-12,C0172,Antoine Dupont,Retail,45 jours,EUR
+SO001615,2025-12-30,C0173,Vision Commerce Holding,E-commerce,45 jours,EUR
+SO001616,2025-12-18,C0136,Thomas Martin,E Commerce,30 jours,EUR
+SO001617,2025-12-05,C0171,Louis Vincent,E-commerce,30 jours,EUR
+SO001618,2025-12-23,C0078,Topline Solutions SARL,E-commerce,CB - comptant,EUR
+SO001619,2025-12-21,C0138,Bati Plus SARL,Retail,CB - comptant,EUR
+SO001620,2025-12-30,C0156,Julie Roux,E-commerce,30 jours,EUR
+SO001621,2025-12-08,C0141,Atlas Trading Services,E-commerce,45 jours,EUR
+SO001622,2025-12-05,C0080,Urban Motion Services,Inside Sales,CB - comptant,EUR
+SO001623,2025-12-01,C0047,Smart Office Services,Inside Sales,30 jours,EUR
+SO001624,2025-12-06,C0034,Atlas Trading Holding,Retail,CB - comptant,EUR
+SO001625,2025-12-11,C0162,Optima Conseil Services,Retail,45 jours,EUR
+SO001626,2025-12-28,C0069,Florian Girard,Inside Sales,30 jours,EUR
+SO001627,2025-12-24,C0168,Riviera Supply Group,E-commerce,CB - comptant,EUR
+SO001628,2025-12-18,C0081,Optima Conseil Holding,E-commerce,30 jours,EUR
+SO001629,2025-12-19,C0032,Chloe Robert,Retail,30 jours,EUR
+SO001630,2025-12-17,C0076,Julie Diop,Inside Sales,CB - comptant,EUR
+SO001631,2025-12-08,C0139,Lea Konate,Inside Sales,CB - comptant,EUR
+SO001632,2025-12-09,C0084,Louis David,Retail,45 jours,EUR
+SO001633,2025-12-05,C0068,Kora Logistics SARL,E-commerce,30 jours,EUR
+SO000675,2025-06-07,C0048,Hugo David,E-commerce,45 jours,EUR
+SO001628,2025-12-18,C0081,Optima Conseil Holding,E-commerce,30 jours,EUR
+SO000544,2025-05-17,C0153,Camille Richard,Retail,45 jours,EUR
+SO000507,2025-05-10,C0152,Vision Commerce Group,Retail ,30 jours,EURO
+SO000874,2025-08-28,C0003,Atlas Trading Holding,Retail,30 jours,EUR
+SO001031,2025-09-10,C0137,Jade Lopez,Inside Sales,CB - comptant,EUR
+SO000519,2025-05-28,C0020,Laura Diallo,Retail,CB - comptant,EUR
+SO001554,2025-12-24,C0156,Julie Roux,Retail,30 jours,EUR
+SO001236,2025-10-28,C0106,Laura Bertrand,Retail,30 jours,EUR
+SO000272,2025-03-18,c0095,Ahmed Lopez,Retail,CB - comptant,EUR
+SO001551,2025-12-10,C0018,Aurelien Lefevre,E-commerce,30 jours,EUR
+SO001581,2025-12-21,C0073,Bati Plus Holding,Retail,CB - comptant,EUR
+SO000916,2025-08-17,C0114,Optima Conseil Holding,E-commerce,45 jours,EUR
+SO001603,2025-12-21,C0043,Alpha Partners SAS,E-commerce,CB - comptant,EUR
+SO001050,2025-09-28,C0138,Bati Plus SARL,Retail,CB - comptant,EUR
+SO000552,2025-05-29,C0035,Alpha Partners Group,inside sales,CB - comptant,EUR
+SO001545,2025-12-22,C0006,Azur Concept Services,E-commerce,CB - comptant,EUR
+SO000591,2025-06-26,C0004,Antoine Diallo,Retail,45 jours,EUR
+SO000722 ,2025-07-02,C0092,Atlas Trading SARL,retail,CB - comptant,EUR
+SO000589,2025-06-07,C0039,Morgane Vincent,E-commerce,CB - comptant,EUR
+SO000345,2025-04-14,C0147,Sarah Petit,Retail,30 jours,EUR
+SO001632,2025-12-09,C0084,Louis David,Retail,45 jours,EUR
+SO000454,2025-05-30,C0112,Karim Dupont,E-commerce,CB - comptant,EUR
+SO001326,2025-11-06,C0052,Riviera Supply SAS,Retail,30 jours,EUR
+SO000577,2025-06-10,C0078,Topline Solutions SARL,Retail,CB - comptant,EUR
+SO001277,2025-11-17,C0063,Paul Konate,Retail,30 jours,EUR
+SO000843,2025-08-04,C0173,Vision Commerce Holding,Retail,45 jours,EUR
+SO000416,NA,c0152,Vision Commerce Group,Retail ,30 jours,EUR
+SO000744,2025-07-12,C0153,Camille Richard,E-commerce,45 jours,EUR
+SO000071,2025-01-15,C0165,Louis Petit,Retail,45 jours,EUR
+SO000757,2025-07-26,C0131,Urban Motion SAS,E-commerce,CB - comptant,EUR
+SO000204,2025-03-20,C0105,Noemie Laurent,Inside Sales,45 jours,EUR

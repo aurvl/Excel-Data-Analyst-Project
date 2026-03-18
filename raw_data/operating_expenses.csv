@@ -1,0 +1,428 @@
+expense_id,expense_date,expense_type,department,vendor_name,amount,currency
+EXP000001,2025-01-03,Rent,General & Admin,SCI Riviera Immo,18218.79,EUR
+EXP000002,2025-01-26,Payroll,HR,Cabinet Paye Sud,110435.27,EUR
+EXP000003,N/A,Software,IT,OVHcloud,975.02,EUR
+EXP000004,2025-01-21,Software,IT,Notion,2153.37,EUR
+EXP000005,2025-01-10,Software,IT,Microsoft,2741.45,EUR
+EXP000006,2025-01-08,Marketing,Sales & Marketing,Meta Ads,2262.01,EUR
+EXP000007,2025-01-14,Marketing,Sales & Marketing,Agence Pulse,3870.41,EUR
+EXP000008,2025-01-31,Marketing,Sales & Marketing,Google Ads,6783.01,EUR
+EXP000009,2025-01-18,Marketing,Sales & Marketing,Agence Pulse,2655.03,EUR
+EXP000010,2025-01-08,Marketing,Sales & Marketing,Meta Ads,5913.4,EUR
+EXP000011,2025-01-12,Marketing,Sales & Marketing,Meta Ads,2446.66,EUR
+EXP000012,2025-01-24,Marketing,Sales & Marketing,TikTok Ads,1425.66,EUR
+EXP000013,2025-01-20,Marketing,Sales & Marketing,Agence Pulse,3399.59,EUR
+EXP000014,2025-01-03,Marketing,Sales & Marketing,Agence Pulse,8166.48,eur
+EXP000015,2025-01-13,Logistics,Operations,Na,1271.98,EUR
+EXP000016,2025-01-15,Logistics,Operations,DHL,1929.79,EUR
+EXP000017,2025-01-19,Logistics,Operations,FedEx,1759.01,EUR
+EXP000018,2025-01-07,Logistics,Operations,Chronopost,1645.09,EUR
+EXP000019,2025-01-11,Logistics,Operations,UPS,1136.54,EUR
+EXP000020,2025-01-20,Logistics,Operations,DHL,365.1,EUR
+EXP000021,2025-01-11,Logistics,Operations,FedEx,1849.26,EUR
+EXP000022,2025-01-10,Logistics,Operations,DHL,1223.2,EUR
+EXP000023,2025-01-02,Office,General & Admin,Office Depot,468.42,EUR
+EXP000024,2025-01-06,Travel,Sales & Marketing,SNCF,1645.63,EUR
+EXP000025,2025-01-04,Professional Fees,Finance,Compta Expert,1468.14,EUR
+EXP000026,2025-01-12,Professional Fees,Finance,Compta Expert,3051.37,EUR
+EXP000027,2025-01-24,Utilities,General & Admin,Veolia,3224.83,EUR
+EXP000028,2025-01-21,Professional Fees,Finance,Compta Expert,768.21,EUR
+EXP000029,2025-01-14,Professional Fees,Finance,Compta Expert,3082.75,EUR
+EXP000030,2025-01-16,Travel,Sales & Marketing,Air France,1894.28,EUR
+EXP000031,2025-01-15,Travel,Sales & Marketing,Booking Business,946.93,EUR
+EXP000032,2025-01-15,Professional Fees,Finance,Compta Expert,1619.86,EUR
+EXP000033,2025-02-03,Rent,General & Admin,SCI Riviera Immo,17672.92,EUR
+EXP000034,2025-02-26,Payroll,HR,Cabinet Paye Sud,110996.0,EURO
+EXP000035,2025-02-22,Software,IT,Adobe,2121.86,EUR
+EXP000036,2025-02-06,Software,IT,Adobe,1677.71,EUR
+EXP000037,2025-02-09,Software,IT,HubSpot,2091.5,EUR
+EXP000038,2025-02-09,Software,IT,HubSpot,889.17,EUR
+EXP000039,2025-02-13,Software,IT,Adobe,2381.67,EUR
+EXP000040,2025-02-28,Marketing,Sales & Marketing,Agence Pulse,2077.9,EUR
+EXP000041,2025-02-25,Marketing,Sales & Marketing,  TikTok Ads  ,1835.0,EUR
+EXP000042,2025-02-10,Marketing,Sales & Marketing,Meta Ads,7388.9,EUR
+EXP000043,2025-02-10,Marketing,Sales & Marketing,Agence Pulse,2637.35,EUR
+EXP000044,2025-02-03,Marketing,Sales & Marketing,Agence Pulse,8442.43,EUR
+EXP000045,2025-02-18,Marketing,Sales & Marketing,Google Ads,4996.4,EUR
+EXP000046,2025-02-27,Marketing,Sales & Marketing,TikTok Ads,4830.03,EUR
+EXP000047,2025-02-06,Logistics,Operations,UPS,841.68,EUR
+EXP000048,2025-02-07,Logistic,Operations,FedEx,1629.11,eur
+EXP000049,2025-02-10,Logistics,Operations,FedEx,2208.37,EUR
+EXP000050,2025-02-27,Logistics,Operations,FedEx,284.87,EUR
+EXP000051,2025-02-17,Logistics,Operations,Chronopost,1317.15,EUR
+EXP000052,2025-02-26,Logistics,Operations,FedEx,"2029,02",EUR
+EXP000053,2025-02-09,Logistics,Operations,Chronopost,513.18,EUR
+EXP000054,,Logistics,Operations,DHL,2188.23,EUR
+EXP000055,25-02-2025,Logistics,Operations,UPS,1277.0,EUR
+EXP000056,2025-02-21,Logistics,Operations,UPS,1970.11,EUR
+EXP000057,2025-02-18,Logistics,Operations,DHL,624.53,EUR
+EXP000058,2025-02-10,Logistics,Operations,Chronopost,817.81,EUR
+EXP000059,2025-02-11,Logistics,Operations,UPS,1012.25,EUR
+EXP000060,2025-02-09,Office,General & Admin,Bureau Vallee,1145.6,EUR
+EXP000061,2025-02-28,Office,General & Admin,Bureau Vallee,2428.92,EUR
+EXP000062,2025-02-15,Utilities,General & Admin,EDF,2505.21,EUR
+EXP000063,03/02/2025,Travel,Sales & Marketing,Booking Business ,423.9,EUR
+EXP000064,2025-02-27,Utilities,General & Admin,Orange Business,2825.68,EUR
+EXP000065,06/02/2025,Travel,Sales & Marketing,Booking Business,2401.0,EUR
+EXP000066,2025-02-01,Office,General & Admin,Office Depot,848.64,EUR
+EXP000067,2025-03-01,Rent,General & Admin,SCI Riviera Immo,18045.24,EUR
+EXP000068,2025-03-26,Payroll,HR,Cabinet Paye Sud,109278.32,EUR
+EXP000069,2025-03-07,Software,IT,HubSpot,697.82,EUR
+EXP000070,2025-03-01,Software,IT,HubSpot,532.3,EUR
+EXP000071,2025-03-25,Software,IT,Adobe,599.52,EUR
+EXP000072,2025-03-20,Software,IT,Adobe,2294.96,EUR
+EXP000073,2025-03-05,Marketing,Sales & Marketing,Meta Ads,7722.49,EUR
+EXP000074,2025-03-21,Marketing,Sales & Marketing,Meta Ads,4110.51,EUR
+EXP000075,2025-03-26,Marketing,Sales & Marketing,TikTok Ads,6639.31,EUR
+EXP000076,2025-03-02,Marketing,Sales & Marketing,Google Ads,3698.36,EUR
+EXP000077,2025-03-29,Marketing,Sales & Marketing,Google Ads,"7179,68",EUR
+EXP000078,2025-03-05,Marketing,Sales & Marketing,TikTok Ads,4510.88,EUR
+EXP000079,2025-03-21,Marketing,Sales & Marketing,Meta Ads,4626.86,EUR
+EXP000080,2025-03-20,Marketing,Sales & Marketing,Google Ads,5593.05,EUR
+EXP000081,2025-03-12,Marketing,Sales & Marketing,Meta Ads,3125.26,EUR
+EXP000082,2025-03-07,Marketing,Sales & Marketing,TikTok Ads,3471.95,EUR
+EXP000083,2025-03-11,Logistics,Operations,Chronopost,1756.36,EUR
+EXP000084,2025-03-27,Logistics,Operations,FedEx,1517.73,EUR
+EXP000085,2025-03-22,Logistics,Operations,UPS,977.62,EUR
+EXP000086,2025-03-11,Logistics,Operations,FedEx,561.48,EUR
+EXP000087,2025-03-18,Logistics,Operations,FedEx,526.47,EUR
+EXP000088,2025-03-05,Logistics,Operations,FedEx,1520.18,EUR
+EXP000089,2025-03-23,Logistics,Operations,Chronopost,1217.49,EUR
+EXP000090,26/03/2025,Logistics,Operations,FedEx,"395,17",EUR
+EXP000091,2025-03-21,Logistics,Operations,FedEx,430.48,EUR
+EXP000092,2025-03-21,Professional Fees,Finance,Cabinet Audit Conseil,2315.93,EUR
+EXP000093,2025-03-15,Professional Fees,Finance,Compta Expert,2928.36,EUR
+EXP000094,2025-03-31,Travel,Sales & Marketing,Booking Business,4134.15,EUR
+EXP000095,2025-03-19,Office,General & Admin,Office Depot,2927.22,EUR
+EXP000096,2025-03-02,Travel,Sales & Marketing,SNCF,1286.02,EUR
+EXP000097,2025-03-17,Professional Fees,Finance,Cabinet Audit Conseil,749.34,EUR
+EXP000098,2025-03-22,Professional Fees,Finance,Legal Partners,4016.31,EUR
+EXP000099,2025-03-01,Professional Fees,Finance,Compta Expert,881.2,EUR
+EXP000100,2025-03-22,Utilities,General & Admin,EDF,3474.05,EUR
+EXP000101,2025-04-03,rent,General & Admin,SCI Riviera Immo,17881.71,EUR
+EXP000102,2025-04-24,Payroll,HR,Cabinet Paye Sud,114089.78,EUR
+EXP000103,2025-04-01,Software,IT,Adobe,398.02,EUR
+EXP000104,2025-04-13,Software,IT,Adobe,2147.77,EUR
+EXP000105,2025-04-26,Software,IT,HubSpot,2333.57,EUR
+EXP000106,2025-04-24,Marketing,Sales & Marketing,Google Ads,8607.3,EUR
+EXP000107,2025-04-27,Marketing,Sales & Marketing,Google Ads,5039.27,EUR
+  EXP000108  ,06/04/2025,Marketing,Sales & Marketing,Meta Ads,7353.04,EUR
+EXP000109,2025-04-13,Marketing,Sales & Marketing,TikTok Ads,5995.38,EUR
+EXP000110,2025-04-04,Marketing,Sales & Marketing,TikTok Ads,1377.22,EUR
+EXP000111,2025-04-05,Marketing,Sales & Marketing,Agence Pulse,9464.27,EUR
+EXP000112,2025-04-23,Marketing,Sales & Marketing,TikTok Ads,7713.36,EUR
+EXP000113,2025-04-15,Marketing,Sales & Marketing,TikTok Ads,4134.89,EUR
+EXP000114,2025-04-27,Logistics,Operations,DHL,1064.17,EUR
+EXP000115,2025-04-23,Logistics,Operations,Chronopost,606.77,EUR
+EXP000116,2025-04-14,Logistics,Operations,FedEx,1513.57,EUR
+EXP000117,2025-04-09,Logistics,Operations,FedEx,2397.74,EUR
+EXP000118,2025-04-14,Logistics,Operations,DHL,1863.21,EUR
+EXP000119,2025-04-18,Logistics,Operations,FedEx,1928.43,EUR
+EXP000120,2025-04-04,Logistics,Operations,FedEx,372.51,EUR
+EXP000121,2025-04-23,Logistics,Operations,DHL,2278.64, Eur 
+EXP000122,2025-04-19,Logistics,Operations,UPS,971.14,EUR
+EXP000123,2025-04-12,Logistics,Operations,UPS,1389.1,EUR
+EXP000124,2025-04-28,Logistics,Operations,FedEx,2214.98,EUR
+EXP000125,2025-04-18,Logistics,Operations,FedEx,2308.16,EUR
+EXP000126,2025-04-29,Logistics,Operations,Chronopost,737.25,EUR
+EXP000127,2025-04-17,Travel,Sales & Marketing,SNCF,2435.16,EUR
+EXP000128,2025-04-09,Professional Fees,Finance,Legal Partners,4081.24,EUR
+EXP000129,2025-04-19,Travel,Sales & Marketing,SNCF,1932.88,EUR
+EXP000130,2025-04-17,Travel,Sales & Marketing,Air France,4022.0,EUR
+EXP000131,2025-04-07,Travel,Sales & Marketing,Booking Business,3722.37,EUR
+EXP000132,2025-04-18,Office,General & Admin,Office Depot,2294.94,EUR
+EXP000133,2025-04-30,Office,General & Admin,Bureau Vallee,1007.24,EUR
+EXP000134,2025-05-04,Rent,General & Admin,SCI Riviera Immo,17626.66,EUR
+EXP000135,2025-05-23,Payroll,HR,Cabinet Paye Sud,112679.01,EUR
+EXP000136,2025-05-06,Software,IT,HubSpot,2290.83,EUR
+EXP000137,2025-05-11,Software,IT,OVHcloud,549.04,EUR
+EXP000138,2025-05-17,Software,IT,OVHcloud,804.59,EUR
+EXP000139,2025-05-22,Software,IT,Microsoft,2625.6,EUR
+EXP000140,2025-05-29,Software,IT,Microsoft,1576.23,EUR
+EXP000141,2025-05-27,Marketing,Sales & Marketing,TikTok Ads,5384.23,EUR
+EXP000142,2025-05-20,Marketing,Sales & Marketing,Google Ads,4339.66,EUR
+EXP000143,2025-05-29,Marketing,Sales & Marketing,TikTok Ads,2436.87,EUR
+EXP000144,2025-05-03,Marketing,Sales & Marketing,Google Ads,8026.01,EUR
+EXP000145,2025-05-27,Marketing,Sales & Marketing,Meta Ads,7029.37,EUR
+EXP000146,2025-05-09,Marketing,Sales & Marketing,Agence Pulse,5688.68,EUR
+EXP000147,2025-05-01,Marketing,Sales & Marketing,TikTok Ads,1548.05,EUR
+EXP000148,2025-05-12,Marketing,Sales & Marketing,Agence Pulse,5431.88,EUR
+EXP000149,2025-05-01,Logistics,Operations,Chronopost,2188.57,EUR
+EXP000150,2025-05-17,Logistics,Operations,FedEx,1366.05,EUR
+EXP000151,2025-05-18,Logistics,Operations,UPS,795.1,EUR
+EXP000152,2025-05-08,Logistics,Operations,UPS,1952.55,EUR
+EXP000153,2025-05-25,Logistics,Operations,FedEx,1931.98,EUR
+EXP000154,,Logistics,Operations,UPS,379.78,EUR
+EXP000155,2025-05-26,Logistics,Operations,FedEx,731.78,EUR
+EXP000156,2025-05-09,Logistics,Operations,UPS,828.73,EUR
+EXP000157,2025-05-24,Logistics,Operations,DHL,441.1,EUR
+EXP000158,2025-05-17,Logistics,Operations,Fedex,1624.63, Eur 
+EXP000159,2025-05-10,Logistics,Operations,DHL,1058.19,EUR
+EXP000160,2025-05-28,Logistics,Operations,DHL,2350.88,EUR
+EXP000161,2025-05-27,Professional Fees,Finance,Cabinet Audit Conseil,520.53,EUR
+EXP000162,2025-05-18,Utilities,General & Admin,Veolia,3672.13,EUR
+EXP000163,2025-05-03,Utilities,General & Admin,EDF,3735.64,EUR
+EXP000164,2025-05-10,Office,General & Admin,Bureau Vallee,1474.76,EUR
+EXP000165,2025-05-15,Utilities,General & Admin,Veolia,1198.51,EUR
+EXP000166,2025-05-15,Office,General & Admin,Bureau Vallee,684.12,EUR
+EXP000167,2025-05-09,Office,General & Admin,Office Depot,3639.13,EUR
+EXP000168,2025-05-05,Utilities,General & Admin,Veolia,3785.64,EUR
+EXP000169,2025-05-10,Office,General & Admin,Office Depot,3430.06,EUR
+EXP000170,2025-06-04,Rent,General & Admin,SCI Riviera Immo,18052.75,EUR
+EXP000171,2025-06-24,Payroll,HR,Cabinet Paye Sud,112093.64,EUR
+EXP000172,2025-06-09,Software,IT,Notion, 2416.34 ,EUR
+EXP000173,2025-06-03,Software,IT,Notion,2389.06,EUR
+EXP000174,2025-06-19,Software,IT,Adobe,1607.03,EUR
+EXP000175,2025-06-06,Software,IT,OVHcloud,1541.48,EUR
+EXP000176,2025-06-22,Marketing,Sales & Marketing,Meta Ads,7019.83,EUR
+EXP000177,2025-06-21,Marketing,Sales & Marketing,Google Ads,8979.54,EUR
+EXP000178,2025-06-23,Marketing,Sales & Marketing,Agence Pulse,6173.87,EUR
+EXP000179,2025-06-14,Marketing,Sales & Marketing,Meta Ads,4688.62,EUR
+EXP000180,2025-06-20,Marketing,Sales & Marketing,Meta Ads,1977.59,EUR
+EXP000181,2025-06-20,Marketing,Sales & Marketing,Agence Pulse,7785.96,EUR
+EXP000182,2025-06-25,Marketing,Sales & Marketing,TikTok Ads,8480.68,EUR
+EXP000183,2025-06-23,Marketing,Sales & Marketing,TikTok Ads ,5490.0,EUR
+EXP000184,2025-06-18,Marketing,Sales & Marketing,Google Ads,1535.29,EUR
+EXP000185,2025-06-28,Marketing,Sales & Marketing,Meta Ads,"7072,41",EUR
+EXP000186,2025-06-05,Logistics,Operations,Chronopost,249.08,EUR
+EXP000187,2025-06-10,Logistics,Operations,DHL,1328.84,EUR
+EXP000188,2025-06-06,Logistics,Operations,UPS,764.39,EUR
+EXP000189,2025-06-15,Logistics,Operations,DHL,1937.34,EUR
+EXP000190,2025-06-25,Logistics,Operations,DHL,1842.95,EUR
+EXP000191,2025-06-15,Logistics,Operations,UPS,371.9,eur
+EXP000192,2025-06-19,logistics,Operations,FedEx,1323.63,EUR
+EXP000193,2025-06-28,Logistics,Operations,UPS,1431.14,EUR
+EXP000194,2025-06-08,Logistics,Operations,DHL,314.64,EUR
+EXP000195,04-06-2025,Logistics,Operations,UPS,191.41,EUR
+EXP000196,2025-06-12,Utilities,General & Admin,Orange Business,1284.4,EUR
+EXP000197,2025-06-27,Travel,Sales & Marketing,SNCF,576.73,EUR
+EXP000198,2025-06-15,Travel,Sales & Marketing,Air France,4089.83,EUR
+EXP000199,2025-06-10,Travel,Sales & Marketing,Booking Business,2427.24,EUR
+EXP000200,2025-06-06,Office,General & Admin,Office Depot,4192.58,EUR
+EXP000201,2025-06-16,Office,General & Admin,Office Depot,4103.36,EUR
+EXP000202,2025-06-16,Travel,Sales & Marketing,Air France,3474.22,EUR
+EXP000203,2025-06-18,Travel,Sales & Marketing,Booking Business,2747.73,EUR
+EXP000204,2025-06-02,Professional Fees,Finance,Legal Partners,1057.05,EUR
+EXP000205,2025-06-30,Office,General & Admin,Bureau Vallee,2419.18,EUR
+EXP000206,2025-07-05,Rent,General & Admin,SCI Riviera Immo,18383.39,EUR
+EXP000207,2025-07-21,Payroll,HR,Cabinet Paye Sud,115045.79,EUR
+EXP000208,2025-07-29,Software,IT,Notion,2328.27,EUR
+EXP000209,2025-07-28,Software,IT,HubSpot,1863.98,EUR
+EXP000210,2025-07-06,Software,IT,Adobe,660.18,EUR
+EXP000211,2025-07-21,Software,IT,HubSpot,339.66,EUR
+EXP000212,2025-07-17,Marketing,Sales & Marketing,TikTok Ads,7159.56,EUR
+EXP000213,2025-07-02,Marketing,Sales & Marketing,Agence Pulse,2376.89,EUR
+EXP000214,2025-07-23,Marketing,Sales & Marketing,Meta Ads,1702.04,EUR
+EXP000215,2025-07-08,Marketing,Sales & Marketing,TikTok Ads,8215.32,EUR
+EXP000216,2025-07-15,Marketing,Sales & Marketing,Agence Pulse,8709.94,EUR
+EXP000217,2025-07-20,Marketing,Sales & Marketing,Google Ads,8638.06,EUR
+EXP000218,2025-07-25,Marketing,Sales & Marketing,TikTok Ads,4891.56,EUR
+EXP000219,2025-07-12,Marketing,Sales & Marketing,Google Ads,7594.42,EUR
+EXP000220,2025-07-27,Logistic,Operations,UPS,2017.72,EUR
+EXP000221,2025-07-14,Logistics,Operations,UPS,371.43,EUR
+EXP000222,2025-07-20,Logistics,Operations,UPS,2251.6,EUR
+EXP000223,2025-07-19,Logistics,Operations,UPS,1699.83,EUR
+EXP000224,2025-07-04,Logistics,Operations,UPS,2376.84,EUR
+EXP000225,2025-07-26,Logistics,Operations,DHL,218.53,EUR
+EXP000226,2025-07-07,Logistics,Operations,Chronopost,1524.26,EURO
+EXP000227,2025-07-03,Logistics,Operations,DHL,2280.65,EUR
+EXP000228,2025-07-10,Logistics,Operations,Chronopost,562.15,EUR
+EXP000229,2025-07-30,Logistics,Operations,FedEx,1691.28,EUR
+EXP000230,N/A,Logistics,Operations,FedEx, 1988.5 ,EUR
+EXP000231,2025-07-25,Logistics,Operations,Chronopost,486.94,EUR
+EXP000232,2025-07-08,Logistics,Operations,FedEx,1796.22,EUR
+EXP000233,2025-07-03,Travel,Sales & Marketing,Air France,3126.4,EUR
+EXP000234,2025-07-13,Utilities,General & Admin,EDF,228.95,EUR
+EXP000235,2025-07-09,Professional Fees,Finance,Cabinet Audit Conseil,2711.61,EUR
+EXP000236,2025-07-19,Travel,Sales & Marketing,Booking Business,4036.05,EUR
+EXP000237,2025-07-22,Office,General & Admin,Office Depot,1786.82,EUR
+EXP000238,2025-07-05,Professional Fees,Finance,Legal Partners,2478.34,EUR
+EXP000239,2025-07-10,Professional Fees,Finance,Legal Partners,3155.69,EUR
+EXP000240,2025-07-07,Professional Fees,Finance,Legal Partners,2862.46,EUR
+EXP000241,2025-07-18,Travel,Sales & Marketing,Air France,1077.45,EUR
+EXP000242,2025-07-27,Professional Fees,Finance,Legal Partners,244.88,EUR
+EXP000243,2025-08-02,Rent,General & Admin,SCI Riviera Immo,17686.01,EUR
+EXP000244,2025-08-21,Payroll,HR,Cabinet Paye Sud,117516.37,EUR
+EXP000245,2025-08-01,Software,IT,Adobe,1462.72,EUR
+EXP000246,2025-08-07,software,IT,Microsoft ,502.11,EUR
+EXP000247,2025-08-31,Software,IT,Adobe,914.0,EUR
+EXP000248,2025-08-16,Marketing,Sales & Marketing,Agence Pulse,4045.16,EUR
+EXP000249,2025-08-18,Marketing,Sales & Marketing,Meta Ads,6356.18,EUR
+EXP000250,2025-08-01,Marketing,Sales & Marketing,Google Ads,5606.32,EUR
+EXP000251,2025-08-11,Marketing,Sales & Marketing,Google Ads,6413.63,EUR
+EXP000252,2025-08-30,Marketing,Sales & Marketing,Google Ads,8120.77,EUR
+EXP000253,2025-08-05,Marketing,Sales & Marketing,TikTok Ads,8741.41,EUR
+EXP000254,2025-08-01,Marketing,Sales & Marketing,Agence Pulse,2422.81,EUR
+EXP000255,2025-08-18,Marketing,Sales & Marketing,Agence Pulse,2192.0,EUR
+EXP000256,2025-08-14,Logistics,Operations,DHL,463.23,EUR
+EXP000257,2025-08-29,Logistics,Operations,Chronopost,1048.72,EUR
+EXP000258,2025-08-27,Logistics,Operations,UPS,870.74,EUR
+EXP000259,2025-08-22,Logistics,Operations,Chronopost,216.37,EUR
+EXP000260,2025-08-12,Logistics,Operations,UPS,1727.45,EUR
+EXP000261,2025-08-28,Logistics,Operations,Chronopost,194.06,EUR
+EXP000262,2025-08-04,Logistics,Operations,UPS,1436.49,EUR
+EXP000263,2025-08-22,Logistics,Operations,DHL,1936.13,EUR
+EXP000264,2025-08-31,Logistics,Operations,Chronopost,471.09,EUR
+EXP000265,2025-08-24,Logistics,Operations,UPS,2340.57,EUR
+EXP000266,2025-08-26,Logistics,Operations,DHL,651.45,EUR
+EXP000267,2025-08-15,Logistics,Operations,DHL,1510.76,eur
+EXP000268,2025-08-11,Logistics,Operations,UPS,989.99,EUR
+EXP000269,2025-08-08,Logistics,Operations,Chronopost,1657.73,EUR
+EXP000270,2025-08-17,Logistics,Operations,FedEx,1327.44,EUR
+EXP000271,2025-08-24,Utilities,General & Admin,EDF,3971.08,EUR
+EXP000272,2025-08-18,Professional Fees,Finance,Legal Partners,3996.27,EUR
+EXP000273,2025-08-31,Travel,Sales & Marketing,Air France,4114.03,eur
+EXP000274,2025-08-02,Professional Fees,Finance,Cabinet Audit Conseil,2772.67,EUR
+EXP000275,2025-08-30,Utilities,General & Admin,Orange Business,1124.23,EUR
+EXP000276,08-07-2025,Travel,Sales & Marketing,SNCF,"1204,44",EUR
+EXP000277,2025-09-03,Rent,General & Admin,SCI Riviera Immo,18356.3,EUR
+EXP000278,2025-09-26,Payroll,HR,Cabinet Paye Sud,117826.07,EUR
+EXP000279,2025-09-27,Software,IT,Microsoft,1163.52,EUR
+EXP000280,2025-09-18,Software,IT,HubSpot,2720.59,EUR
+EXP000281,2025-09-22,Software,IT,HubSpot,1770.94,EUR
+EXP000282,2025-09-14,Marketing,Sales & Marketing,Meta Ads,3962.37,EUR
+EXP000283,2025-09-13,Marketing,Sales & Marketing,Meta Ads,8317.51,EUR
+EXP000284,2025-09-03,Marketing,Sales & Marketing,Google Ads,8697.98,EUR
+EXP000285,2025-09-24,Marketing,Sales & Marketing,Google Ads,7394.61,EUR
+EXP000286,2025-09-13,Marketing,Sales & Marketing,Agence Pulse,1368.89,EUR
+EXP000287,2025-09-24,Marketing,Sales & Marketing,Meta Ads,1347.97,EUR
+EXP000288,2025-09-13,Marketing,Sales & Marketing,Google Ads,2661.46,EUR
+EXP000289,2025-09-02,Marketing,Sales & Marketing,Meta Ads,7988.15,EUR
+EXP000290,2025-09-21,Marketing,Sales & Marketing,TikTok Ads,7558.64,EUR
+EXP000291,2025-09-29,Logistics,Operations,Chronopost,1567.69,EUR
+EXP000292,2025-09-06,Logistics,Operations,FedEx,2192.61,EUR
+EXP000293,2025-09-07,Logistics,Operations,FedEx,2278.92,EUR
+EXP000294,2025-09-17,Logistics,Operations,FedEx,628.47,EUR
+EXP000295,2025-09-29,Logistics,Operations,UPS,905.49,EUR
+EXP000296,2025-09-14,Logistics,Operations,FedEx,1115.1,EUR
+EXP000297,2025-09-16,Logistics,Operations,UPS,1781.46,EUR
+EXP000298,2025-09-04,Logistics,Operations,DHL,874.47,EUR
+EXP000299,2025-09-04,Logistics,Operations,DHL,1612.97,eur
+EXP000300,2025-09-23,logistics,Operations,Chronopost,590.0, Eur 
+EXP000301,2025-09-07,Logistics,Operations,Chronopost,218.94,EUR
+EXP000302,2025-09-02,Logistics,Operations,UPS,2198.05,EUR
+EXP000303,2025-09-15,Logistics,Operations,DHL,359.26,EUR
+EXP000304,2025-09-07,Logistics,Operations,Chronopost,509.31,EUR
+EXP000305,2025-09-15,Logistics,Operations,Chronopost,1407.86,EUR
+EXP000306,2025-09-23,Office,General & Admin,Bureau Vallee,3572.76,EUR
+EXP000307,2025-09-26,Office,General & Admin,Bureau Vallee,2444.53,EUR
+EXP000308,2025-09-02,Travel,Sales & Marketing,Air France,1777.27,EUR
+EXP000309,2025-09-01,Travel,Sales & Marketing,Air France,4179.62,EUR
+EXP000310,2025-09-06,Utilities,General & Admin,EDF,1535.88,EUR
+EXP000311,2025-09-19,Professional Fees,Finance,Compta Expert,3728.01,EUR
+EXP000312,2025-09-13,Professional Fees,Finance,Compta Expert,1980.43,EUR
+EXP000313,2025-09-13,Travel,Sales & Marketing,SNCF,1241.12,EUR
+EXP000314,2025-09-07,Office,General & Admin,Office Depot,4013.22,EUR
+EXP000315,2025-10-03,Rent,General & Admin,SCI Riviera Immo,17612.27,EUR
+EXP000316,2025-10-26,Payroll,HR,Cabinet Paye Sud,115147.21,EUR
+EXP000317,2025-10-25,Software,IT,OVHcloud,1199.08,EUR
+EXP000318,2025-10-16,Software,IT,Adobe,2193.02,EUR
+EXP000319,2025-10-15,Software,IT,HubSpot,2331.98,EUR
+EXP000320,2025-10-12,Software,IT,Microsoft,254.78,EUR
+EXP000321,2025-10-22,Marketing,Sales & Marketing,Google Ads,1435.93,EUR
+EXP000322,2025-10-10,Marketing,Sales & Marketing,Google Ads,5459.89,EUR
+EXP000323,2025-10-06,Marketing,Sales & Marketing,Agence Pulse,8767.95,EUR
+EXP000324,2025-10-04,Marketing,Sales & Marketing,Google Ads,6949.07,EUR
+EXP000325,2025-10-22,Marketng,Sales & Marketing,Meta Ads,6000.71,EURO
+EXP000326,2025-10-07,Marketing,Sales & Marketing,Meta  Ads,2668.2,EUR
+EXP000327,2025-10-17,Marketing,Sales & Marketing,Google Ads,3641.67,EUR
+EXP000328,15/10/2025,Logistics,Operations,UPS,1022.13,EURO
+EXP000329,2025-10-31,Logistics,Operations,UPS,253.38,EUR
+EXP000330,2025-10-10,Logistics,Operations,FedEx,1699.6,EUR
+EXP000331,2025-10-30,Logistics,Operations,DHL,"1625,61",EUR
+EXP000332,2025-10-13,Logistics,Operations,FedEx,1003.12,EUR
+EXP000333,2025-10-24,Logistics,Operations,UPS,1921.84,EUR
+EXP000334,2025-10-29,Logistics,Operations,FedEx,1794.02,EUR
+EXP000335,2025-10-05,Logistics,Operations,UPS,1549.05,EUR
+EXP000336,2025-10-23,Logistics,Operations,FedEx,797.85,EUR
+EXP000337,2025-10-12,Logistics,Operations,FedEx,545.98,EUR
+EXP000338,2025-10-30,Logistics,Operations,DHL,224.72,EUR
+EXP000339,2025-10-17,Logistics,Operations,DHL,2098.96,EUR
+EXP000340,2025-10-29,Travel,Sales & Marketing,Booking Business,1464.47,EUR
+EXP000341,2025-10-22,Professional Fees,Finance,Compta Expert,1050.85,EUR
+EXP000342,2025-10-03,Professional Fees,Finance,Cabinet Audit Conseil,1704.7,EUR
+EXP000343,2025-10-14,Utilities,General & Admin,EDF,4030.69,EUR
+EXP000344,2025-10-11,Utilities,General & Admin,Veolia,1339.58,EUR
+EXP000345,2025-10-06,Professional Fees,Finance,Compta Expert,379.46,EUR
+EXP000346,2025-10-12,Utilities,General & Admin,EDF,3464.75,EUR
+EXP000347,2025-10-01,Travel,Sales & Marketing,Booking Business,3581.9,EUR
+EXP000348,2025-10-20,Travel,Sales & Marketing,  Air France  ,4061.23,EUR
+EXP000349,2025-10-17,Office,General & Admin,Office Depot,1502.24,EUR
+EXP000350,2025-11-05,Rent,General & Admin,SCI Riviera Immo,17856.39,EUR
+EXP000351,2025-11-25,Payroll,HR,Cabinet Paye Sud,115127.59,EUR
+EXP000352,2025-11-01,Software,IT,HubSpot,1527.21,EUR
+EXP000353,2025-11-15,Software,IT,Microsoft,2586.99,EUR
+EXP000354,2025-11-20,Software,IT,HubSpot,810.39,EUR
+EXP000355,2025-11-11,Software,IT,Notion,628.17,EUR
+EXP000356,2025-11-20,Marketing,Sales & Marketing,TikTok Ads,6706.24,EUR
+EXP000357,2025-11-25,Marketing,Sales & Marketing,Agence Pulse,8162.04,EUR
+EXP000358,2025-11-16,Marketing,Sales & Marketing,Agence Pulse,8867.91,EUR
+EXP000359,2025-11-06,Marketing,Sales & Marketing,Meta Ads,5082.61,EUR
+EXP000360,2025-11-27,,Sales & Marketing,Google Ads,3595.89,EUR
+EXP000361,2025-11-19,Marketing,Sales & Marketing,Agence Pulse,8989.55,EUR
+EXP000362,2025-11-15,Marketing,Sales & Marketing,TikTok Ads,3999.25,EUR
+EXP000363,2025-11-28,Marketing,Sales & Marketing,TikTok Ads,2954.79,EUR
+EXP000364,2025-11-10,Marketing,Sales & Marketing,Agence Pulse,7641.68,EUR
+EXP000365,2025-11-10,Marketing,Sales & Marketing,TikTok Ads,950.56,EUR
+EXP000366,2025-11-19,logistics,Operations,dhl,752.96,EUR
+EXP000367,2025-11-24,Logistics,Operations,FedEx,1752.69,EUR
+EXP000368,2025-11-12,Logistics,Operations,DHL,829.55,EUR
+EXP000369,2025-11-20,Logistics,Operations,UPS,226.33,EUR
+EXP000370,2025-11-02,Logistics,Operations,UPS,452.16,EUR
+EXP000371,2025-11-30,Logistics,Operations,UPS,176.23,EUR
+EXP000372,2025-11-10,Logistics,Operations,DHL,1107.25,EUR
+EXP000373,2025-11-24,Logistics,Operations,FedEx,660.2,EUR
+EXP000374,2025-11-29,Logistics,Operations,DHL,995.76,EUR
+EXP000375,2025-11-12,Logistics,Operations,FedEx,2313.99,EUR
+EXP000376,2025-11-09,Logistics,Operations,FedEx,1326.68,EUR
+EXP000377,14-11-2025,Logistics,Operations,DHL,458.08,EUR
+EXP000378,2025-11-17,Logistics,Operations,Chronopost,1028.89,EUR
+EXP000379,2025-11-05,Logistics,Operations,UPS,1657.26,EUR
+EXP000380,2025-11-22,Logistics,Operations,FedEx,1562.48,EUR
+EXP000381,2025-11-22,Travel,Sales & Marketing,SNCF,2072.76,EUR
+EXP000382,2025-11-20,Office,General & Admin,Office Depot,1380.16,EUR
+EXP000383,2025-11-23,Office,General & Admin,Office Depot,1475.2,EUR
+EXP000384,2025-11-15,Travel,Sales & Marketing,Booking Business,3663.57,EUR
+EXP000385,2025-11-22,Travel,Sales & Marketing,SNCF,1174.88,EUR
+EXP000386,2025-11-28,Utilities,General & Admin,Veolia,273.22,EUR
+EXP000387,2025-12-02,Rent,General & Admin,SCI Riviera Immo,17536.57,EUR
+EXP000388,2025-12-24,Payroll,HR,Cabinet Paye Sud,108481.65, Eur 
+EXP000389,2025-12-19,Software,IT,OVHcloud,746.32,EUR
+EXP000390,2025-12-02,Software,IT,Adobe,2078.05,EUR
+EXP000391,2025-12-31,Software,IT,Adobe,883.43,EUR
+EXP000392,2025-12-03,Software,IT,Notion,304.67,EUR
+EXP000393,2025-12-10,Marketing,Sales & Marketing,Meta Ads,9145.57,EUR
+EXP000394,2025-12-30,Marketing,Sales & Marketing,TikTok Ads,4618.49,EUR
+EXP000395,2025-12-18,Marketing,Sales & Marketing,Meta Ads,3710.65,EUR
+EXP000396,2025-12-09,Marketing,Sales & Marketing,Google Ads,2083.7,EUR
+EXP000397,2025-12-31,Marketing,Sales & Marketing,Meta Ads,7024.82,EUR
+EXP000398,2025-12-23,Marketing,Sales & Marketing,TikTok Ads,8917.83,EUR
+EXP000399,2025-12-18,Marketing,Sales & Marketing,Meta Ads,6841.92,EUR
+EXP000400,2025-12-13,Marketng,Sales & Marketing,Google Ads,8652.66,EUR
+EXP000401,2025-12-06,marketing,Sales & Marketing,TikTok Ads,7535.33,EUR
+EXP000402,2025-12-13,Marketing,Sales & Marketing,Agence Pulse,4129.37,EUR
+EXP000403,2025-12-05,Logistics,Operations,UPS,1921.58,EUR
+EXP000404,2025-12-13,Logistics,Operations,FedEx,2301.71,EUR
+EXP000405,2025-12-16,Logistics,Operations,FedEx,170.45,EUR
+EXP000406,2025-12-15,Logistics,Operations,FedEx,784.65,EUR
+EXP000407,2025-12-22,Logistics,Operations,Chronopost,1133.75,EUR
+Exp000408,2025-12-19,Logistics,Operations,FedEx,380.49,EURO
+EXP000409,2025-12-23,Logistics,Operations,Chronopost,123.04,EUR
+EXP000410,2025-12-26,Logistics,Operations,FedEx,1607.35,EUR
+EXP000411,2025-12-08,Logistics,Operations,Chronopost,2334.38,EUR
+EXP000412,2025-12-23,Logistics,Operations,Chronopost,2030.94,EUR
+EXP000413,2025-12-10,Logistics,Operations,DHL,331.69,EUR
+EXP000414,2025-12-25,Professional Fees,Finance,Legal Partners,959.41,EUR
+EXP000415,2025-12-22,Professional Fees,Finance,Compta Expert,3716.1,EUR
+EXP000416,2025-12-16,Professional Fees,Finance,Cabinet Audit Conseil,2617.07,EUR
+EXP000417,2025-12-14,Professional Fees,Finance,Compta Expert,2980.65,EUR
+EXP000418,2025-12-30,Professional Fees,Finance,Compta Expert,3900.33,EUR
+EXP000419,2025-12-11,Travel,Sales & Marketing,SNCF,162.54,EUR
+EXP000204,2025-06-02,Professional Fees,Finance,Legal Partners,1057.05,EUR
+EXP000279,2025-09-27,Software,IT,Microsoft,1163.52,EUR
+EXP000173,2025-06-03,Software,IT,Notion,2389.06,EUR
+EXP000369,2025-11-20,Logistics,Operations,UPS,226.33,EUR
+EXP000353,2025-11-15,Software,IT,Microsoft,2586.99,EUR
+EXP000074,2025-03-21,Marketing,Sales & Marketing,Meta Ads,4110.51,EUR
+EXP000205,2025-06-30,Office,General & Admin,Bureau Vallee,2419.18,EUR
+EXP000254,2025-08-01,Marketing,Sales & Marketing,Agence Pulse,2422.81,EUR

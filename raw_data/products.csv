@@ -1,0 +1,13 @@
+product_id,product_name,category,business_unit,list_price,standard_cost
+P001,Laptop 14 Pro,Electronics,Tech,1190,760
+P002,Smartphone X5,Electronics,Tech,849,520
+P003,Tablette Air 11,Electronics,Tech,629,395
+P004,Casque Audio Max,Electronics,Tech,179,86
+P005,Ecran 27 pouces,Electronics,Tech,299,182
+P006,Clavier Meca,Electronics,Tech,109,54
+P007,Chaussures City,Fashion,Lifestyle,95,39
+P008,T-Shirt Essential,Fashion,Lifestyle,24,8
+P009,Veste Urban,Fashion,Lifestyle,139,63
+P010,Sac a dos Metro,Fashion,Lifestyle,74,31
+P011,Chaise Ergo,Home,Home,215,124
+P012,Lampe LED Desk,Home,Home,44,18

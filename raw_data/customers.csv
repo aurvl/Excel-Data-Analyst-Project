@@ -1,0 +1,184 @@
+customer_id,customer_name,country,region,segment,payment_terms
+C0001,Sarah Bernard,Côte d'Ivoire,Bouake,B2B PME,30  jours
+C0002,Prestige Home SAS,France,PACA,B2C,CB - comptant
+C0003,Atlas Trading Holding,France,PACA,B2B PME,30 jours
+C0004,Antoine Diallo,Espagne,Catalogne,B2B Grand Compte,45 jours
+C0005,Aicha Francois,Cote dIvoire,Abidjan,B2B PME,30 jours
+C0006,  AZUR CONCEPT SERVICES  ,France,Ile-de-France,B2C,CB - comptant
+C0007,Urban Motion SAS,France,PACA,B2B Grand Compte,45 jours
+C0008,Dylan Chevalier,France,Ile-de-France,B2B PME,30 jours
+C0009,Salome Michel,Cote dIvoire,Bouake,B2B PME,30 jours
+C0010,Elite Habitat Services,France,Occitanie,B2C,CB - comptant
+ C0011, Atlas Trading SAS,France,Occitanie,B2C,CB - comptant
+C0012,Aicha Vincent,France,Ile-de-France,B2B PME,30 jours
+C0013,Riviera Supply Group,Cote dIvoire,Bouake,B2C,CB - comptant
+C0014,Cap Sud Equipement SAS,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0015,Chloe Moreau, France ,PACA,B2B Grand  Compte,45 jours
+C0016,Fatou Petit,France,Ile-de-France,B2B Grand Compte,45 jours
+C0017,Blue Horizon Holding,France,Ile-de-France,B2C,CB - comptant
+C0018,Aurelien Lefevre,France,Nouvelle-Aquitaine,B2B PME,30 jours
+C0019,Paul Dubois,France,Grand Est,B2B PME,30 jours
+C0020,Laura Diallo,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0021,Blue Horizon SARL,France,Ile-de-France,B2C,CB - comptant
+C0022,Elite Habitat SARL,Espagne,Madrid,B2B PME,30 jours
+C0023,Topline Solutions SAS,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0024,Smart Office Holding,France,PACA,B2C,CB - comptant
+C0025,Thomas Dubois,France,Grand Est,B2B PME,30 jours
+C0026,Atlas Trading Group,Belgique,Wallonie,B2C,CB - comptant
+C0027,Bati Plus Group,Maroc,Casablanca-Settat,B2B PME,30 jours
+C0028,Hexa Services Group,France,Occitanie,B2C,CB - comptant
+C0029,Chloe Legrand,France,Grand Est,B2C,CB - comptant
+C0030,Mediterra Shop Holding,Belgique,Bruxelles,B2B PME,30 jours
+C0031,Hugo Lefevre,Belgique,Bruxelles,B2B PME,30 jours
+C0032,Chloe Robert,Cote dIvoire,Bouake,B2B PME,30  jours
+C0033,Riviera Supply Holding,Cote dIvoire,Bouake,B2B PME,30 jours
+C0034,Atlas Trading Holding,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0035,Alpha Partners Group,France,Occitanie,B2C,CB - comptant
+C0036,Chloe Bamba,Cote dIvoire,Abidjan,B2C,CB - comptant
+C0037,Soleil Distribution SARL,Maroc,Casablanca-Settat,B2B Grand Compte,45 jours
+C0038,Emma Dubois,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0039,Morgane Vincent,France,Ile-de-France,B2C,CB - comptant
+C0040,Urban Motion SARL,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0041,Mariam Garcia,France,Grand Est,B2B PME,30 jours
+C0042,Vision Commerce Services,France,Occitanie,B2C,CB - comptant
+C0043,Alpha Partners SAS,France,PACA,B2C,CB - comptant
+C0044,Paul Leroy,Espagne,Catalogne,B2B PME,30 jours
+C0045,Salome Diallo,France,Auvergne-Rhone-Alpes,B2B PME,30 jours
+C0046,Smart Office Group,France,Occitanie,B2C,CB - comptant
+C0047,Smart Office Services,Espagne,Madrid,B2B PME,30 jours
+C0048,Hugo David,France,PACA,B2B Grand Compte,45 jours
+C0049,Dylan Traore,France,Ile-de-France,B2C,CB - comptant
+C0050,Nova Retail Group,France,Ile-de-France,B2B PME,30 jours
+C0051,Delta Market Holding,Espagne,Andalousie,B2C,CB - comptant
+C0052,Riviera Supply SAS,Maroc,Marrakech-Safi,B2B PME,30 jours
+C0053,Cap Sud Equipement SAS,Cote dIvoire,Bouake,B2B Grand Compte,45 jours
+C0054,Thomas Dupont,Espagne,Madrid,B2B PME,30 jours
+C0055,Florian Legrand,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0056,Paul Bamba,Cote dIvoire,Abidjan,B2B Grand Compte,45 jours
+C0057,Hexa  Services  SARL,France,Grand Est,B2B-PME,30 jours
+c0058,Elite Habitat Holding,Cote dIvoire,Yamoussoukro,B2B PME,30 jours
+C0059,Soleil Distribution Group,Cote dIvoire,Abidjan,B2B PME,30 jours
+C0060,Optima Conseil Group,France,Occitanie,B2B Grand Compte,45 jours
+C0061,Riviera Supply SAS,France,Occitanie,B2B PME,30 jours
+C0062,Azur Concept Services,France,Grand Est,B2B PME,30 jours
+C0063,Paul Konate,France,PACA,B2B PME,30 jours
+C0064,Kora Logistics Group,Espagne,Catalogne,B2B PME,30 jours
+C0065,Yassine Konate,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0066,Mehdi Moreau,Cote dIvoire,Yamoussoukro,B2C,CB - comptant
+C0067,Riviera Supply Group,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0068,Kora Logistics SARL,France,Ile-de-France,B2B PME,30 jours
+C0069,Florian Girard,France,Occitanie,B2B PME,30 jours
+C0070,Nicolas Durand,Cote dIvoire,Yamoussoukro,B2B Grand Compte,45 jours
+C0071,Optima Conseil Group,Maroc,Casablanca-Settat,B2B Grand Compte,45 jours
+C0072,Camille Bertrand,Belgique,Flandre,B2B PME,30 jours
+C0073,Bati Plus Holding,France,Ile-de-France,B2C,CB - comptant
+  C0074  ,Vision Commerce Group,France,Ile-de-France,B2B PME,30 jours
+C0075,Elite Habitat SAS,Cote dIvoire,Abidjan,B2C,CB - comptant
+C0076,Julie Diop,Espagne,Andalousie,B2C,CB - comptant
+C0077,Karim Roux,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0078,Topline Solutions SARL,Espana,Madrid,B2C,CB - comptant
+C0079,Lea Diallo,Maroc,Marrakech-Safi,B2B PME,30 jours
+C0080,Urban Motion Services,France,Grand Est,B2C,CB - comptant
+C0081,Optima Conseil Holding,Espagne,Madrid,B2B PME,30 jours
+C0082,Mediterra Shop Holding,Cote dIvoire,Yamoussoukro,B2C,CB - comptant
+C0083,Elodie Martinez,France,Ile-de-France,B2B PME,30 jours
+C0084,Louis David,France,Ile-de-France,B2B Grand Compte,45 jours
+C0085,Soleil Distribution SAS,France,Ile-de-France,B2C,CB - comptant
+C0086,Smart Office Group,France,Nouvelle-Aquitaine,B2B PME,30 jours
+C0087,Atlas Trading Holding,Cote dIvoire,Bouake,B2B PME,30 jours
+C0088,atlas trading holding,FRANCE,Ile-de-France,B2B PME,30 jours
+C0089,Thomas Thomas,France,PACA,B2B Grand Compte,45 jours
+C0090,Bati Plus Group,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0091,Fatou Robert,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0092,Atlas Trading SARL,Espagne,Madrid,B2C,CB - comptant
+C0093,Vision Commerce SAS,France,PACA,B2C,CB - comptant
+C0094,Brahim Leroy,Cote dIvoire,Bouake,B2B PME,30 jours
+C0095,Ahmed Lopez,Espagne,Madrid,B2C,CB - comptant
+C0096,Atlas Trading Group,France,Occitanie,B2C,CB - comptant
+C0097,Cap Sud Equipement SARL,France,PACA,B2C,CB - comptant
+C0098,Antoine Petit,France,Grand Est,B2B Grand Compte,45 jours
+C0099,noemie lefevre,FRANCE,Occitanie,B2B PME,30 jours
+C0100,Cap Sud Equipement Holding,France,Occitanie,B2C,CB - comptant
+C0101,Camille Petit,Belgique,Bruxelles,B2B PME,30 jours
+C0102,Morgane Andre,France,Ile-de-France,B2B PME,30 jours
+C0103,N/A,Cote dIvoire,Abidjan,B2B-PME,30 jours
+C0104,Brahim Martinez,France,PACA,B2B PME,30 jours
+C0105,Noemie Laurent,Belgique,Wallonie,B2B Grand Compte,45 jours
+C0106,Laura Bertrand,France,Ile-de-France,B2B PME,30 jours
+C0107,Benoit Bamba,France,Ile-de-France,B2B Grand Compte,45 jours
+C0108,Camille Diallo,Cote dIvoire,Abidjan,B2B Grand Compte,45 jours
+ C0109,Lucie Bertrand, France ,PACA,B2C,CB - comptant
+C0110,Kevin Traore,France,Occitanie,B2B PME, 30 jours
+C0111, lea lambert,France,Ile-de-France,B2B Grand Compte,45 jours
+C0112,Karim Dupont,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0113,Clara Roux,Espagne,Madrid,B2B PME,30 jours
+C0114,Optima Conseil Holding,France,Occitanie,B2B Grand Compte,45 jours
+C0115,Salome Traore,France,PACA,B2B PME,30 jours
+C0116,Mehdi Fournier,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0117,Camille Garnier,Belgique,Flandre,B2B Grand Compte,45 jours
+C0118,Brahim Thomas,France,Grand Est,B2B PME,30 jours
+C0119,Soleil Distribution Group,France,Ile-de-France,B2B Grand Compte,45 jours
+C0120,Romain Konate,Maroc,Marrakech-Safi,B2C,CB - comptant
+C0121,Riviera Supply SARL,France,Ile-de-France,B2B Grand Compte,45 jours
+C0122,Kora Logistics SARL,France,Ile-de-France,B2B Grand Compte,45 jours
+C0123,Riviera Supply Group,France,Ile-de-France,B2C,CB - comptant
+C0124,Florian Robert,Belgique,Flandre,B2B PME,30 jours
+C0125,Louis Lambert,Cote dIvoire,Abidjan,B2B PME,30 jours
+C0126,Ahmed Bertrand,Cote dIvoire,Bouake,B2B Grand Compte,45 jours
+C0127,Topline Solutions SAS,France,Ile-de-France,B2B Grand Compte,45 jours
+C0128,Jade Richard,N/A,Occitanie,B2C,CB - comptant
+C0129,Smart Office Holding,Cote dIvoire,Bouake,B2B Grand Compte,45 jours
+C0130,Elodie Girard,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0131,Urban Motion SAS,France,Grand Est,B2C,CB - comptant
+C0132,Soleil Distribution Services,France,PACA,B2B PME,30 jours
+C0133,Prestige Home SARL,Belgique,Wallonie,B2C,CB - comptant
+C0134,Delta Market Group,Maroc,Marrakech-Safi,B2B PME,30 jours
+C0135,Yassine Legrand,Cote dIvoire,Yamoussoukro,B2C,CB - comptant
+C0136,Thomas Martin,france,Occitanie,B2B PME,30  jours
+C0137,Jade Lopez,France,Ile-de-France,B2C,CB - comptant
+C0138,Bati Plus SARL,Espagne,Andalousie,B2C,CB - comptant
+C0139,Lea Konate,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0140,Julie Lefevre,France,Ile-de-France,B2B PME,30 jours
+C0141,Atlas Trading Services,France,Auvergne-Rhone-Alpes,B2B Grand Compte,45 jours
+C0142,Ines Simon,Cote dIvoire,Yamoussoukro,B2C,CB - comptant
+C0143,Brahim Morel,Cote dIvoire,Bouake,B2B PME,30 jours
+C0144,Kora Logistics SARL,Belgique,Bruxelles,B2B PME,30 jours
+C0145,Elite Habitat SARL,Cote dIvoire,Yamoussoukro,B2B Grand Compte,45 jours
+C0146,Antoine Leroy,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0147,Sarah Petit,France,Grand Est,B2B PME,30 jours
+C0148,Salome Moreau,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0149,Ines Chevalier,Frnace,PACA,B2B PME,30 jours
+C0150,Fatou Garcia,France,Grand Est,B2C,CB - comptant
+C0151,Prestige Home Services,France,Nouvelle-Aquitaine,B2C,CB - comptant
+C0152,Vision Commerce Group,Espagne,Madrid,B2B PME,30 jours
+C0153,Camille Richard,Cote dIvoire,Bouake,B2B Grand Compte,45 jours
+C0154,Noemie Vincent,France,N/A,B2C,CB - comptant
+C0155,Azur Concept SARL,France,Auvergne-Rhone-Alpes,B2B PME,30 jours
+C0156,Julie Roux,Maroc,Casablanca-Settat,B2B PME,30 jours
+C0157,Noemie Bamba,France,Ile-de-France,B2C,CB - comptant
+C0158,Sarah Robert,France,Grand Est,B2B PME,30 jours
+C0159,Maxime Diallo,Maroc,Casablanca-Settat,B2B Grand Compte,45 jours
+C0160,Mediterra Shop Services,Cote dIvoire,Bouake,B2B Grand Compte,45 jours
+C0161,Noemie Leroy,France,Ile-de-France,B2C,CB - comptant
+C0162,Optima Conseil Services,France,Auvergne-Rhone-Alpes,B2B Grand Compte,45 jours
+C0163,Nova Retail SAS,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0164,  Urban Motion SAS  ,France,Grand Est,B2B Grand Compte,45 jours
+C0165,Louis Petit,Maroc,Rabat-Sale-Kenitra,B2B Grand Compte,45 jours
+C0166,Salome Bonnet,Maroc,Marrakech-Safi,B2B PME,30 jours
+C0167,Maxime Bertrand,France,PACA,B2B PME,30 jours
+ C0168,Riviera Supply Group,France,Occitanie,B2c,CB - comptant
+C0169,Nicolas Laurent,France,Grand Est,B2B PME,30 jours
+C0170,Fatou Bonnet,France,Grand Est,B2B Grand Compte,45 jours
+C0171,Louis Vincent,France,PACA,B2B PME,30 jours
+C0172,Antoine Dupont,Belgique,Bruxelles,B2B Grand Compte,45 jours
+C0173,  vision commerce holding  ,France,PACA,B2B Grand Compte,  45 jours  
+C0174,Urban Motion Holding,France,Occitanie,B2B Grand Compte,45 jours
+C0175,Aurelien Morel,France,PACA,B2B PME,30 jours
+C0176,Emma Bernard,France,Grand Est,B2C,CB - comptant
+C0177,Mehdi Lambert,France,Auvergne-Rhone-Alpes,B2C,CB - comptant
+C0178,Prestige Home Holding,France,Ile-de-France,B2B Grand Compte,45 jours
+C0179,Chloe Lefevre,Espagne,Andalousie,B2C,CB - comptant
+C0180,Dylan Lambert,France,Grand Est,B2C,CB - comptant
+C0020,Laura Diallo,Maroc,Casablanca-Settat,B2C,CB - comptant
+C0043,Alpha Partners SAS,France,PACA,B2C,CB - comptant
+C0154,Noemie Vincent,France,N/A,B2C,CB - comptant

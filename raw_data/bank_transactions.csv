@@ -1,0 +1,2057 @@
+bank_txn_id,transaction_date,transaction_type,flow_direction,counterparty,amount,currency
+BNK0000001,2025-01-29,Customer Receipt,Inflow,Jade Lopez,614.45,EUR
+BNK0000002,2025-02-11,Customer Receipt,Inflow,Optima Conseil Holding,175.79,EUR
+BNK0000003,2025-02-13,Customer Receipt,Inflow,Riviera Supply SAS,4030.76,EUR
+BNK0000004,2025-02-01,Customer Receipt,Inflow,Yassine Konate,574.44,EUR
+BNK0000005,2025-02-24,Customer Receipt,Inflow,Cap Sud Equipement SAS,"285,79",NA
+BNK0000006,2025-03-02,Customer Receipt,Inflow,Kevin Traore,21.82,EUR
+BNK0000007,2025-02-17,Customer Receipt,Inflow,Riviera Supply Holding,3021.21,EUR
+BNK0000008,2025-01-15,Customer Receipt,Inflow,Hexa Services Group,2530.84,EUR
+BNK0000009,2025-02-21,Customer Receipt,Inflow,Nicolas Durand,108.66,EUR
+BNK0000010,2025-01-05,Customer Receipt,Inflow,Dylan Traore,2284.04,EUR
+BNK0000011,2025-01-13,Customer Receipt,Inflow,Topline Solutions SARL,6598.89,EUR
+BNK0000012,2025-01-07,Customer Receipt,Inflow,  Ahmed Lopez  ,1884.27,EUR
+BNK0000013,2025-01-02,Customer Receipt,Inflow,Urban Motion SARL,3032.89,EUR
+BNK0000014,2025-02-02,Customer Receipt,Inflow,Thomas Martin,642.35,EUR
+BNK0000015,2025-02-12,Customer Receipt,Inflow,Louis Lambert,82.01,EUR
+BNK0000016,2025-02-03,Customer Receipt,Inflow,Elite Habitat SARL,101.5,EUR
+BNK0000017,2025-02-25,Customer Receipt,Inflow,Antoine Dupont,1878.09,EUR
+BNK0000018,2025-02-18,Customer Receipt,Inflow,Optima Conseil Services,1792.02,EUR
+BNK0000019,2025-02-08,Customer Receipt,Inflow,Paul Leroy,575.28,EUR
+BNK0000020,02-20-2025,Customer Receipt,Inflow,Kora Logistics SARL,2214.79,EUR
+BNK0000021,2025-02-06,Customer Receipt,Inflow,Bati Plus Group,97.4,EUR
+BNK0000022,2025-01-22,Customer Receipt,Inflow,Riviera Supply Group,1216.02,EUR
+BNK0000023,2025-01-10,Customer Receipt,Inflow,Vision Commerce Services,977.88,EUR
+BNK0000024,2025-03-05,Customer Receipt,Inflow,Nicolas Laurent,1496.9,eur
+BNK0000025,,Customer Receipt,Inflow,Optima Conseil Group,3106.04,EUR
+BNK0000026,2025-02-04,Customer Receipt,Inflow,Julie Roux,323.01,EUR
+BNK0000027,2025-02-16,Customer Receipt,Inflow,Chloe Moreau,1146.55,EUR
+BNK0000028,2025-01-08,Customer Receipt,Inflow,Smart Office Group,1459.99,EUR
+BNK0000029,2025-02-12,Customer Receipt,Inflow,Louis Michel,808.45,EUR
+BNK0000030,2025-02-22,Customer Receipt,Inflow,Maxime Bertrand,342.51,EUR
+BNK0000031,2025-03-01,Customer Receipt,Inflow,Aurelien Morel,4741.88,EUR
+BNK0000032,2025-02-26,Customer Receipt,Inflow,Fatou Petit,319.54,EUR
+BNK0000033,2025-02-28,Customer Receipt,Inflow,Sarah Bernard,1922.89,EUR
+BNK0000034,2025-02-11,Customer Receipt,Inflow,Louis Michel,85.2,EUR
+BNK0000035,2025-03-04,Customer Receipt,Inflow,Antoine Dupont,3276.45,EUR
+BNK0000036,2025-02-11,Customer Receipt,Inflow,Camille Garnier,900.11,EUR
+BNK0000037,2025-02-22,Customer Receipt,Inflow,Vision Commerce Group,260.29,EUR
+BNK0000038,2025-02-04,Customer Receipt,Inflow,Paul Konate,849.92,EUR
+BNK0000039,2025-02-16,Customer Receipt,Inflow,Fatou Bonnet,326.84,EUR
+BNK0000040,2025-02-24,Customer Receipt,Inflow,Noemie Laurent,82.31,EUR
+BNK0000041,2025-01-04,Customer Receipt,Inflow,Urban Motion SARL,9212.0,EUR
+BNK0000042,2025-01-24,Customer Receipt,Inflow,Nova Retail SAS,1869.36,EUR
+BNK0000043,2025-02-24,Customer Receipt,Inflow,Louis Vincent,567.97,EUR
+BNK0000044,2025-02-12,Customer Receipt,Inflow,Chloe Moreau,122.38,EUR
+BNK0000045,2025-02-13,Customer Receipt,Inflow,Salome Traore,137.46,EUR
+BNK0000046,2025-01-19,Customer Receipt,Inflow,Smart Office Holding,828.16,EUR
+BNK0000047,2025-01-30,Customer Receipt,Inflow,Nova Retail SAS,182.63,EUR
+BNK0000048,2025-02-28,Customer Receipt,Inflow,Cap Sud Equipement SAS,1192.25,EUR
+BNK0000049,07-03-2025,Customer Receipt,Inflow,Mediterra Shop Services,"76,51",EUR
+BNK0000050,2025-01-07,Customer Receipt,Inflow,Soleil Distribution SAS,1558.19,EUR
+BNK0000051,2025-02-07,Customer Receipt,Inflow,Smart Office Group,100.56,EUR
+BNK0000052,2025-02-14,Customer Receipt,Inflow,Mediterra Shop Services,510.24,EUR
+BNK0000053,2025-02-26,Customer Receipt,Inflow,Laura Bertrand,4239.97,EUR
+BNK0000054,2025-02-21,Customer Receipt,Inflow,Morgane Andre,576.87,EUR
+BNK0000055,2025-03-03,Customer Receipt,Inflow,Camille Richard,121.68,EUR
+BNK0000056,2025-02-10,Customer Receipt,Inflow,Kora Logistics SARL,3401.64,EUR
+BNK0000057,2025-01-27,Customer Receipt,Inflow,Urban Motion Services,2207.05,EUR
+BNK0000058,2025-03-02,Customer Receipt,Inflow,Soleil Distribution Group,222.88,EUR
+BNK0000059,2025-01-10,Customer Receipt,Inflow,Salome Moreau,325.28,EUR
+BNK0000060,2025-03-05,Customer Receipt,Inflow,Lea Lambert,2240.09,EUR
+BNK0000061,2025-02-16,Customer Receipt,Inflow,Brahim Leroy,92.82,EUR
+BNK0000062,2025-02-12,Customer Receipt,Inflow,Aicha Vincent,4336.99,EUR
+BNK0000063,2025-03-02,Customer Receipt,Inflow,Sarah Bernard,252.68,EUR
+BNK0000064,2025-02-26,Customer Receipt,Inflow,Cap Sud Equipement SAS,7205.0,EUR
+BNK0000065,01-26-2025,Customer Receipt,Inflow,Lea Konate,138.8,EUR
+BNK0000066,2025-02-09,Customer Receipt,Inflow,Elodie Martinez,881.71,EUR
+BNK0000067,2025-02-26,Customer Receipt,Inflow,Thomas Martin,1603.06,EUR
+BNK0000068,2025-02-05,Customer Receipt,Inflow,Mariam Garcia,382.76,EUR
+BNK0000069,2025-02-26,Customer Receipt,Inflow,Louis Michel,838.79,EUR
+BNK0000070,2025-02-13,Customer Receipt,Inflow,Paul Konate,846.59,EUR
+BNK0000071,2025-03-07,Customer Receipt,Inflow,Louis Petit,510.16,EUR
+BNK0000072,2025-03-20,Customer Receipt,Inflow,Maxime Diallo,7561.54,EUR
+BNK0000073,2025-02-23,Customer Receipt,Inflow,Louis Vincent,219.15,EUR
+BNK0000074,2025-01-13,Customer Receipt,Inflow,Nova Retail SAS,2741.26,EUR
+BNK0000075,2025-01-09,Customer Receipt,Inflow,Elite Habitat Services,16324.63,EUR
+BNK0000076,2025-02-06,Customer Receipt,Inflow,Aicha Vincent,435.94,EUR
+BNK0000077,2025-02-26,Customer Receipt,Inflow,Brahim Martinez,106.24,EUR
+BNK0000078,2025-03-05,Customer Receipt,Inflow,Kora Logistics SARL,284.72,EUR
+BNK0000079,2025-03-03,Customer Receipt,Inflow,Laura Bertrand,3064.66,EUR
+BNK0000080,2025-03-11,Customer Receipt,Inflow,Kora Logistics SARL,598.09,EUR
+BNK0000081,2025-01-16,Customer Receipt,Inflow,Soleil Distribution SAS,1155.12,EUR
+BNK0000082,2025-02-07,Customer Receipt,Inflow,kevin traore,1942.58, Eur 
+BNK0000083,2025-01-11,Customer Receipt,Inflow,Karim Roux,1036.85,EUR
+BNK0000084,2025-02-01,Customer Receipt,Inflow,Atlas Trading Group,1255.88,EUR
+BNK0000085,2025-03-06,Customer Receipt,Inflow,Sarah Bernard,89.54,EUR
+BNK0000086,2025-02-13,Customer Receipt,Inflow,Azur Concept Services,3207.23,EUR
+BNK0000087,2025-02-24,Customer Receipt,Inflow,Riviera Supply Holding,134.5,EUR
+BNK0000088,2025-01-22,Customer Receipt,Inflow,Julie Diop,578.52,EUR
+BNK0000089,2025-01-24,Customer Receipt,Inflow,Chloe Legrand,802.98,EUR
+BNK0000090,2025-02-18,Customer Receipt,Inflow,Riviera Supply Holding,68.71,EUR
+BNK0000091,2025-01-08,Customer Receipt,Inflow,Topline Solutions SARL,307.6,EUR
+BNK0000092,2025-01-17,Customer Receipt,Inflow,Noemie Leroy,792.34,EUR
+BNK0000093,2025-01-03,Customer Receipt,Inflow,Prestige Home Services,589.28,EUR
+BNK0000094,2025-02-13,Customer Receipt,Inflow,Elite Habitat Holding,539.19,EUR
+BNK0000095,2025-01-11,Customer Receipt,Inflow,Riviera Supply Group,203.29,EUR
+BNK0000096,2025-03-31,Customer Receipt,Inflow,Thomas Dubois,6370.71,EUR
+BNK0000097,2025-03-29,Customer Receipt,Inflow,Benoit Bamba,379.67,EUR
+BNK0000098,2025-02-20,Customer Receipt,Inflow,Mediterra Shop Holding,110.85,EUR
+BNK0000099,2025-02-14,Customer Receipt,Inflow,Riviera Supply Group,370.06,EUR
+BNK0000100,2025-04-19,Customer Receipt,Inflow,Smart  Office  Holding,124.49,EUR
+BNK0000101,2025-02-07,Customer Receipt,Inflow,Yassine Legrand,1143.03,EUR
+BNK0000102,2025-02-22,Customer Receipt,Inflow,Blue Horizon SARL,1017.7,EUR
+BNK0000103,2025-02-14,Customer Receipt,Inflow,Blue Horizon SARL,10571.6,EUR
+BNK0000104,2025-03-11,Customer Receipt,Inflow,Julie Lefevre,2032.54,EUR
+BNK0000105,2025-02-28,Customer Receipt,Inflow,Noemie Leroy,638.43,EUR
+BNK0000106,2025-03-23,Customer Receipt,Inflow,Soleil Distribution Services,99.3,EUR
+BNK0000107,2025-03-08,Customer Receipt,Inflow,Vision Commerce Group,83.07,EUR
+BNK0000108,2025-03-07,Customer Receipt,Inflow,Azur Concept Services,2374.06,EUR
+BNK0000109,2025-03-18,Customer Receipt,Inflow,Elite Habitat SARL,86.87,EUR
+BNK0000110,2025-03-07,Customer Receipt,Inflow,Salome Michel,2271.48,EUR
+BNK0000111,2025-02-02,Customer Receipt,Inflow,Prestige Home SAS,180.57,EUR
+BNK0000112,2025-03-08,Customer Receipt,Inflow,Paul Konate,2427.02,EUR
+BNK0000113,2025-03-15,Customer Receipt,Inflow,Florian Robert,182.72,EUR
+BNK0000114,2025-03-16,Customer Receipt,Inflow,  brahim morel  , 184.14 ,EUR
+BNK0000115,2025-03-25,Customer Receipt,Inflow,Kora Logistics SARL,995.17,EUR
+BNK0000116,2025-03-03,Customer Receipt,Inflow,Camille Petit,5367.78,EUR
+BNK0000117,2025-02-02,Customer Receipt,Inflow,Noemie Vincent,9772.16,EUR
+  BNK0000118  ,2025-03-22,Customer Receipt,Inflow,Urban Motion SAS,12614.09,EUR
+BNK0000119,2025-03-21,Customer Receipt,Inflow,Urban Motion SAS,812.93,EUR
+BNK0000120,2025-02-25,Customer Receipt,Inflow,Prestige  Home  SARL,565.62,EUR
+BNK0000121,2025-03-23,Customer Receipt,Inflow,Julie Roux, 259.49 ,EUR
+BNK0000122,2025-04-13,Customer Receipt,Inflow,Urban Motion SAS,986.83,EUR
+BNK0000123,2025-03-17,Customer Receipt,Inflow,Louis Petit,1274.74,EUR
+BNK0000124,2025-03-02,Customer Receipt,Inflow,Emma Dubois,657.72,EUR
+BNK0000125,2025-02-22,Customer Receipt,Inflow,Laura Diallo,489.26,EUR
+BNK0000126,2025-03-19,Customer Receipt,Inflow,Julie Roux,1833.06,EUR
+BNK0000127 ,2025-02-11,Customer Receipt,Inflow,Riviera Supply Group,2962.26,
+BNK0000128,2025-03-11,Customer Receipt,Inflow,Mariam Garcia,65.59,EUR
+BNK0000129,2025-02-17,Customer Receipt,Inflow,Morgane Vincent,133.08,EUR
+BNK0000130,2025-02-25,Customer Receipt,Inflow,Yassine Legrand,1244.38,EUR
+BNK0000131,2025-04-04,Customer Receipt,Inflow,Chloe Moreau,2311.81,EUR
+BNK0000132,2025-02-08,Customer Receipt,Inflow,Riviera Supply Group,835.0,EUR
+BNK0000133,2025-03-10,Customer Receipt,Inflow,Brahim Morel,437.36,EUR
+BNK0000134,2025-02-09,Customer Receipt,Inflow,Blue Horizon SARL,215.0,EUR
+BNK0000135,2025-03-20,Customer Receipt,Inflow,Elite Habitat SARL,226.87,EUR
+BNK0000136,2025-02-03,Customer Receipt,Inflow,Atlas Trading Holding,1649.7,EUR
+BNK0000137,2025-02-23,Customer Receipt,Inflow,Ines Simon,365.0,EUR
+BNK0000138,2025-03-22,Customer Receipt,Inflow,Camille Bertrand,319.37,EUR
+BNK0000139,2025-03-19,Customer Receipt,Inflow,Azur Concept SARL,542.34,EUR
+BNK0000140,2025-02-18,Customer Receipt,Inflow,Nova Retail SAS,289.05,EUR
+BNK0000141,2025-02-28,Customer Receipt,Inflow,Ahmed Lopez,1264.89,EUR
+BNK0000142,2025-03-07,Customer Receipt,Inflow,Brahim Martinez,1152.88,EUR
+BNK0000143,2025-03-29,Customer Receipt,Inflow,Vision Commerce Group,411.3,EUR
+BNK0000144,2025-03-25,Customer Receipt,Inflow,Elite Habitat Holding,622.88,EUR
+BNK0000145,2025-03-20,Customer Receipt,Inflow,Lea Diallo,258.23,EUR
+BNK0000146,2025-02-17,Customer Receipt,Inflow,Ines Simon,855.63,EUR
+BNK0000147,2025-02-18,Customer Receipt,Inflow,Elite Habitat Services,360.05,EUR
+BNK0000148,2025-03-26,Customer Receipt,Inflow,Vision Commerce Holding,78.44,EUR
+BNK0000149,2025-03-14,Customer Receipt,Inflow,Sarah Bernard,85.02,EUR
+BNK0000150,2025-03-17,Customer Receipt,Inflow,Topline Solutions SAS ,2081.69,EUR
+BNK0000151,2025-03-22,Customer Receipt,Inflow,Azur Concept Services,348.0,EUR
+BNK0000152,2025-02-20,Customer Receipt,Inflow,Fatou Robert,180.14,EUR
+BNK0000153,03-01-2025,Customer Receipt,Inflow,Dylan Traore,1273.24,EUR
+BNK0000154,2025-03-09,Customer Receipt,Inflow,Salome Michel,189.81,EUR
+BNK0000155,2025-04-06,Customer Receipt,Inflow,Thomas Thomas,362.02,EUR
+BNK0000156,06-04-2025,Customer Receipt,Inflow,Antoine Dupont,82.4,EUR
+BNK0000157,2025-03-12,Customer Receipt,Inflow,Smart Office Group,471.88,EUR
+BNK0000158,2025-02-23,Customer Receipt,Inflow,Jade Richard,367.88,EUR
+BNK0000159,2025-02-22,Customer Receipt,Inflow,Vision Commerce Services,286.17,EUR
+BNK0000160,2025-02-01,Customer Receipt,Inflow,Florian Legrand,7644.91,EUR
+BNK0000161,2025-03-25,Customer Receipt,Inflow,Benoit Bamba,836.36,EUR
+BNK0000162,2025-03-31,Customer Receipt,Inflow,Noemie Laurent,193.44,EUR
+BNK0000163,2025-02-21,Customer Receipt,Inflow,Jade Richard,71.85,eur
+BNK0000164,2025-03-20,Customer Receipt,Inflow,Paul Bamba,977.99,EUR
+BNK0000165,2025-03-24,Customer Receipt,Inflow,Atlas Trading Holding,574.6,EUR
+BNK0000166,2025-02-26,Customer Receipt,Inflow,Chloe Legrand,636.2,EUR
+BNK0000167,2025-02-18,Customer Receipt,Inflow,Topline Solutions SARL,2512.98,EUR
+BNK0000168,2025-03-16,Customer Receipt,Inflow,Brahim Thomas,194.67,EUR
+BNK0000169,2025-03-27,Customer Receipt,Inflow,Salome Michel,3177.25,EUR
+BNK0000170,2025-03-25,Customer Receipt,Inflow,Salome Traore,6424.55,EUR
+BNK0000171,2025-03-20,Customer Receipt,Inflow,Clara Roux,1157.27,EUR
+BNK0000172,2025-03-25,Customer Receipt,Inflow,Camille Bertrand,1994.86,EUR
+BNK0000173,2025-02-09,Customer Receipt,Inflow,Chloe Bamba,380.23,EUR
+BNK0000174,2025-02-05,Customer Receipt,Inflow,Atlas Trading SARL,6539.38,EUR
+BNK0000175,2025-02-27,Customer Receipt,Inflow,Mehdi Lambert,418.95,EUR
+BNK0000176,2025-02-28,Customer Receipt,Inflow,Riviera Supply Group,607.25,EUR
+BNK0000177,2025-02-17,Customer Receipt,Inflow,Chloe Bamba,3825.01,EUR
+BNK0000178,2025-03-08,Customer Receipt,Inflow,Florian Robert,670.7,EUR
+BNK0000179,2025-02-08,Customer Receipt,Inflow,Riviera Supply Group,290.33,EUR
+BNK0000180,2025-03-11,Customer Receipt,Inflow,Aurelien Lefevre,89.63,EUR
+BNK0000181,2025-04-05,Customer Receipt,Inflow,Julie Roux,535.84,EUR
+BNK0000182,2025-02-26,Customer Receipt,Inflow,Elite Habitat Services,131.85,EUR
+BNK0000183,2025-03-01,Customer Receipt,Inflow,Yassine Legrand,1834.64,EUR
+BNK0000184,2025-02-28,Customer Receipt,Inflow,Elite Habitat SAS,1618.58,EUR
+BNK0000185,2025-02-22,Customer Receipt,Inflow,Atlas Trading Holding,1397.45,EUR
+BNK0000186,2025-04-03,Customer Receipt,Inflow,Camille Richard,1431.49,EUR
+BNK0000187,2025-03-06,Customer Receipt,Inflow,elite habitat holding,39.6,EUR
+BNK0000188,2025-03-09,Customer Receipt,Inflow,Riviera Supply Holding,545.91,EUR
+BNK0000189,2025-03-26,Customer Receipt,Inflow,Brahim Morel,250.34,EUR
+BNK0000190,2025-02-13,Customer Receipt,Inflow,Ines Simon,370.32,EUR
+BNK0000191,2025-02-05,Customer Receipt,Inflow,Blue Horizon Holding,268.41,EUR
+BNK0000192,2025-02-20,Customer Receipt,Inflow,Yassine Konate,741.91,eur
+BNK0000193,2025-03-02,Customer Receipt,Inflow,Brahim Leroy,502.82,EUR
+BNK0000194,2025-04-03,Customer Receipt,Inflow,AURELIEN LEFEVRE,282.56,EUR
+BNK0000195,2025-02-24,Customer Receipt,Inflow,Fatou Robert,569.0,EUR
+BNK0000196,2025-02-24,Customer Receipt,Inflow,Fatou Garcia,48.44,EUR
+BNK0000197,2025-02-02,Customer Receipt,Inflow,NA,1353.8, Eur 
+BNK0000198,2025-02-26,Customer Receipt,Inflow,Atlas Trading Group,4946.02,EUR
+BNK0000199,2025-03-27,Customer Receipt,Inflow,Lea Lambert,102.24,EUR
+BNK0000200,2025-03-20,Customer Receipt,Inflow,Salome Michel,2635.6,EUR
+BNK0000201,2025-05-01,Customer Receipt,Inflow,Aicha Vincent,149.9,EUR
+BNK0000202,2025-05-13,Customer Receipt,Inflow,Chloe Moreau,445.6,EUR
+BNK0000203,2025-03-21,Customer Receipt,Inflow,Riviera Supply Group,2369.87,EUR
+BNK0000204,2025-05-03,Customer Receipt,Inflow,Noemie Laurent,366.97,EUR
+BNK0000205,2025-04-11,Customer Receipt,Inflow,Atlas Trading Holding,565.32,EUR
+BNK0000206,2025-04-11,Customer Receipt,Inflow,Salome Michel, 2890.15 ,EUR
+BNK0000207,2025-04-29,Customer Receipt,Inflow,Kora Logistics SARL,63.64,EUR
+BNK0000208,2025-03-03,Customer Receipt,Inflow,Atlas Trading SAS,889.62,EUR
+BNK0000209,2025-04-25,Customer Receipt,Inflow,Optima Conseil Group,1409.14,EUR
+BNK0000210,08-05-2025,Customer Receipt,Inflow,Nicolas Durand,554.31,EUR
+BNK0000211,2025-04-23,Customer Receipt,Inflow,Azur Concept SARL,90.07,EUR
+BNK0000212,2025-05-01,Customer Receipt,Inflow,Topline Solutions SAS,2093.36,EUR
+BNK0000213,2025-04-25,Customer Receipt,Inflow,Thomas Martin,632.84,EUR
+BNK0000214,2025-04-02,Customer Receipt,Inflow,Optima Conseil Holding,1107.87,EUR
+BNK0000215,2025-04-17,Customer Receipt,Inflow,Brahim Morel,449.81,EUR
+BNK0000216,2025-04-24,Customer Receipt,Inflow,Salome Michel,42.32,EUR
+BNK0000217,2025-05-09,Customer Receipt,Inflow,Hugo David,2720.46,EUR
+BNK0000218,2025-03-20,Customer Receipt,Inflow,Noemie Vincent,4734.99,EUR
+BNK0000219,2025-05-01,Customer Receipt,Inflow,Louis Petit,270.26,EUR
+BNK0000220,2025-04-01,Customer Receipt,Inflow,Paul Dubois,2434.16,EUR
+BNK0000221,2025-04-20,Customer Receipt,Inflow,Optima Conseil Group,1024.27,EUR
+BNK0000222,2025-04-24,Customer Receipt,Inflow,Sarah Petit,3242.89,EUR
+BNK0000223,2025-03-11,Customer Receipt,Inflow,Dylan Traore,1001.64,EUR
+BNK0000224 ,2025-04-22,Customer Receipt,Inflow,Louis Petit,3065.01,EUR
+BNK0000225,2025-03-20,Customer Receipt,Inflow,Riviera Supply Group,1569.78,EUR
+BNK0000226,2025-04-15,Customer Receipt,Inflow,Brahim Martinez,38.93,EUR
+BNK0000227,2025-04-21,Customer Receipt,Inflow,Thomas Martin,3022.67,EUR
+BNK0000228,2025-05-14,Customer Receipt,Inflow,Louis Petit,656.62,EUR
+BNK0000229,2025-03-13,Customer Receipt,Inflow,Alpha Partners SAS,649.86,EUR
+BNK0000230,2025-04-05,Customer Receipt,Inflow,Bati Plus Group,1691.45,EUR
+BNK0000231,2025-05-11,Customer Receipt,Inflow,Optima Conseil Group,1738.6,EUR
+BNK0000232,2025-04-06,Customer Receipt,Inflow,Paul Leroy,3320.11,EUR
+BNK0000233,2025-03-22,Customer Receipt,Inflow,Fatou  Garcia,86.72,eur
+BNK0000234,2025-04-18,Customer Receipt,Inflow,Urban Motion Holding,66.18,EUR
+BNK0000235,2025-04-18,Customer Receipt,Inflow,Benoit Bamba,1017.11,EUR
+BNK0000236,2025-03-20,Customer Receipt,Inflow,Jade Lopez,75.14,EUR
+BNK0000237,2025-04-06,Customer Receipt,Inflow,Bati Plus Group,129.06,EUR
+BNK0000238,2025-03-26,Customer Receipt,Inflow,Elite Habitat Services,12306.46,EUR
+BNK0000239,2025-03-14,Customer Receipt,Inflow,Azur Concept Services,413.72,EUR
+BNK0000240,2025-05-18,Customer Receipt,Inflow,Optima Conseil Holding,753.79,EUR
+BNK0000241,2025-04-28,Customer Receipt,Inflow,Salome Diallo,6339.76,EUR
+BNK0000242,2025-05-15,Customer Receipt,Inflow,Soleil Distribution SARL,976.46,EUR
+BNK0000243,2025-04-18,Customer Receipt,Inflow,Atlas Trading Holding,69.63,EUR
+BNK0000244,2025-05-10,Customer Receipt,Inflow,Antoine Dupont,338.82,EUR
+BNK0000245,2025-03-13,Customer Receipt,Inflow,blue horizon sarl,420.9,EURO
+BNK0000246,2025-04-23,Customer Receipt,Inflow,Sarah Robert,1463.39,EUR
+BNK0000247,2025-03-20,Customer Receipt,Inflow,Mehdi Moreau,388.25,EUR
+BNK0000248,2025-04-24,Customer Receipt,Inflow,Urban Motion SAS,511.41,EUR
+BNK0000249,04-19-2025,Customer Receipt,Inflow,azur concept sarl ,5793.63,EUR
+BNK0000250,2025-05-01,Customer Receipt,Inflow,Camille Richard,324.76,EUR
+BNK0000251,2025-04-15,Customer Receipt,Inflow,  Bati Plus Group  ,1912.94,EUR
+BNK0000252,2025-03-19,Customer Receipt,Inflow,Alpha Partners Group,255.45,EUR
+BNK0000253,2025-04-27,Customer Receipt,Inflow,Smart Office Services,44.33,EUR
+BNK0000254,2025-03-24,Customer Receipt,Inflow,Laura Diallo,1205.56,EUR
+BNK0000255,2025-03-08,Customer Receipt,Inflow,Atlas Trading SAS,1148.35,EUR
+BNK0000256,2025-05-05,Customer Receipt,Inflow,Thomas Thomas,2279.05,EUR
+BNK0000257,2025-05-08,Customer Receipt,Inflow,Fatou Petit,2670.83,EUR
+BNK0000258,2025-03-18,Customer Receipt,Inflow,Salome Moreau,1143.29,EUR
+BNK0000259,2025-03-14,Customer Receipt,Inflow,Jade Lopez,514.76,EUR
+BNK0000260,2025-03-30,Customer Receipt,Inflow,Lucie Bertrand,1851.43,EUR
+BNK0000261,2025-04-22,Customer Receipt,Inflow,Atlas Trading Holding,177.32,EUR
+BNK0000262,2025-04-09,Customer Receipt,Inflow,Thomas Martin,5437.16,EUR
+BNK0000263,2025-04-06,Customer Receipt,Inflow,Soleil Distribution Services,587.8,EUR
+BNK0000264,2025-03-30,Customer Receipt,Inflow,Florian Robert,347.13,EUR
+BNK0000265,2025-04-27,Customer Receipt,Inflow,Camille Diallo,552.46,EUR
+BNK0000266,2025-05-02,Customer Receipt,Inflow,Mediterra Shop Holding,445.16,EUR
+BNK0000267,2025-05-06,Customer Receipt,Inflow,Aurelien Lefevre,70.36,EUR
+BNK0000268,2025-04-21,Customer Receipt,Inflow,Atlas Trading Holding,1777.9,EURO
+BNK0000269,2025-04-15,Customer Receipt,Inflow,Thomas Dubois,486.23,EUR
+BNK0000270,2025-03-14,Customer Receipt,Inflow,Noemie Bamba,141.3,EUR
+BNK0000271,2025-05-01,Customer Receipt,Inflow,Vision Commerce Group,190.84,EUR
+BNK0000272,2025-03-19,Customer Receipt,Inflow,Ahmed Lopez,1902.21,EUR
+BNK0000273,2025-05-12,Customer Receipt,Inflow,Smart Office Holding,80.1,EUR
+BNK0000274,2025-03-19,Customer Receipt,Inflow,Elite Habitat SAS,663.22,EUR
+BNK0000275,2025-03-15,Customer Receipt,Inflow,Cap Sud Equipement Holding,1958.88,EUR
+BNK0000276,2025-03-11,Customer Receipt,Inflow,Antoine Leroy,436.06,EUR
+BNK0000277,2025-04-16,Customer Receipt,Inflow,Optima Conseil Group,594.32,EUR
+BNK0000278,2025-04-01,Customer Receipt,Inflow,Aicha Vincent,3341.87,EUR
+BNK0000279,2025-04-23,Customer Receipt,Inflow,Chloe Moreau,992.28,EUR
+BNK0000280,2025-03-23,Customer Receipt,Inflow,Antoine Leroy,431.1,EUR
+BNK0000281,2025-03-16,Customer Receipt,Inflow,Lucie Bertrand,4904.2,EUR
+BNK0000282,2025-03-14,Customer Receipt,Inflow,Mehdi Fournier,398.27,EUR
+  BNK0000283  ,2025-03-26,Customer Receipt,Inflow,Atlas Trading SAS,3545.67, Eur 
+BNK0000284,2025-03-12,Customer Receipt,Inflow,Chloe Bamba,218.44,EUR
+BNK0000285,2025-03-09,Customer Receipt,Inflow,Yassine Legrand,84.3,EUR
+BNK0000286,2025-04-16,Customer Receipt,Inflow,Atlas Trading Holding,573.12,EUR
+BNK0000287,2025-03-11,Customer Receipt,Inflow,Dylan Lambert,9027.93,EUR
+BNK0000288,2025-04-14,Customer Receipt,Inflow,Maxime Bertrand,211.07,EUR
+BNK0000289,2025-05-07,Customer Receipt,Inflow,Optima Conseil Services,525.14,EUR
+BNK0000290,2025-04-21,Customer Receipt,Inflow,Hexa Services SARL,958.45,EUR
+BNK0000291,2025-04-27,Customer Receipt,Inflow,Dylan Chevalier,3992.26,EUR
+BNK0000292,2025-04-22,Customer Receipt,Inflow,Brahim Morel,465.17,EUR
+BNK0000293,2025-05-10,Customer Receipt,Inflow,Camille Garnier,1094.98,EUR
+BNK0000294,2025-03-23,Customer Receipt,Inflow,Romain Konate,308.52,EUR
+BNK0000295,2025-03-31,Customer Receipt,Inflow,Cap Sud Equipement Holding,71.6,EUR
+BNK0000296,2025-04-21,Customer Receipt,Inflow,Camille Diallo,2122.84,EUR
+BNK0000297,2025-04-27,Customer Receipt,Inflow,Brahim Leroy,954.05,EUR
+BNK0000298,2025-03-08,Customer Receipt,Inflow,Atlas Trading SARL,496.29,EUR
+BNK0000299,2025-05-02,Customer Receipt,Inflow,Fatou Petit,303.05,EUR
+BNK0000300,2025-04-24,Customer Receipt,Inflow,Thomas Dubois,795.95,EUR
+BNK0000301,2025-05-07,Customer Receipt,Inflow,Nicolas Durand,502.59,EUR
+BNK0000302,2025-05-03,Customer Receipt,Inflow,Paul Bamba,8188.8,EUR
+BNK0000303,2025-04-27,Customer Receipt,Inflow,Louis David,80.35,EUR
+BNK0000304,2025-03-26,Customer Receipt,Inflow,Bati Plus SARL,7158.58,EUR
+BNK0000305,2025-05-14,Customer Receipt,Inflow,Hugo David,548.96,EUR
+BNK0000306,2025-05-08,Customer Receipt,Inflow,Fatou Petit,378.19,EUR
+BNK0000307,2025-03-14,Customer Receipt,Inflow,Alpha Partners SAS,1619.0,EUR
+BNK0000308,2025-04-15,Customer Receipt,Inflow,Sarah Bernard,"174,85",EUR
+BNK0000309,2025-04-22,Customer Receipt,Inflow,Sarah Robert,2149.72,EUR
+BNK0000310,2025-03-15,Customer Receipt,Inflow,Topline Solutions SAS,93.79,EUR
+  BNK0000311  ,2025-04-17,Customer Receipt,Inflow,Camille Diallo,503.06,EUR
+BNK0000312,2025-04-15,Customer Receipt,Inflow, Smart Office Group,1302.96,eur
+BNK0000313,2025-03-14,Customer Receipt,Inflow,Emma Dubois,907.9,EUR
+BNK0000314,2025-04-05,Customer Receipt,Inflow,Florian Girard,751.01,EUR
+BNK0000315,2025-04-28,Customer Receipt,Inflow,Smart Office Group,487.92,EUR
+BNK0000316,2025-05-26,Customer Receipt,Inflow,Smart Office Holding,1209.08,EUR
+BNK0000317,2025-05-19,Customer Receipt,Inflow,Optima Conseil Services,1576.71,EUR
+BNK0000318,2025-04-18,Customer Receipt,Inflow,Atlas Trading Group,217.26,EUR
+BNK0000319,2025-05-19,Customer Receipt,Inflow,Antoine Petit,424.89,EUR
+BNK0000320,2025-04-19,Customer Receipt,Inflow,Antoine Leroy,5319.73,EUR
+BNK0000321,2025-06-14,Customer Receipt,Inflow,Antoine Dupont,1107.61,EUR
+BNK0000322,2025-05-24,Customer Receipt,Inflow,Kora Logistics SARL,618.99,EUR
+BNK0000323,2025-05-11,Customer Receipt,Inflow,Hexa Services SARL,N/A,EUR
+BNK0000324,2025-06-12,Customer Receipt,Inflow,CHLOE MOREAU,280.66,EUR
+BNK0000325,2025-04-30,Customer Receipt,Inflow,Salome Bonnet,1369.69,EUR
+BNK0000326,2025-04-26,Customer Receipt,Inflow,Morgane Vincent,193.36,EUR
+BNK0000327,2025-06-12,Customer Receipt,Inflow,Antoine Dupont,579.96,EUR
+BNK0000328,2025-06-03,Customer Receipt,Inflow,Benoit Bamba,261.0,EUR
+BNK0000329,2025-05-29,Customer Receipt,Inflow,Chloe Robert,542.67,EUR
+BNK0000330,2025-05-30,Customer Receipt,Inflow,Antoine Diallo,302.46,EUR
+BNK0000331,2025-05-15,Customer Receipt,Inflow,Urban Motion SAS,774.54,EUR
+BNK0000332,2025-05-06,Customer Receipt,Inflow,Nova Retail Group,1658.76,EUR
+BNK0000333,2025-04-29,Customer Receipt,Inflow,Florian Legrand,1590.78,EUR
+BNK0000334,2025-05-03,Customer Receipt,Inflow,Azur Concept SARL,2708.5,EUR
+BNK0000335,2025-05-29,Customer Receipt,Inflow,Salome Bonnet,1033.78,EUR
+BNK0000336,2025-04-26,Customer Receipt,Inflow,Bati Plus Holding,365.9,EUR
+BNK0000337,2025-05-18,Customer Receipt,Inflow,Camille Richard,432.3,EUR
+BNK0000338,2025-05-18,Customer Receipt,Inflow,Julie Roux,132.0,EUR
+BNK0000339,2025-04-19,Customer Receipt,Inflow,Mediterra Shop Holding,7631.35,EUR
+BNK0000340,2025-06-13,Customer Receipt,Inflow,camille richard,40.99,EUR
+BNK0000341,2025-04-26,Customer Receipt,Inflow,Yassine Legrand,202.88,EUR
+BNK0000342,2025-04-23,Customer Receipt,Inflow,Atlas Trading Group,360.02,EUR
+BNK0000343,2025-05-30,Customer Receipt,Inflow,Optima Conseil Holding,329.08,EUR
+BNK0000344,2025-04-24,Customer Receipt,Inflow,Florian Legrand,342.38,EUR
+BNK0000345,2025-05-12,Customer Receipt,Inflow,Sarah Petit,212.77,EUR
+BNK0000346,2025-05-16,Customer Receipt,Inflow,Nicolas Laurent,671.44,EUR
+BNK0000347,2025-05-12,Customer Receipt,Inflow,Azur Concept SARL,787.44,EUR
+BNK0000348,2025-04-12,Customer Receipt,Inflow,Blue Horizon Holding,1493.11,EUR
+BNK0000349,2025-05-30,Customer Receipt,Inflow,Bati Plus Group,65.91,EUR
+BNK0000350,2025-04-15,Customer Receipt,Inflow,Urban Motion SARL,470.2,EUR
+BNK0000351,2025-04-04,Customer Receipt,Inflow,Salome Moreau,352.64,EUR
+BNK0000352,2025-04-12,Customer Receipt,Inflow,Alpha Partners SAS,477.2,EUR
+BNK0000353,2025-06-18,Customer Receipt,Inflow,Louis Petit,367.8,EUR
+BNK0000354,2025-05-29,Customer Receipt,Inflow,Maxime Bertrand,198.93,EUR
+BNK0000355,2025-04-10,Customer Receipt,Inflow,Ahmed Lopez,140.34,EUR
+BNK0000356,2025-04-18,Customer Receipt,Inflow,Prestige Home SAS,134.41,EUR
+BNK0000357,2025-04-27,Customer Receipt,Inflow,Jade Richard,3414.15,EUR
+BNK0000358,2025-05-18,Customer Receipt,Inflow,Elite Habitat Holding,2526.53,EUR
+BNK0000359,2025-05-24,Customer Receipt,Inflow,Florian Girard,111.15,EUR
+BNK0000360,2025-05-30,Customer Receipt,Inflow,Antoine Petit,241.62,EUR
+BNK0000361,2025-04-26,Customer Receipt,Inflow,Yassine Konate,90.56,EUR
+BNK0000362,2025-05-12,Customer Receipt,Inflow,Hexa Services SARL,725.24,EUR
+BNK0000363,2025-04-30,Customer Receipt,Inflow,Chloe Bamba,147.76,EUR
+BNK0000364,2025-04-23,Customer Receipt,Inflow,Riviera Supply Group,311.89,EUR
+BNK0000365,2025-05-29,Customer Receipt,Inflow,Mariam Garcia,1625.97,EUR
+BNK0000366,2025-05-16,Customer Receipt,Inflow,Antoine Diallo,5234.69,EUR
+BNK0000367,2025-05-13,Customer Receipt,Inflow,Nicolas Laurent,9536.68,EUR
+BNK0000368,2025-04-30,Customer Receipt,Inflow,Riviera Supply Group,143.7,EUR
+BNK0000369,2025-05-31,Customer Receipt,Inflow,Kevin Traore,1173.0,EUR
+BNK0000370,2025-04-21,Customer Receipt,Inflow,Mediterra Shop Holding,581.4,EUR
+BNK0000371,2025-05-15,Customer Receipt,Inflow,Florian Girard,582.46,EUR
+BNK0000372,2025-04-24,Customer Receipt,Inflow,Smart Office Holding,N/A,EUR
+BNK0000373,2025-05-29,Customer Receipt,Inflow,Smart Office Group,736.53,EUR
+BNK0000374,2025-04-26,Customer Receipt,Inflow,Riviera Supply Group,822.06,EUR
+BNK0000375,2025-04-02,Customer Receipt,Inflow,Fatou Garcia,1064.36,EUR
+BNK0000376,2025-05-18,Customer Receipt,Inflow,Kora Logistics SARL,7299.11,EUR
+BNK0000377,2025-04-15,Customer Receipt,Inflow,Fatou Robert,1203.93,EUR
+BNK0000378,26/05/2025,Customer Receipt,Inflow,Thomas Thomas,684.11,EUR
+BNK0000379,2025-04-05,Customer Receipt,Inflow,Laura Diallo, 2543.43 ,EUR
+BNK0000380,2025-04-18,Customer Receipt,Inflow,Vision Commerce Services,359.73,EUR
+BNK0000381,2025-04-10,Customer Receipt,Inflow,Blue Horizon SARL,637.23,EUR
+BNK0000382,2025-04-13,Customer Receipt,Inflow,Blue Horizon Holding,341.38,EUR
+BNK0000383,2025-05-22,Customer Receipt,Inflow,Hugo Lefevre,778.13,EUR
+BNK0000384,2025-04-05,Customer Receipt,Inflow,Lucie Bertrand,89.26,EUR
+BNK0000385,2025-05-03,Customer Receipt,Inflow,Julie Roux,527.94,EUR
+BNK0000386,2025-04-08,Customer Receipt,Inflow,Atlas Trading SARL,906.54,EUR
+BNK0000387,2025-05-27,Customer Receipt,Inflow,Lea Lambert,4093.67,EUR
+BNK0000388,2025-05-15,Customer Receipt,Inflow,Camille Bertrand, 4324.0 ,EUR
+BNK0000389,2025-05-17,Customer Receipt,Inflow,Chloe Robert,2098.41,EUR
+BNK0000390,2025-04-06,Customer Receipt,Inflow,Chloe Legrand,N/A,EUR
+BNK0000391,2025-05-09,Customer Receipt,Inflow,Brahim Thomas,87.89,EUR
+BNK0000392,2025-05-24,Customer Receipt,Inflow,Thomas Dubois,1068.33,EUR
+BNK0000393,2025-04-22,Customer Receipt,Inflow,Ahmed Lopez,2449.47,EUR
+BNK0000394,2025-05-24,Customer Receipt,Inflow,Salome Michel,2804.86,EUR
+BNK0000395,2025-05-19,Customer Receipt,Inflow,Soleil Distribution Services,192.92,EUR
+BNK0000396,2025-04-11,Customer Receipt,Inflow,Dylan Lambert,2453.85,EUR
+BNK0000397,2025-04-17,Customer Receipt,Inflow,Atlas Trading Group,4710.46,EUR
+BNK0000398,2025-05-08,Customer Receipt,Inflow,Maxime Bertrand,319.34,EUR
+BNK0000399,2025-04-09,Customer Receipt,Inflow,Urban Motion SARL,91.26,EUR
+BNK0000400,N/A,Customer Receipt,Inflow,Elodie Girard,"119,29",EUR
+  BNK0000401  ,2025-05-08,Customer Receipt,Inflow,Azur Concept SARL,141.07,EURO
+BNK0000402,2025-05-01,Customer Receipt,Inflow,Salome Traore,415.1,EUR
+BNK0000403,2025-05-20,Customer Receipt,Inflow,Kevin Traore,354.72,EUR
+BNK0000404,2025-04-07,Customer Receipt,Inflow,Delta Market Holding,702.87,EUR
+BNK0000405,2025-04-22,Customer Receipt,Inflow,Atlas Trading Group,388.56, Eur 
+BNK0000406,2025-06-13,Customer Receipt,Inflow,Soleil Distribution Group,1227.55,EUR
+BNK0000407,2025-05-25,Customer Receipt,Inflow,Louis Vincent,3500.41,EUR
+BNK0000408,2025-05-14,Customer Receipt,Inflow,Smart Office Services,570.68,EUR
+BNK0000409,2025-05-27,Customer Receipt,Inflow,Julie Lefevre,783.83,EUR
+BNK0000410,2025-04-13,Customer Receipt,Inflow,Elodie Girard,126.4,EUR
+BNK0000411,2025-04-25,Customer Receipt,Inflow,Salome Moreau,2805.68,EUR
+BNK0000412,2025-05-08,Customer Receipt,Inflow,Laura Bertrand,1328.92,EUR
+BNK0000413,2025-05-29,Customer Receipt,Inflow,Urban Motion SAS,559.34,EUR
+BNK0000414,2025-04-08,Customer Receipt,Inflow,Urban Motion SARL,2525.46,EUR
+BNK0000415,2025-05-27,Customer Receipt,Inflow,Urban Motion Sas,45.69,EUR
+BNK0000416,2025-05-09,Customer Receipt,Inflow,Vision Commerce Group,1708.72,EUR
+BNK0000417,2025-04-28,Customer Receipt,Inflow,Noemie Vincent,536.17,EUR
+BNK0000418,2025-04-01,Customer Receipt,Inflow,Delta Market Holding,3789.23,EUR
+BNK0000419,2025-05-21,Customer Receipt,Inflow,Bati Plus Group,1045.93,EUR
+BNK0000420,2025-05-19,Customer Receipt,Inflow,Florian Girard,79.35,EUR
+BNK0000421,2025-06-01,Customer Receipt,Inflow,Optima Conseil Group,3479.08,EUR
+BNK0000422,2025-06-01,Customer Receipt,Inflow,Fatou Bonnet,1153.9,EUR
+BNK0000423,2025-06-07,Customer Receipt,Inflow,Soleil Distribution SARL,4898.93,EUR
+BNK0000424,2025-05-23,Customer Receipt,Inflow,Thomas Dubois,687.46,EUR
+BNK0000425,2025-05-31,Customer Receipt,Inflow,Kora Logistics SARL,125.6,EUR
+BNK0000426,2025-04-07,Customer Receipt,Inflow,Yassine Legrand,3614.55,EUR
+BNK0000427,2025-06-11,Customer Receipt,Inflow,Ahmed Bertrand,4147.7,EUR
+BNK0000428,2025-05-16,Customer Receipt,Inflow,Bati Plus Group,324.09,EUR
+BNK0000429,2025-04-07,Customer Receipt,Inflow,Mediterra Shop Holding,172.96,EUR
+BNK0000430,2025-05-19,Customer Receipt,Inflow,Julie Roux,473.15,EUR
+BNK0000431,2025-05-31,Customer Receipt,Inflow,Azur Concept SARL,148.82,EUR
+BNK0000432,2025-05-29,Customer Receipt,Inflow,Azur Concept Services,22.0,EUR
+BNK0000433,2025-04-28,Customer Receipt,Inflow,Lucie Bertrand,148.44,EUR
+BNK0000434,2025-05-31,Customer Receipt,Inflow,Louis Petit,1478.01,EUR
+BNK0000435,2025-04-14,Customer Receipt,Inflow,Urban Motion Services,655.95,EUR
+BNK0000436,2025-06-06,Customer Receipt,Inflow,Mariam Garcia,2373.52,EUR
+BNK0000437,2025-05-09,Customer Receipt,Inflow,Elite Habitat Services,3554.54,EUR
+BNK0000438,2025-06-18,Customer Receipt,Inflow,Florian Robert,257.08,EUR
+BNK0000439,2025-06-18,Customer Receipt,Inflow,Optima Conseil Services,80.69,EURO
+BNK0000440,21-06-2025,Customer Receipt,Inflow,Laura Bertrand,962.77,eur
+BNK0000441,2025-06-22,Customer Receipt,Inflow,Optima Conseil Holding,265.36,EUR
+BNK0000442,2025-06-18,Customer Receipt,Inflow,Thomas Dupont,481.19,eur
+BNK0000443,2025-06-02,Customer Receipt,Inflow,Aicha Francois,1082.29,EUR
+BNK0000444,2025-06-18,Customer Receipt,Inflow,Atlas Trading Holding,1653.1,EUR
+BNK0000445,2025-05-23,Customer Receipt,Inflow,Noemie Leroy,296.27,EUR
+BNK0000446,2025-05-17,Customer Receipt,Inflow,Mediterra Shop Holding,41.92,EUR
+BNK0000447,2025-07-04,Customer Receipt,Inflow,Nicolas Durand,463.23,EUR
+BNK0000448,2025-05-12,Customer Receipt,Inflow,Yassine Legrand,2540.73,EUR
+BNK0000449,2025-05-23,Customer Receipt,Inflow,Atlas Trading SARL,268.56,EUR
+BNK0000450,2025-06-05,Customer Receipt,Inflow,Louis Lambert,1728.59,EUR
+BNK0000451,2025-06-12,Customer Receipt,Inflow,Sarah Robert,2233.04,EUR
+BNK0000452,2025-05-15,Customer Receipt,Inflow,Yassine Legrand,341.2,EUR
+BNK0000453,2025-06-17,Customer Receipt,Inflow,Soleil Distribution Group,520.43,EUR
+BNK0000454,2025-06-01,Customer Receipt,Inflow,Karim Dupont,3840.64,EUR
+BNK0000455,2025-05-21,Customer Receipt,Inflow,Fatou Robert,935.39,EUR
+BNK0000456,2025-05-19,Customer Receipt,Inflow,Prestige Home SAS,1772.82,EUR
+BNK0000457,2025-07-12,Customer Receipt,Inflow,Camille Richard,37.95,EUR
+BNK0000458,2025-05-07,Customer Receipt,Inflow,Elite Habitat Services,2023.72,EUR
+BNK0000459,2025-05-05,Customer Receipt,Inflow,Yassine Konate,3212.4,EUR
+BNK0000460,2025-06-16,Customer Receipt,Inflow,Elodie Martinez,2255.53,EURO
+BNK0000461,2025-05-30,Customer Receipt,Inflow,N/A,323.23,EUR
+BNK0000462,2025-07-04,Customer Receipt,Inflow,Atlas Trading Services,196.94,EUR
+BNK0000463,2025-05-17,Customer Receipt,Inflow,Hexa Services Group,713.0,EUR
+BNK0000464,2025-05-25,Customer Receipt,Inflow,Chloe Legrand,2247.22,EUR
+BNK0000465,2025-06-28,Customer Receipt,Inflow,Smart Office Holding,577.96,EUR
+BNK0000466,2025-07-20,Customer Receipt,Inflow,Urban Motion SAS,2238.26,EUR
+BNK0000467,2025-06-21,Customer Receipt,Inflow,Sarah Bernard,348.27,EUR
+BNK0000468,2025-06-30,Customer Receipt,Inflow,Sarah Bernard,1081.58,EUR
+BNK0000469,2025-06-11,Customer Receipt,Inflow,Maxime Bertrand,1462.06,EUR
+BNK0000470,2025-05-12,Customer Receipt,Inflow,Riviera Supply Group,467.5,EUR
+BNK0000471,2025-05-18,Customer Receipt,Inflow,Atlas Trading Group, 259.76 ,EUR
+BNK0000472,2025-05-04,Customer Receipt,Inflow,Ahmed Lopez,1194.84,EUR
+BNK0000473,2025-05-13,Customer Receipt,Inflow,Noemie Leroy,1956.08,EUR
+BNK0000474,2025-07-02,Customer Receipt,Inflow,Antoine Petit,726.36,EUR
+BNK0000475,2025-06-17,Customer Receipt,Inflow,Louis Petit,91.43,EUR
+BNK0000476,2025-06-20,Customer Receipt,Inflow,Camille Diallo,527.85,EUR
+BNK0000477,2025-05-10,Customer Receipt,Inflow,Ahmed Lopez,4613.6,EUR
+BNK0000478,2025-05-04,Customer Receipt,Inflow,Yassine Konate,9570.51,EUR
+BNK0000479,2025-06-12,Customer Receipt,Inflow,Brahim Leroy,706.89,EUR
+BNK0000480,2025-05-14,Customer Receipt,Inflow,Julie Diop,476.97,EUR
+BNK0000481,2025-06-20,Customer Receipt,Inflow,Fatou Bonnet,846.48,EUR
+BNK0000482,2025-07-02,Customer Receipt,Inflow,Thomas Thomas,926.6,EUR
+BNK0000483,2025-07-02,Customer Receipt,Inflow,Vision Commerce Group,656.41,EUR
+BNK0000484,2025-07-16,Customer Receipt,Inflow,Ahmed Bertrand,3170.74,EUR
+BNK0000485,2025-05-15,Customer Receipt,Inflow,Ines Simon,3697.8,EUR
+BNK0000486,2025-05-05,Customer Receipt,Inflow,Urban Motion Services,1059.7,EUR
+BNK0000487,2025-06-10,Customer Receipt,Inflow,Camille Bertrand,272.27,EUR
+BNK0000488,2025-05-17,Customer Receipt,Inflow,Alpha Partners SAS,241.72,EUR
+BNK0000489,2025-05-10,Customer Receipt,Inflow,Atlas Trading SAS,1062.82,EUR
+BNK0000490,2025-05-21,Customer Receipt,Inflow,urban motion services ,99.84,EUR
+BNK0000491,2025-07-17,Customer Receipt,Inflow,Optima Conseil Group,39.39,EUR
+BNK0000492,2025-05-15,Customer Receipt,Inflow,Smart Office Group,2478.72,EUR
+BNK0000493,2025-06-16,Customer Receipt,Inflow,Sarah Bernard,3330.51,EUR
+BNK0000494,2025-06-29,Customer Receipt,Inflow,Elite Habitat Holding,1091.45,EUR
+BNK0000495,2025-06-21,Customer Receipt,Inflow,Dylan Chevalier,566.41,EUR
+BNK0000496,2025-06-25,Customer Receipt,Inflow,  Hexa Services SARL  ,"267,36",EUR
+BNK0000497,2025-05-30,Customer Receipt,Inflow,Azur Concept Services,506.74,EUR
+BNK0000498,2025-05-07,Customer Receipt,Inflow,Julie Diop,83.28,EUR
+BNK0000499,2025-05-14,Customer Receipt,Inflow,Bati Plus Holding,610.92,EUR
+BNK0000500,2025-05-13,Customer Receipt,Inflow,Cap Sud Equipement Holding,4859.55,EUR
+BNK0000501,2025-06-19,Customer Receipt,Inflow,Optima Conseil Services,906.66,EUR
+BNK0000502,2025-05-30,Customer Receipt,Inflow,Soleil Distribution SAS,290.52,EUR
+BNK0000503,2025-07-08,Customer Receipt,Inflow,Topline Solutions SAS,756.41,EUR
+BNK0000504,2025-06-01,Customer Receipt,Inflow,Emma Bernard,175.47,EUR
+BNK0000505,2025-06-06,Customer Receipt,Inflow,Riviera Supply Holding,1744.83,EUR
+BNK0000506,2025-05-29,Customer Receipt,Inflow,Yassine Legrand,1237.34,EUR
+BNK0000507,2025-06-16,Customer Receipt,Inflow,Vision Commerce Group,251.88,EUR
+BNK0000508,2025-06-18,Customer Receipt,Inflow,Vision Commerce Group,62.54,EUR
+BNK0000509,2025-05-15,Customer Receipt,Inflow,Salome Moreau,215.54,EUR
+BNK0000510,2025-06-25,Customer Receipt,Inflow,Atlas Trading Holding,833.69,EUR
+BNK0000511,09/06/2025,Customer Receipt,Inflow,Kevin Traore,"130,01",EUR
+BNK0000512,2025-06-10,Customer Receipt,Inflow,Clara Roux,1011.76,EUR
+BNK0000513,2025-05-31,Customer Receipt,Inflow,Louis Vincent,313.63,EUR
+BNK0000514,2025-06-11,Customer Receipt,Inflow,Salome Diallo,530.52,EUR
+BNK0000515,2025-05-05,Customer Receipt,Inflow,Laura Diallo,3079.45,EUR
+BNK0000516,2025-06-03,Customer Receipt,Inflow,Atlas Trading Holding,355.34,EUR
+BNK0000517,2025-05-26,Customer Receipt,Inflow,Ines Simon,320.72,EUR
+BNK0000518,2025-05-31,Customer Receipt,Inflow,Smart Office Services,383.78,EUR
+BNK0000519,2025-05-29,Customer Receipt,Inflow,Laura Diallo,3513.15,EUR
+BNK0000520,2025-05-07,Customer Receipt,Inflow,Riviera Supply Group,2124.56,EUR
+BNK0000521,2025-07-10,Customer Receipt,Inflow,Antoine Diallo,98.44,EUR
+BNK0000522,2025-05-23,Customer Receipt,Inflow,Noemie Vincent,3753.37,EUR
+BNK0000523,2025-06-01,Customer Receipt,Inflow,Prestige Home SAS,634.22,EUR
+BNK0000524,2025-05-14,Customer Receipt,Inflow,Bati Plus Group,1636.26,EUR
+BNK0000525,2025-06-28,Customer Receipt,Inflow,Brahim Thomas,68.56,EUR
+BNK0000526,2025-05-22,Customer Receipt,Inflow,Blue Horizon Holding,91.72,EUR
+BNK0000527,17-06-2025,Customer Receipt,Inflow,Salome Diallo,171.19,EUR
+BNK0000528,2025-06-16,Customer Receipt,Inflow,Camille Bertrand,127.95,EUR
+BNK0000529,2025-06-07,Customer Receipt,Inflow,Camille Petit,505.01,EUR
+BNK0000530,2025-06-12,Customer Receipt,Inflow,Thomas Martin,1346.04,EUR
+BNK0000531,28/06/2025,Customer Receipt,Inflow,Laura Bertrand,125.0,EUR
+BNK0000532,2025-05-18,Customer Receipt,Inflow,Cap Sud Equipement SARL,22.97,EUR
+BNK0000533,2025-07-04,Customer Receipt,Inflow,Kora Logistics SARL,2386.03,EUR
+BNK0000534,2025-05-05,Customer Receipt,Inflow,Cap Sud Equipement SAS,209.99,EUR
+BNK0000535,2025-06-13,Customer Receipt,Inflow,Brahim Thomas,2840.11,EUR
+BNK0000536,2025-06-08,Customer Receipt,Inflow,Riviera Supply SAS,44.55,EUR
+BNK0000537,2025-06-25,Customer Receipt,Inflow,Elite Habitat SARL,407.52,EUR
+BNK0000538,2025-05-31,Customer Receipt,Inflow,Mehdi Moreau,195.93,EUR
+BNK0000539,2025-05-28,Customer Receipt,Inflow,Atlas Trading Holding,837.14,EUR
+BNK0000540,2025-06-17,Customer Receipt,Inflow,Atlas Trading Holding,1437.66,EUR
+BNK0000541,2025-06-25,Customer Receipt,Inflow,Lea Lambert,454.32,EUR
+BNK0000542,01/07/2025,Customer Receipt,Inflow,Elite Habitat SARL,335.85,EUR
+BNK0000543,2025-05-02,Customer Receipt,Inflow,Atlas Trading Group,1251.22,EUR
+BNK0000544,2025-07-06,Customer Receipt,Inflow,Camille Richard,77.33,EUR
+BNK0000545,2025-05-08,Customer Receipt,Inflow,Smart Office Group,1663.76,EUR
+BNK0000546,2025-06-01,Customer Receipt,Inflow,Yassine Legrand,421.12,EUR
+BNK0000547,2025-06-16,Customer Receipt,Inflow,Antoine Dupont,264.61,EUR
+BNK0000548,2025-06-03,Customer Receipt,Inflow,Nicolas Laurent,1661.23,EUR
+BNK0000549,2025-06-12,Customer Receipt,Inflow,Atlas Trading Holding,5164.96,EUR
+BNK0000550,2025-05-20,Customer Receipt,Inflow,Chloe Legrand,549.92,EUR
+BNK0000551,2025-05-25,Customer Receipt,Inflow,Alpha Partners SAS,123.59,EUR
+BNK0000552,2025-05-31,Customer Receipt,Inflow,Alpha Partners Group,3425.28,EUR
+BNK0000553,2025-06-07,Customer Receipt,Inflow,Paul Leroy,189.54,EUR
+BNK0000554,2025-05-02,Customer Receipt,Inflow,Salome Moreau,1130.53,EUR
+BNK0000555,2025-06-19,Customer Receipt,Inflow,Clara Roux,562.06,EUR
+BNK0000556,2025-06-22,Customer Receipt,Inflow,Mediterra Shop Holding,180.55,EUR
+BNK0000557,2025-06-17,Customer Receipt,Inflow,Camille Diallo,193.28,EUR
+BNK0000558,2025-05-24,Customer Receipt,Inflow,Urban Motion Services,909.84,EUR
+BNK0000559,2025-05-24,Customer Receipt,Inflow,Emma Bernard,2591.01,EUR
+BNK0000560,2025-06-12,Customer Receipt,Inflow,Thomas Dubois,1769.22,EUR
+BNK0000561,2025-05-10,Customer Receipt,Inflow,Mehdi Moreau,1540.38,EUR
+BNK0000562,2025-05-24,Customer Receipt,Inflow,Dylan Traore,5913.77,EUR
+BNK0000563,2025-06-24,Customer Receipt,Inflow,Sarah Petit,603.01,EUR
+BNK0000564,2025-07-22,Customer Receipt,Inflow,Salome Diallo,539.6,EUR
+BNK0000565,2025-06-22,Customer Receipt,Inflow,Urban Motion SARL,45.64,EUR
+BNK0000566,2025-08-12,Customer Receipt,Inflow,Camille Garnier,2426.06,EUR
+BNK0000567,08-06-2025,Customer Receipt,Inflow,Fatou Bonnet,300.92,EUR
+BNK0000568,2025-06-30,Customer Receipt,Inflow,Atlas Trading Holding,3197.24,EUR
+BNK0000569,2025-08-02,Customer Receipt,Inflow,Paul Konate,2051.75,EUR
+BNK0000570,2025-07-25,Customer Receipt,Inflow,Soleil Distribution Group,189.31,EUR
+BNK0000571,2025-06-07,Customer Receipt,Inflow,Noemie Vincent,908.49, Eur 
+BNK0000572,2025-07-14,Customer Receipt,Inflow,Morgane Andre,97.5,EUR
+BNK0000573,2025-08-09,Customer Receipt,Inflow,Cap Sud Equipement SAS,275.02,EUR
+BNK0000574,2025-07-24,Customer Receipt,Inflow,Noemie Lefevre,547.79,EUR
+BNK0000575,2025-07-31,Customer Receipt,Inflow,Camille Garnier,550.18,EUR
+BNK0000576,2025-07-15,Customer Receipt,Inflow,Ahmed Bertrand,670.4,EUR
+BNK0000577,2025-06-10,Customer Receipt,Inflow,Topline Solutions SARL,148.26,EUR
+BNK0000578,2025-06-15,Customer Receipt,Inflow,Topline Solutions SARL,351.99,EUR
+BNK0000579,2025-06-30,Customer Receipt,Inflow,Cap Sud Equipement Holding,2375.3,EUR
+BNK0000580,2025-06-21,Customer Receipt,Inflow,Azur Concept Services,152.6,EUR
+BNK0000581,2025-06-03,Customer Receipt,Inflow,Elite Habitat Services,393.52,EUR
+BNK0000582,2025-07-20,Customer Receipt,Inflow,Florian Girard,243.86,EUR
+BNK0000583,2025-06-05,Customer Receipt,Inflow,Cap Sud Equipement SARL,82.69,EUR
+BNK0000584,2025-06-20,Customer Receipt,Inflow,Urban Motion SAS,1595.4,eur
+BNK0000585,2025-06-27,Customer Receipt,Inflow,Chloe Lefevre,153.89,EUR
+BNK0000586,N/A,Customer Receipt,Inflow,Julie Roux,2287.74,EUR
+BNK0000587,2025-07-24,Customer Receipt,Inflow,Camille Bertrand,6986.48,EUR
+BNK0000588,2025-07-06,Customer Receipt,Inflow,Chloe Robert,355.6,EUR
+BNK0000589,2025-06-08,Customer Receipt,Inflow,Morgane Vincent,94.99,EUR
+Bnk0000590,2025-06-04,Customer Receipt,Inflow,Nova Retail SAS,857.64,EUR
+BNK0000591,2025-08-10,Customer Receipt,Inflow,Antoine Diallo,548.96,EUR
+BNK0000592,2025-06-18,Customer Receipt,Inflow,Riviera Supply Group,214.62,EUR
+BNK0000593,2025-07-19,Customer Receipt,Inflow,Bati Plus Group,288.22,EUR
+BNK0000594,2025-06-07,Customer Receipt,Inflow,Jade Lopez,1645.26,EUR
+BNK0000595,2025-08-08,Customer Receipt,Inflow,Cap Sud Equipement SAS,1297.95,EUR
+BNK0000596,2025-06-30,Customer Receipt,Inflow,Brahim Morel,2113.18,EUR
+BNK0000597,2025-06-08,Customer Receipt,Inflow,Karim Roux,1599.23,EUR
+BNK0000598,2025-06-17,Customer Receipt,Inflow,Yassine Legrand,7512.7,EUR
+BNK0000599,2025-07-05,Customer Receipt,Inflow,Riviera Supply SAS,3315.06,EUR
+BNK0000600,2025-06-08,Customer Receipt,Inflow,Fatou Garcia,215.95,EUR
+BNK0000601,2025-06-29,Customer Receipt,Inflow,Antoine Leroy,1633.72,EUR
+BNK0000602,2025-07-20,Customer Receipt,Inflow,Florian Robert,1380.37,EUR
+BNK0000603,2025-06-28,Customer Receipt,Inflow,Bati Plus SARL,2124.53,EUR
+BNK0000604,2025-08-12,Customer Receipt,Inflow,Cap Sud Equipement SAS,1081.93,EUR
+BNK0000605,2025-07-21,Customer Receipt,Inflow,Mariam Garcia,506.34,EUR
+BNK0000606,2025-06-30,Customer Receipt,Inflow,Fatou Robert,44.33,EUR
+BNK0000607,2025-07-18,Customer Receipt,Inflow,Riviera Supply SARL,162.32,EUR
+BNK0000608,2025-07-31,Customer Receipt,Inflow,Julie Lefevre,568.37,EUR
+BNK0000609,2025-06-28,Customer Receipt,Inflow,Laura Diallo,425.92,EUR
+BNK0000610,2025-07-16,Customer Receipt,Inflow,Urban Motion SAS,2947.43,EUR
+BNK0000611,2025-07-02,Customer Receipt,Inflow,Thomas Dupont,1790.08,EUR
+BNK0000612,2025-07-23,Customer Receipt,Inflow,Riviera Supply SAS,383.79,EUR
+BNK0000613,2025-06-30,Customer Receipt,Inflow,Elite Habitat Holding,2641.76,EUR
+BNK0000614,21-07-2025,Customer Receipt,Inflow,Aurelien Lefevre,526.41,EUR
+BNK0000615,2025-06-28,Customer Receipt,Inflow,Atlas Trading SAS,289.98,EUR
+BNK0000616,2025-06-14,Customer Receipt,Inflow,Bati Plus Holding,4024.21,EUR
+BNK0000617,2025-07-21,Customer Receipt,Inflow,Optima Conseil Group,183.23,EUR
+BNK0000618,2025-06-23,Customer Receipt,Inflow,Mehdi Lambert,280.87,EUR
+BNK0000619,2025-07-07,Customer Receipt,Inflow,Soleil Distribution Services,748.04,EUR
+BNK0000620,2025-06-11,Customer Receipt,Inflow,Bati Plus SARL,12169.95,EUR
+BNK0000621,2025-07-23,Customer Receipt,Inflow,Atlas Trading Services,1159.88,EUR
+BNK0000622,2025-06-25,Customer Receipt,Inflow,Noemie Leroy,90.31,EUR
+BNK0000623,2025-07-26,Customer Receipt,Inflow,Aurelien Lefevre,8122.57,EUR
+BNK0000624,2025-08-05,Customer Receipt,Inflow,Mediterra Shop Services,3347.46,EUR
+BNK0000625,2025-06-29,Customer Receipt,Inflow,Atlas Trading SAS,819.24,EUR
+BNK0000626,2025-07-18,Customer Receipt,Inflow,Camille Diallo,268.4,EUR
+BNK0000627,2025-06-17,Customer Receipt,Inflow,ATLAS TRADING SARL,1067.51,EUR
+BNK0000628,2025-06-17,Customer Receipt,Inflow,Bati Plus SARL,10973.9,EUR
+BNK0000629,2025-07-22,Customer Receipt,Inflow,Atlas Trading Holding,2991.87,EUR
+BNK0000630,2025-07-10,Customer Receipt,Inflow,Kora Logistics SARL,148.84,EUR
+BNK0000631,2025-06-10,Customer Receipt,Inflow,Lucie Bertrand,419.03,EUR
+BNK0000632,07-06-2025,Customer Receipt,Inflow,Emma Bernard,139.27,EUR
+BNK0000633,2025-06-21,Customer Receipt,Inflow,Karim Dupont,237.42,EUR
+BNK0000634,2025-06-25,Customer Receipt,Inflow,Ahmed Lopez,379.57,EUR
+BNK0000635,,Customer Receipt,Inflow,Lea Lambert,1126.02,EUR
+BNK0000636,2025-06-02,Customer Receipt,Inflow,Riviera Supply Group,426.73,EUR
+BNK0000637,2025-07-12,Customer Receipt,Inflow,Sarah Robert,1242.74,EUR
+BNK0000638,2025-08-13,Customer Receipt,Inflow,Lea Lambert,1287.54,EUR
+BNK0000639,2025-07-18,Customer Receipt,Inflow,Noemie Laurent, 2432.38 ,EUR
+BNK0000640,2025-06-06,Customer Receipt,Inflow,Bati Plus SARL,295.4,EUR
+BNK0000641,2025-06-05,Customer Receipt,Inflow,Jade Richard,42.14,EUR
+BNK0000642,2025-06-23,Customer Receipt,Inflow,Urban Motion SARL,41.01,EUR
+BNK0000643,2025-07-12,Customer Receipt,Inflow,Sarah Robert, 22.67 , Eur 
+BNK0000644,2025-07-01,Customer Receipt,Inflow,Atlas Trading Group,426.36,EUR
+BNK0000645,2025-07-22,Customer Receipt,Inflow,Clara Roux,"2173,83",EUR
+BNK0000646,2025-08-09,Customer Receipt,Inflow,Prestige Home Holding,2034.79,EUR
+BNK0000647,2025-07-25,Customer Receipt,Inflow,Louis Michel,1051.81,EUR
+BNK0000648,2025-06-02,Customer Receipt,Inflow,Emma Bernard,1123.52,EUR
+BNK0000649,2025-06-26,Customer Receipt,Inflow,Bati Plus Group,345.7,EUR
+BNK0000650,2025-07-26,Customer Receipt,Inflow,Antoine Petit,2954.88,EUR
+BNK0000651,2025-07-20,Customer Receipt,Inflow,Optima Conseil Group,403.01,EUR
+BNK0000652,2025-06-26,Customer Receipt,Inflow,Dylan Lambert,1200.72,EUR
+BNK0000653,2025-06-29,Customer Receipt,Inflow,Aurelien Lefevre,167.26,EUR
+BNK0000654,2025-06-09,Customer Receipt,Inflow,Jade Richard,404.46,EUR
+BNK0000655,2025-06-21,Customer Receipt,Inflow,Karim Dupont,2644.72,EUR
+BNK0000656,2025-07-22,Customer Receipt,Inflow,Louis Vincent,736.7,EUR
+BNK0000657,2025-07-11,Customer Receipt,Inflow,Smart Office Services,554.19,EUR
+BNK0000658,2025-07-01,Customer Receipt,Inflow,Nova Retail Group,4750.85,EUR
+BNK0000659,2025-06-12,Customer Receipt,Inflow,Smart Office Group,6399.66,EUR
+BNK0000660,2025-07-16,Customer Receipt,Inflow,Sarah Robert,1811.03,EUR
+BNK0000661,2025-06-19,Customer Receipt,Inflow,Cap Sud Equipement SARL,24.23,EUR
+BNK0000662,2025-08-07,Customer Receipt,Inflow,Louis David,1411.45,EUR
+BNK0000663,2025-07-15,Customer Receipt,Inflow,Mariam Garcia,1112.88,EUR
+BNK0000664,2025-06-13,Customer Receipt,Inflow,Fatou Robert,631.5,EUR
+BNK0000665,2025-07-29,Customer Receipt,Inflow,Camille Richard,1357.44,EUR
+BNK0000666,2025-07-22,Customer Receipt,Inflow,Brahim Martinez,181.2,EUR
+BNK0000667,2025-06-29,Customer Receipt,Inflow,Emma Bernard,442.14,EUR
+BNK0000668,2025-08-05,Customer Receipt,Inflow,Vision Commerce Holding,153.2,EUR
+BNK0000669,2025-06-14,Customer Receipt,Inflow,Noemie Bamba,1149.41,EUR
+BNK0000670,2025-06-06,Customer Receipt,Inflow,Azur Concept Services,87.66,EUR
+BNK0000671,2025-06-07,Customer Receipt,Inflow,Atlas Trading SARL,220.08,EUR
+BNK0000672,2025-08-01,Customer Receipt,Inflow,Chloe Moreau,1878.3,EUR
+BNK0000673,2025-06-27,Customer Receipt,Inflow,Salome Moreau,1729.0,EUR
+BNK0000674,2025-06-13,Customer Receipt,Inflow,Alpha Partners SAS,3666.88,EUR
+BNK0000675,2025-07-17,Customer Receipt,Inflow,Hugo David,2111.37,EUR
+BNK0000676,2025-07-27,Customer Receipt,Inflow,Thomas Thomas,389.42,EUR
+BNK0000677,2025-07-17,Customer Receipt,Inflow,Soleil Distribution Group,931.52,EUR
+BNK0000678,2025-07-10,Customer Receipt,Inflow,Atlas Trading Holding,1326.46,EUR
+BNK0000679,2025-07-10,Customer Receipt,Inflow,Ines Chevalier,374.44,EUR
+BNK0000680,2025-06-21,Customer Receipt,Inflow,Prestige Home SAS,1948.82,EUR
+BNK0000681,2025-07-26,Customer Receipt,Inflow,Salome Bonnet,"1285,3",EUR
+BNK0000682,2025-07-03,Customer Receipt,Inflow,Louis Lambert,752.65,EUR
+BNK0000683,2025-07-31,Customer Receipt,Inflow,Elite Habitat SARL,476.37,EUR
+BNK0000684,2025-07-13,Customer Receipt,Inflow,Clara Roux,44.1,EUR
+BNK0000685,2025-07-24,Customer Receipt,Inflow,Fatou Bonnet,2619.14,EUR
+BNK0000686,2025-08-09,Customer Receipt,Inflow,Camille Diallo,346.57,EUR
+BNK0000687,2025-06-10,Customer Receipt,Inflow,Atlas Trading Holding,470.85,EUR
+BNK0000688,2025-06-02,Customer Receipt,Inflow,Karim Roux,285.78,EUR
+BNK0000689,2025-06-05,Customer Receipt,Inflow,Cap Sud Equipement Holding,3757.63,EUR
+BNK0000690,2025-06-27,Customer Receipt,Inflow,Cap Sud Equipement SAS,612.64,EUR
+BNK0000691,2025-07-13,Customer Receipt,Inflow,Smart Office Holding,202.06,EUR
+BNK0000692,2025-07-31,Customer Receipt,Inflow,Fatou Bonnet,125.78,EUR
+BNK0000693,2025-07-29,Customer Receipt,Inflow,Paul Leroy,156.1,EUR
+BNK0000694,2025-06-11,Customer Receipt,Inflow,Emma Bernard,761.12,EUR
+BNK0000695,2025-08-14,Customer Receipt,Inflow,Prestige Home Holding,547.88,EUR
+BNK0000696,2025-06-17,Customer Receipt,Inflow, Elodie Girard,618.42,EUR
+BNK0000697,2025-08-09,Customer Receipt,Inflow,Vision Commerce Holding,140.87,EUR
+BNK0000698,2025-06-27,Customer Receipt,Inflow,Mediterra Shop Holding,1578.53,EUR
+BNK0000699,2025-08-22,Customer Receipt,Inflow,Urban Motion Holding,509.42,EUR
+BNK0000700,2025-08-16,Customer Receipt,Inflow,Louis Lambert,44.97,EUR
+BNK0000701,2025-08-24,Customer Receipt,Inflow,Azur Concept SARL,1487.66,EUR
+BNK0000702,2025-08-17,Customer Receipt,Inflow,Atlas Trading Holding,193.46,EUR
+BNK0000703,07-07-2025,Customer Receipt,Inflow,Antoine Leroy,3489.75,EUR
+BNK0000704,2025-08-30,Customer Receipt,Inflow,Salome Bonnet,1503.06,EUR
+BNK0000705,2025-08-31,Customer Receipt,Inflow,Thomas Thomas,588.36,EUR
+BNK0000706,2025-08-10,Customer Receipt,Inflow,Riviera Supply SAS,4278.38,EUR
+BNK0000707,2025-08-23,Customer Receipt,Inflow,Salome Diallo,523.33,EUR
+BNK0000708,2025-08-15,Customer Receipt,Inflow,Riviera Supply Sas,386.16,EUR
+BNK0000709,2025-08-19,Customer Receipt,Inflow,Sarah Bernard,377.17,EUR
+BNK0000710,2025-09-16,Customer Receipt,Inflow,Kora Logistics SARL,504.02,EURO
+BNK0000711,2025-07-19,Customer Receipt,Inflow,Atlas Trading Group,46.9,EUR
+BNK0000712,2025-08-12,Customer Receipt,Inflow,Lea Diallo,1360.55,EUR
+BNK0000713,2025-08-13,Customer Receipt,Inflow,Atlas Trading Holding,669.36,EUR
+BNK0000714,09-12-2025,Customer Receipt,Inflow,Benoit Bamba,1260.88,EUR
+BNK0000715,2025-07-02,Customer Receipt,Inflow,Vision Commerce SAS,210.86,EUR
+BNK0000716,2025-07-18,Customer Receipt,Inflow,Mehdi Moreau,271.83,EUR
+BNK0000717,2025-07-16,Customer Receipt,Inflow,Elodie Girard,215.19,EUR
+BNK0000718,2025-08-15,Customer Receipt,Inflow,Riviera Supply SAS,938.32,EUR
+BNK0000719,2025-07-08,Customer Receipt,Inflow,Emma Dubois,568.78,EUR
+BNK0000720,2025-08-24,Customer Receipt,Inflow, Camille Richard,8848.79,EUR
+BNK0000721,2025-07-30,Customer Receipt,Inflow,Bati Plus Group,1175.92,EUR
+BNK0000722,2025-07-02,Customer Receipt,Inflow,Atlas Trading SARL,1020.27,EUR
+BNK0000723,2025-07-06,Customer Receipt,Inflow,Prestige Home SARL,219.98,EUR
+BNK0000724,2025-08-03,Customer Receipt,Inflow,  Paul Leroy  , 224.44 ,eur
+BNK0000725,2025-08-21,Customer Receipt,Inflow,Kora Logistics SARL,358.99,EUR
+BNK0000726,2025-08-07,Customer Receipt,Inflow,Delta Market Group,45.41,EUR
+BNK0000727,2025-08-29,Customer Receipt,Inflow,Riviera Supply SARL,6972.26,EUR
+BNK0000728,2025-07-28,Customer Receipt,Inflow,Salome Moreau,1319.15,EUR
+BNK0000729,2025-07-26,Customer Receipt,Inflow,Riviera Supply Group,311.85,EUR
+BNK0000730,2025-07-15,Customer Receipt,Inflow,Noemie Leroy,628.72,EUR
+BNK0000731,2025-07-09,Customer Receipt,Inflow,Laura Diallo,221.43,EUR
+BNK0000732,2025-07-02,Customer Receipt,Inflow,Urban Motion Services,585.78,EUR
+BNK0000733,2025-07-22,Customer Receipt,Inflow,Jade Richard,1819.83,EUR
+BNK0000734,2025-08-24,Customer Receipt,Inflow,Azur Concept Services,1707.45,EUR
+BNK0000735,2025-07-14,Customer Receipt,Inflow,Riviera Supply Group,1240.06,EUR
+BNK0000736,2025-07-01,Customer Receipt,Inflow,Romain Konate,489.8,EUR
+BNK0000737,2025-07-22,Customer Receipt,Inflow,Lea Konate,484.29,EUR
+BNK0000738,2025-08-25,Customer Receipt,Inflow,ANTOINE PETIT,2124.85,EUR
+BNK0000739,2025-07-19,Customer Receipt,Inflow,Atlas Trading Group,125.91,EUR
+BNK0000740,2025-07-05,Customer Receipt,Inflow,Chloe Lefevre,86.29,EUR
+BNK0000741,2025-08-12,Customer Receipt,Inflow,Thomas Dubois,82.14, Eur 
+BNK0000742,2025-07-28,Customer Receipt,Inflow,Atlas Trading SARL,533.52,EUR
+BNK0000743,2025-07-23,Customer Receipt,Inflow,Yassine Legrand,309.99,EUR
+BNK0000744,2025-08-23,Customer Receipt,Inflow,Camille Richard,535.02,EUR
+BNK0000745,2025-08-27,Customer Receipt,Inflow,Nicolas Durand,558.02,EUR
+BNK0000746,2025-08-28,Customer Receipt,Inflow,Noemie Lefevre,1725.16,EUR
+  BNK0000747  ,2025-08-02,Customer Receipt,Inflow,Emma  Dubois,1614.66,EUR
+BNK0000748,2025-08-21,Customer Receipt,Inflow,VISION COMMERCE GROUP, 74.59 ,EUR
+BNK0000749,,Customer Receipt,Inflow,Brahim Thomas,161.22,EUR
+BNK0000750,2025-07-10,Customer Receipt,Inflow,Laura Diallo,1206.24,EUR
+BNK0000751,2025-08-06,Customer Receipt,Inflow,Camille Petit,1208.61,EUR
+BNK0000752,2025-08-16,Customer Receipt,Inflow,Bati Plus Group,708.37,EUR
+BNK0000753,2025-07-24,Customer Receipt,Inflow,Mehdi Lambert,43.4,EUR
+BNK0000754,2025-07-10,Customer Receipt,Inflow,Mediterra Shop Holding,48.08,EUR
+BNK0000755,2025-08-08,Customer Receipt,Inflow,Atlas Trading Holding,221.6,EUR
+BNK0000756,2025-07-12,Customer Receipt,Inflow,Smart Office Holding,651.48,EUR
+BNK0000757,2025-07-27,Customer Receipt,Inflow,Urban Motion SAS,1832.76,EUR
+BNK0000758,2025-08-09,Customer Receipt,Inflow,Aicha Vincent,1311.12,EUR
+BNK0000759,2025-08-18,Customer Receipt,Inflow,Hugo Lefevre,534.78,EUR
+BNK0000760,2025-08-02,Customer Receipt,Inflow,Julie Diop,452.32,EUR
+BNK0000761,2025-08-19,Customer Receipt,Inflow,Urban Motion SAS,1749.55,EUR
+BNK0000762,2025-07-04,Customer Receipt,Inflow,Smart Office Holding,122.1,EUR
+BNK0000763,2025-08-07,Customer Receipt,Inflow,Ines Chevalier,651.27,EUR
+BNK0000764,2025-08-07,Customer Receipt,Inflow,Riviera Supply Holding,203.23,EUR
+BNK0000765,2025-08-23,Customer Receipt,Inflow,Brahim Martinez,431.72,EUR
+BNK0000766,2025-08-16,Customer Receipt,Inflow,Mediterra Shop Holding,533.99,EUR
+BNK0000767,2025-07-28,Customer Receipt,Inflow,Cap Sud Equipement SARL,276.15,EUR
+BNK0000768,2025-09-06,Customer Receipt,Inflow,Atlas Trading Services,39.52,EUR
+BNK0000769,2025-09-03,Customer Receipt,Inflow,Noemie Laurent,39.82,EUR
+BNK0000770,2025-07-16,Customer Receipt,Inflow,Riviera Supply Group,645.02,EUR
+BNK0000771,2025-07-10,Customer Receipt,Inflow,Prestige Home SARL,1871.19,EUR
+BNK0000772,2025-07-11,Customer Receipt,Inflow,Ahmed Lopez,640.57,EUR
+BNK0000773,2025-07-29,Customer Receipt,Inflow,Karim Dupont,3166.53,EUR
+BNK0000774,2025-07-16,Customer Receipt,Inflow,Delta Market Holding,1134.44,EUR
+BNK0000775,2025-08-20,Customer Receipt,Inflow,Louis Michel,2104.6,EUR
+BNK0000776,2025-08-20,Customer Receipt,Inflow,Soleil Distribution Group,1839.24,EUR
+BNK0000777,2025-07-29,Customer Receipt,Inflow,Chloe Lefevre,2522.25,EUR
+BNK0000778,2025-08-11,Customer Receipt,Inflow,Aurelien Morel,2134.47,EUR
+bnk0000779,2025-08-22,Customer Receipt,Inflow,Elodie Martinez,1759.47,EUR
+BNK0000780,2025-07-29,Customer Receipt,Inflow,Florian Legrand,2671.06,EUR
+BNK0000781,2025-09-05,Customer Receipt,Inflow,Soleil Distribution Services,118.03,EUR
+BNK0000782,2025-07-25,Customer Receipt,Inflow,Yassine Konate,560.4,EUR
+BNK0000783,2025-08-08,Customer Receipt,Inflow,Riviera Supply Holding,264.48,EUR
+BNK0000784,2025-07-23,Customer Receipt,Inflow,Alpha Partners SAS,2680.44,EUR
+BNK0000785,2025-07-24,Customer Receipt,Inflow,Noemie Vincent,113.05,EUR
+BNK0000786,2025-07-24,Customer Receipt,Inflow,Karim Dupont,2246.64,EUR
+BNK0000787,2025-07-22,Customer Receipt,Inflow,Elite Habitat SAS,"45,02",EUR
+BNK0000788,2025-07-20,Customer Receipt,Inflow,Delta Market Holding,302.91,EUR
+BNK0000789,2025-07-18,Customer Receipt,Inflow,Riviera Supply Group,142.61,EUR
+BNK0000790,2025-08-14,Customer Receipt,Inflow,Nova Retail Group,989.66,EUR
+BNK0000791,2025-07-20,Customer Receipt,Inflow,Prestige Home Services,93.2,EUR
+BNK0000792,2025-08-22,Customer Receipt,Inflow,Maxime Bertrand,115.34,EUR
+BNK0000793,2025-07-07,Customer Receipt,Inflow,Salome Moreau,148.36,EUR
+BNK0000794,2025-08-01,Customer Receipt,Inflow,Salome Michel,535.71,EUR
+BNK0000795,2025-07-25,Customer Receipt,Inflow,Blue Horizon SARL,1084.6,EUR
+BNK0000796,2025-08-24,Customer Receipt,Inflow,Maxime Bertrand,1709.64,EUR
+BNK0000797,2025-08-05,Customer Receipt,Inflow,Kora Logistics Group,1537.14,EUR
+BNK0000798,2025-07-27,Customer Receipt,Inflow,Ines Simon,1229.52,EUR
+BNK0000799,2025-07-30,Customer Receipt,Inflow,Lea Konate,180.82,EUR
+BNK0000800,16/09/2025,Customer Receipt,Inflow,Topline Solutions SAS,90.23,EUR
+BNK0000801,2025-08-27,Customer Receipt,Inflow,Soleil Distribution Group,572.05,EUR
+BNK0000802,2025-08-27,Customer Receipt,Inflow,Laura Bertrand,194.79,EUR
+BNK0000803,2025-07-25,Customer Receipt,Inflow,Bati Plus Group,2598.72,EUR
+BNK0000804,2025-08-21,Customer Receipt,Inflow,Sarah Bernard,761.79,EUR
+BNK0000805,2025-08-19,Customer Receipt,Inflow,Fatou Petit,2151.9,EUR
+BNK0000806,2025-08-06,Customer Receipt,Inflow,Mariam Garcia,662.48,EUR
+BNK0000807,2025-08-30,Customer Receipt,Inflow,Vision Commerce Holding,529.42,EUR
+BNK0000808,2025-08-24,Customer Receipt,Inflow,Benoit Bamba,2312.29,EUR
+BNK0000809,2025-07-27,Customer Receipt,Inflow,Karim Roux,146.96,EUR
+BNK0000810,2025-08-21,Customer Receipt,Inflow,Camille Petit,81.7,EUR
+BNK0000811,2025-07-30,Customer Receipt,Inflow,Bati Plus SARL,4093.3,EUR
+BNK0000812,2025-09-01,Customer Receipt,Inflow,Paul Dubois,751.42,EURO
+BNK0000813,2025-07-04,Customer Receipt,Inflow,Nova Retail SAS,97.12,EUR
+BNK0000814,2025-07-20,Customer Receipt,Inflow,Yassine Konate,492.87,EUR
+BNK0000815,2025-07-07,Customer Receipt,Inflow,Soleil Distribution SAS,207.78,EUR
+BNK0000816,2025-09-06,Customer Receipt,Inflow,Fatou Petit,247.3,EUR
+BNK0000817,2025-08-27,Customer Receipt,Inflow,Kora Logistics SARL,1234.84,EUR
+BNK0000818,2025-08-10,Customer Receipt,Inflow,Nicolas Laurent,2618.41,EUR
+BNK0000819,2025-08-17,Customer Receipt,Inflow,Benoit Bamba,6873.59,EURO
+BNK0000820,2025-07-02,Customer Receipt,Inflow,Riviera Supply Group,177.33,EUR
+BNK0000821,2025-08-04,Customer Receipt,Inflow,Kevin Traore,1405.74,EUR
+BNK0000822,2025-08-12,Customer Receipt,Inflow,Thomas Dupont,259.78,EUR
+BNK0000823,2025-08-11,Customer Receipt,Inflow,Salome Traore,614.26,EUR
+BNK0000824,2025-08-27,Customer Receipt,Inflow,Vision Commerce Group,2689.31,EUR
+BNK0000825,2025-08-28,Customer Receipt,Inflow,Vision Commerce Group,379.12,EUR
+BNK0000826,2025-07-29,Customer Receipt,Inflow,Louis Michel,1387.92,EUR
+BNK0000827,2025-08-28,Customer Receipt,Inflow,Vision Commerce Holding,65.26,EUR
+BNK0000828,2025-07-31,Customer Receipt,Inflow,Urban Motion SARL,2024.53,EUR
+BNK0000829,2025-08-28,Customer Receipt,Inflow,Paul Dubois,5276.2,EUR
+BNK0000830,2025-07-29,Customer Receipt,Inflow,Topline Solutions SAS,1881.78,EUR
+BNK0000831,2025-07-29,Customer Receipt,Inflow,Dylan Traore,479.94,EUR
+BNK0000832,2025-07-06,Customer Receipt,Inflow,Urban Motion SAS,2271.1,EUR
+BNK0000833,2025-08-16,Customer Receipt,Inflow,Fatou Petit,121.01,EUR
+BNK0000834,2025-08-22,Customer Receipt,Inflow,Sarah Bernard,2252.96,EUR
+BNK0000835,2025-07-18,Customer Receipt,Inflow,Prestige Home SAS,2079.72,EUR
+BNK0000836,2025-07-06,Customer Receipt,Inflow,Fatou Garcia,2135.64,EUR
+BNK0000837,2025-08-23,Customer Receipt,Inflow,Antoine Petit,677.33,EUR
+BNK0000838,2025-08-19,Customer Receipt,Inflow,Chloe Robert,416.43,EUR
+BNK0000839,2025-07-21,Customer Receipt,Inflow,Noemie Bamba,89.12,EUR
+BNK0000840,2025-08-15,Customer Receipt,Inflow,Riviera Supply SAS,320.99,EUR
+BNK0000841,2025-08-20,Customer Receipt,Inflow,Riviera Supply Group,3290.52,EUR
+BNK0000842,2025-09-10,Customer Receipt,Inflow,Aurelien Morel,615.91,EUR
+BNK0000843,2025-09-20,Customer Receipt,Inflow,Vision Commerce Holding,88.7,EUR
+BNK0000844,2025-09-19,Customer Receipt,Inflow,Sarah Robert,68.83,EUR
+BNK0000845,2025-08-23,Customer Receipt,Inflow,Prestige Home Services,211.67,EUR
+BNK0000846,2025-09-01,Customer Receipt,Inflow,Nova Retail SAS,1307.24,EUR
+BNK0000847 ,2025-09-16,Customer Receipt,Inflow,Riviera Supply SAS ,1508.22,EUR
+BNK0000848,2025-09-21,Customer Receipt,Inflow,Nova Retail Group,1095.48,EUR
+BNK0000849,2025-09-09,Customer Receipt,Inflow,Azur Concept Services,243.33,EUR
+BNK0000850,2025-09-28,Customer Receipt,Inflow,Camille Richard,958.12,EUR
+BNK0000851,09-26-2025,Customer Receipt,Inflow,Smart Office Services,6052.79,EUR
+BNK0000852,2025-10-10,Customer Receipt,Inflow,Optima Conseil Group,1154.04,EUR
+BNK0000853,2025-08-28,Customer Receipt,Inflow,Bati Plus Holding,423.78,EUR
+BNK0000854,2025-08-31,Customer Receipt,Inflow,Riviera Supply Group,281.17,EUR
+BNK0000855,2025-09-06,Customer Receipt,Inflow,Salome Michel,1943.84,EUR
+BNK0000856,2025-08-18,Customer Receipt,Inflow,Riviera Supply Group,4509.12,EUR
+BNK0000857,2025-09-22,Customer Receipt,Inflow,Riviera Supply Holding,4898.11,EUR
+BNK0000858,2025-09-05,Customer Receipt,Inflow,Vision Commerce Group,78.77,EUR
+BNK0000859,2025-08-11,Customer Receipt,Inflow,Smart Office Holding,843.72,EUR
+BNK0000860,2025-08-03,Customer Receipt,Inflow,Mehdi Moreau,72.72,EUR
+BNK0000861,2025-09-25,Customer Receipt,Inflow,Optima Conseil Group,605.83,EUR
+BNK0000862,2025-09-17,Customer Receipt,Inflow,Elite Habitat SARL,3858.45,EUR
+BNK0000863,2025-09-29,Customer Receipt,Inflow,Optima Conseil Group,895.24,EUR
+BNK0000864,2025-08-09,Customer Receipt,Inflow,Ahmed Lopez,3383.2,EUR
+BNK0000865,2025-08-05,Customer Receipt,Inflow,Riviera Supply Group,2016.54,EUR
+BNK0000866,2025-09-08,Customer Receipt,Inflow,Delta Market Group,126.25,EUR
+BNK0000867,2025-08-12,Customer Receipt,Inflow,Noemie Bamba,476.75,EUR
+BNK0000868,2025-09-29,Customer Receipt,Inflow,Kora Logistics SARL,1818.09,EUR
+BNK0000869,2025-08-29,Customer Receipt,Inflow,Smart Office Holding,1740.34,EUR
+BNK0000870,2025-09-15,Customer Receipt,Inflow,Urban Motion SAS,558.32,EUR
+BNK0000871,2025-08-25,Customer Receipt,Inflow,Jade Lopez,84.0,EUR
+BNK0000872,2025-10-08,Customer Receipt,Inflow,Hugo David,159.64,EUR
+BNK0000873,2025-08-01,Customer Receipt,Inflow,Ahmed Lopez,1203.12,EUR
+BNK0000874,2025-09-24,Customer Receipt,Inflow,Atlas Trading Holding,3085.92,EUR
+BNK0000875,2025-09-13,Customer Receipt,Inflow,Kora Logistics SARL,527.44,EUR
+BNK0000876,2025-09-29,Customer Receipt,Inflow,Louis Lambert,1051.74,EUR
+BNK0000877,2025-08-23,Customer Receipt,Inflow,Elite Habitat Services,2363.64,EUR
+BNK0000878,2025-08-31,Customer Receipt,Inflow,Yassine Konate,151.16,EUR
+BNK0000879,2025-08-05,Customer Receipt,Inflow,Soleil Distribution SAS,428.32,EUR
+BNK0000880,2025-08-15,Customer Receipt,Inflow,Chloe Bamba ,894.62,EUR
+BNK0000881,2025-10-02,Customer Receipt,Inflow,Urban Motion Holding,1447.46,EUR
+BNK0000882,2025-09-15,Customer Receipt,Inflow,Morgane Andre,820.88,EUR
+BNK0000883,2025-10-15,Customer Receipt,Inflow,Smart Office Holding,189.72,EUR
+BNK0000884,2025-08-02,Customer Receipt,Inflow,Fatou Robert,833.04,EUR
+BNK0000885,2025-09-17,Customer Receipt,Inflow,Optima Conseil Services,210.24,EUR
+BNK0000886,2025-10-04,Customer Receipt,Inflow,Optima Conseil Services,248.72,EUR
+BNK0000887,2025-08-20,Customer Receipt,Inflow,Bati Plus Holding,365.37,EUR
+BNK0000888,2025-08-12,Customer Receipt,Inflow,Riviera Supply Group,209.72,EUR
+BNK0000889,2025-09-25,Customer Receipt,Inflow,Camille Richard,1586.28,EUR
+BNK0000890,2025-08-30,Customer Receipt,Inflow,Sarah Petit,213.55,EUR
+BNK0000891,2025-09-16,Customer Receipt,Inflow,Thomas Dupont,4089.43,EUR
+BNK0000892,2025-09-23,Customer Receipt,Inflow,Camille Diallo,10601.38,EUR
+BNK0000893,2025-08-29,Customer Receipt,Inflow,Azur Concept Services,2321.28,EUR
+BNK0000894,2025-08-29,Customer Receipt,Inflow,Atlas Trading SAS,192.6,EUR
+BNK0000895,2025-09-05,Customer Receipt,Inflow,Hugo Lefevre,776.79,EUR
+BNK0000896,2025-09-19,Customer Receipt,Inflow,Hugo Lefevre,1138.1,EUR
+BNK0000897,2025-09-11,Customer Receipt,Inflow,Atlas Trading Holding,752.09,EUR
+BNK0000898,2025-09-16,Customer Receipt,Inflow,Soleil Distribution Group,2283.15,EUR
+BNK0000899,2025-09-22,Customer Receipt,Inflow,Prestige Home Holding,391.65,EUR
+BNK0000900,2025-08-17,Customer Receipt,Inflow,Nova Retail SAS,638.99,EUR
+BNK0000901,2025-10-06,Customer Receipt,Inflow,Antoine Petit,554.96,EUR
+BNK0000902,2025-09-13,Customer Receipt,Inflow,Sarah Robert,472.16,EUR
+BNK0000903,2025-09-12,Customer Receipt,Inflow,Dylan Chevalier,771.5,EUR
+BNK0000904,2025-08-04,Customer Receipt,Inflow,Emma Dubois,657.52,EUR
+BNK0000905,2025-08-05,Customer Receipt,Inflow,Emma Bernard,260.0,EUR
+BNK0000906,2025-08-12,Customer Receipt,Inflow,Prestige Home Services,90.54,EUR
+BNK0000907,2025-08-30,Customer Receipt,Inflow,Delta Market Holding,104.1,EUR
+BNK0000908,2025-10-14,Customer Receipt,Inflow,Elite Habitat SARL,4415.39,EUR
+BNK0000909,2025-08-10,Customer Receipt,Inflow,Chloe Bamba,3660.94,EUR
+BNK0000910,2025-09-19,Customer Receipt,Inflow,Camille Richard,6670.58,EUR
+BNK0000911,2025-08-31,Customer Receipt,Inflow,Smart Office Group,838.18,EUR
+BNK0000912,2025-08-29,Customer Receipt,Inflow,Riviera Supply SAS,830.4,EUR
+BNK0000913,2025-08-20,Customer Receipt,Inflow,Smart Office Holding,76.49,EUR
+BNK0000914,2025-09-27,Customer Receipt,Inflow,Aicha Francois,779.04,EUR
+BNK0000915,2025-08-23,Customer Receipt,Inflow,Cap Sud Equipement SAS,239.8,EUR
+BNK0000916,2025-10-07,Customer Receipt,Inflow,Optima Conseil Holding,65.72,EUR
+BNK0000917,2025-08-29,Customer Receipt,Inflow,Salome Bonnet,398.16,EUR
+BNK0000918,2025-08-01,Customer Receipt,Inflow,Atlas Trading Group,1801.23,EUR
+BNK0000919,2025-09-12,Customer Receipt,Inflow,Paul Leroy,64.8,EUR
+BNK0000920,2025-09-10,Customer Receipt,Inflow,Hexa Services SARL,835.13,EUR
+BNK0000921,2025-09-24,Customer Receipt,Inflow,Brahim Morel,297.25,EUR
+BNK0000922,2025-09-12,Customer Receipt,Inflow,Optima Conseil Holding,81.29,EUR
+BNK0000923,2025-09-21,Customer Receipt,Inflow,Thomas Dupont,92.95,EUR
+BNK0000924,2025-09-24,Customer Receipt,Inflow,Salome Traore,290.56,EUR
+BNK0000925,2025-08-28,Customer Receipt,Inflow,Nova Retail SAS,2328.48,EUR
+BNK0000926,2025-08-25,Customer Receipt,Inflow,Chloe Bamba,104.25,EUR
+BNK0000927,2025-09-25,Customer Receipt,Inflow,Fatou Bonnet,809.56,EUR
+BNK0000928,2025-08-15,Customer Receipt,Inflow,Fatou Garcia,699.75,EUR
+BNK0000929,2025-08-04,Customer Receipt,Inflow,Bati Plus Holding,625.41,EUR
+BNK0000930,2025-09-14,Customer Receipt,Inflow,Louis David,612.09,EUR
+BNK0000931,2025-08-30,Customer Receipt,Inflow,Noemie Lefevre,7357.84,EUR
+BNK0000932,2025-09-04,Customer Receipt,Inflow,Salome Traore,3267.38,EUR
+BNK0000933,2025-10-06,Customer Receipt,Inflow,Vision Commerce Holding,1160.51,EUR
+BNK0000934,2025-10-12,Customer Receipt,Inflow,Thomas Thomas,3348.71,EUR
+BNK0000935,20/09/2025,Customer Receipt,Inflow,Thomas Dupont,113.53,EUR
+BNK0000936,2025-08-05,Customer Receipt,Inflow,Prestige Home SAS,298.58,EUR
+BNK0000937,2025-09-08,Customer Receipt,Inflow,Hugo Lefevre,1543.54,EUR
+BNK0000938,2025-09-29,Customer Receipt,Inflow,Topline Solutions SAS,20.71,EUR
+BNK0000939,2025-09-21,Customer Receipt,Inflow,Florian Girard,573.28,EUR
+BNK0000940,2025-08-25,Customer Receipt,Inflow,Atlas Trading SARL,631.78,EUR
+BNK0000941,2025-10-05,Customer Receipt,Inflow,Hugo Lefevre,857.64,EUR
+BNK0000942,2025-08-17,Customer Receipt,Inflow,Dylan Lambert,110.23,EUR
+BNK0000943,2025-08-06,Customer Receipt,Inflow,Noemie Vincent,1503.05,EUR
+BNK0000944,2025-08-06,Customer Receipt,Inflow,Noemie Vincent,338.19,EUR
+BNK0000945,2025-10-15,Customer Receipt,Inflow,Mediterra Shop Services,263.22,EUR
+BNK0000946,2025-10-12,Customer Receipt,Inflow,Urban Motion Holding,1636.02,EUR
+BNK0000947,2025-08-19,Customer Receipt,Inflow,Cap Sud Equipement SARL,208.0,EUR
+BNK0000948,2025-09-01,Customer Receipt,Inflow,Camille Bertrand,22.89,EUR
+BNK0000949,2025-09-23,Customer Receipt,Inflow,Mediterra Shop Holding,3163.7,EUR
+BNK0000950,2025-09-05,Customer Receipt,Inflow,Morgane Andre,318.67,EUR
+BNK0000951,2025-09-19,Customer Receipt,Inflow,Optima Conseil Group,523.56,EUR
+BNK0000952,2025-08-17,Customer Receipt,Inflow,Atlas Trading Holding,4549.05,EUR
+BNK0000953,2025-08-23,Customer Receipt,Inflow,Topline Solutions SARL,627.0,EUR
+BNK0000954,2025-09-09,Customer Receipt,Inflow,Brahim Morel,1066.1,EUR
+BNK0000955,2025-10-03,Customer Receipt,Inflow,Fatou Petit,2290.82,EUR
+BNK0000956,2025-08-27,Customer Receipt,Inflow,Jade Lopez,659.11,EUR
+BNK0000957,2025-09-26,Customer Receipt,Inflow,Paul Bamba,1075.15,EUR
+BNK0000958,2025-08-13,Customer Receipt,Inflow,Urban Motion SARL,3095.19,EUR
+BNK0000959,2025-08-25,Customer Receipt,Inflow,Blue Horizon SARL,3389.55,EUR
+BNK0000960,2025-09-27,Customer Receipt,Inflow,Clara Roux,538.69,EUR
+BNK0000961,2025-08-04,Customer Receipt,Inflow,Topline Solutions SAS,638.97,EUR
+BNK0000962,2025-09-18,Customer Receipt,Inflow,Elite Habitat Holding,6842.2,EUR
+BNK0000963,2025-10-11,Customer Receipt,Inflow,Camille Diallo,1642.88,EUR
+ BNK0000964,2025-09-26,Customer Receipt,Inflow,Salome Traore,12254.9,eur
+BNK0000965,2025-08-08,Customer Receipt,Inflow,Noemie Bamba,303.83,EUR
+BNK0000966,2025-09-12,Customer Receipt,Inflow,Brahim Leroy,262.91,EUR
+BNK0000967,2025-10-03,Customer Receipt,Inflow,Optima Conseil Services,1801.46,EUR
+BNK0000968,2025-09-20,Customer Receipt,Inflow,Urban Motion Holding,279.68,EUR
+BNK0000969,2025-09-07,Customer Receipt,Inflow,Nicolas Laurent,262.38,EUR
+BNK0000970,2025-09-11,Customer Receipt,Inflow,Florian Robert,286.55,EUR
+BNK0000971,2025-08-12,Customer Receipt,Inflow,Karim Roux,323.84,EUR
+BNK0000972,2025-09-25,Customer Receipt,Inflow,Sarah Bernard,1090.94,EUR
+BNK0000973,2025-09-13,Customer Receipt,Inflow,Brahim Morel,2540.52,EUR
+BNK0000974,2025-08-25,Customer Receipt,Inflow,Bati Plus SARL,94.27,EUR
+BNK0000975,2025-08-31,Customer Receipt,Inflow,Lea Konate,947.91,EUR
+BNK0000976,2025-08-14,Customer Receipt,Inflow,Mehdi Moreau,209.07,EUR
+BNK0000977,2025-08-31,Customer Receipt,Inflow,Karim Dupont,541.53,EUR
+BNK0000978,2025-10-07,Customer Receipt,Inflow,Riviera Supply SARL,1036.64,EUR
+BNK0000979,2025-09-29,Customer Receipt,Inflow,Maxime Diallo,1079.1,EUR
+BNK0000980,2025-09-16,Customer Receipt,Inflow,Brahim Martinez,N/A,EUR
+BNK0000981,2025-08-25,Customer Receipt,Inflow,Topline Solutions SAS,546.46,EUR
+BNK0000982,2025-08-10,Customer Receipt,Inflow,Chloe Lefevre,1266.98,EUR
+BNK0000983,2025-08-11,Customer Receipt,Inflow,Alpha Partners SAS,3024.16,EUR
+BNK0000984,2025-09-22,Customer Receipt,Inflow,Paul Konate,480.77,EUR
+BNK0000985,2025-08-18,Customer Receipt,Inflow,Mediterra Shop Holding,138.52,EUR
+BNK0000986,2025-08-14,Customer Receipt,Inflow,Cap Sud Equipement Holding,838.47,EUR
+BNK0000987,2025-10-11,Customer Receipt,Inflow,Fatou Petit,1130.86,EUR
+BNK0000988,2025-08-15,Customer Receipt,Inflow,Atlas Trading Group,1278.0,EUR
+BNK0000989,2025-09-13,Customer Receipt,Inflow,Paul Konate,533.81,EUR
+BNK0000990,2025-09-24,Customer Receipt,Inflow,Laura Bertrand,2813.26,EUR
+BNK0000991,2025-10-08,Customer Receipt,Inflow,Aicha Vincent,6346.87,EUR
+BNK0000992,2025-10-17,Customer Receipt,Inflow,Paul Dubois,272.13,EUR
+BNK0000993,2025-09-13,Customer Receipt,Inflow,Azur Concept Services,188.37,EUR
+BNK0000994,2025-10-21,Customer Receipt,Inflow,Clara Roux,8697.78,EUR
+BNK0000995,2025-09-26,Customer Receipt,Inflow,Emma Bernard,1928.8,EUR
+BNK0000996,2025-11-19,Customer Receipt,Inflow,Urban Motion SAS,2487.95,EUR
+BNK0000997,2025-09-11,Customer Receipt,Inflow,Emma Dubois,73.53,EUR
+BNK0000998,2025-09-22,Customer Receipt,Inflow,Delta Market Holding,1154.5,EUR
+BNK0000999,2025-10-26,Customer Receipt,Inflow,Atlas Trading Services,127.0,EUR
+BNK0001000,2025-11-04,Customer Receipt,Inflow,Atlas Trading Holding,139.59,EUR
+BNK0001001,2025-10-30,Customer Receipt,Inflow,Fatou Bonnet,742.51,EUR
+BNK0001002,2025-10-05,Customer Receipt,Inflow,Soleil Distribution Group,144.57,EUR
+BNK0001003,2025-09-14,Customer Receipt,Inflow,Riviera Supply Group,348.28,EUR
+BNK0001004,2025-09-16,Customer Receipt,Inflow,Yassine Konate,899.01,EUR
+BNK0001005,2025-11-05,Customer Receipt,Inflow,Noemie Laurent,740.4,EUR
+BNK0001006,2025-09-17,Customer Receipt,Inflow,Emma Bernard,412.13,EUR
+BNK0001007,2025-11-05,Customer Receipt,Inflow,Topline Solutions SAS,4552.26,EURO
+BNK0001008,2025-09-30,Customer Receipt,Inflow,Chloe Bamba,1937.96,EUR
+BNK0001009,2025-10-25,Customer Receipt,Inflow,Brahim Martinez,386.25,EUR
+BNK0001010,2025-09-09,Customer Receipt,Inflow,Nova Retail SAS,447.57,EUR
+BNK0001011,2025-10-24,Customer Receipt,Inflow,Ahmed Bertrand,303.27,EUR
+BNK0001012,2025-09-22,Customer Receipt,Inflow,Lea Konate,568.56,EUR
+BNK0001013,2025-09-04,Customer Receipt,Inflow,Atlas Trading SAS,206.13,EUR
+BNK0001014,2025-11-15,Customer Receipt,Inflow,Camille Diallo,569.5,EUR
+BNK0001015,2025-10-28,Customer Receipt,Inflow,Noemie Lefevre,693.14,EUR
+BNK0001016,2025-09-10,Customer Receipt,Inflow,Salome Moreau,1868.73,EUR
+BNK0001017,2025-09-11,Customer Receipt,Inflow,Karim Dupont,315.21,EUR
+BNK0001018,2025-09-21,Customer Receipt,Inflow,Vision Commerce Services,431.04,EUR
+BNK0001019,2025-09-07,Customer Receipt,Inflow,Elite Habitat Services,1168.24,EUR
+BNK0001020,2025-09-25,Customer Receipt,Inflow,Salome Moreau,601.54,EUR
+BNK0001021,2025-10-27,Customer Receipt,Inflow,Elite Habitat SARL,776.73,EUR
+BNK0001022,2025-10-31,Customer Receipt,Inflow,Mediterra Shop Services,268.85,EUR
+BNK0001023,2025-09-07,Customer Receipt,Inflow,Alpha Partners SAS,86.24,EUR
+BNK0001024,2025-09-18,Customer Receipt,Inflow,Bati Plus Holding,43.88,EUR
+BNK0001025,2025-10-31,Customer Receipt,Inflow,Optima Conseil Services,258.61,EUR
+BNK0001026,12-09-2025,Customer Receipt,Inflow,Prestige Home SAS,72.64,EUR
+BNK0001027,2025-11-12,Customer Receipt,Inflow,Topline Solutions SAS,194.58,EUR
+BNK0001028,2025-10-31,Customer Receipt,Inflow,Hexa Services SARL,296.21,EUR
+BNK0001029,2025-09-06,Customer Receipt,Inflow,Lucie Bertrand,2652.16,EUR
+BNK0001030,2025-09-28,Customer Receipt,Inflow,Prestige Home SAS,69.48,EUR
+BNK0001031,2025-09-11,Customer Receipt,Inflow,Jade Lopez,194.45,EUR
+BNK0001032,27/09/2025,Customer Receipt,Inflow,Soleil Distribution SAS,1722.83,EUR
+BNK0001033,2025-10-13,Customer Receipt,Inflow,Urban Motion SAS,153.78,EUR
+BNK0001034,2025-10-15,Customer Receipt,Inflow,Louis David,3070.53,EUR
+BNK0001035,2025-11-20,Customer Receipt,Inflow,Chloe Moreau,197.0,N/A
+BNK0001036,2025-09-21,Customer Receipt,Inflow,Riviera Supply Group,95.92,EUR
+BNK0001037,2025-09-13,Customer Receipt,Inflow,Yassine Konate,564.66,EUR
+BNK0001038,2025-10-22,Customer Receipt,Inflow,Fatou Bonnet,262.52,EUR
+BNK0001039,10-07-2025,Customer Receipt,Inflow,Louis Vincent,1091.72,EUR
+BNK0001040,2025-09-20,Customer Receipt,Inflow,Atlas Trading Group,6817.68,EUR
+BNK0001041,2025-10-14,Customer Receipt,Inflow,Soleil Distribution SARL,3239.12,EUR
+BNK0001042,2025-09-20,Customer Receipt,Inflow,Elite Habitat SAS,607.76,eur
+BNK0001043,2025-10-28,Customer Receipt,Inflow,Sarah Robert,6990.05,EUR
+BNK0001044,2025-10-25,Customer Receipt,Inflow,Kora Logistics Group,1114.29,EUR
+BNK0001045,2025-09-10,Customer Receipt,Inflow,Mehdi Moreau,275.55,EUR
+BNK0001046,2025-09-27,Customer Receipt,Inflow,Antoine Leroy,292.32,EUR
+BNK0001047,2025-09-16,Customer Receipt,Inflow,Elite Habitat SAS,790.22,EUR
+BNK0001048,2025-10-13,Customer Receipt,Inflow,Brahim Leroy,3060.96,EUR
+BNK0001049,2025-09-25,Customer Receipt,Inflow,Ahmed Lopez,96.12,EUR
+BNK0001050,2025-09-30,Customer Receipt,Inflow,Bati Plus SARL,44.27,EUR
+BNK0001051,2025-11-03,Customer Receipt,Inflow,Fatou Bonnet,2277.67,EUR
+BNK0001052,2025-10-05,Customer Receipt,Inflow,Aurelien Morel,90.93,EUR
+BNK0001053,2025-09-22,Customer Receipt,Inflow,Karim Dupont,70.96,EUR
+BNK0001054,2025-10-20,Customer Receipt,Inflow,Kora Logistics Group,2455.13,EUR
+BNK0001055,2025-11-02,Customer Receipt,Inflow,Atlas Trading Holding,918.54,EUR
+BNK0001056,2025-09-15,Customer Receipt,Inflow,Chloe Legrand,1436.66,EUR
+BNK0001057,2025-10-08,Customer Receipt,Inflow,Louis Vincent,2198.69,EUR
+BNK0001058,2025-09-04,Customer Receipt,Inflow,Urban Motion SARL,2337.79,EUR
+BNK0001059,2025-09-28,Customer Receipt,Inflow,Atlas Trading Holding,94.27,EUR
+BNK0001060,2025-11-04,Customer Receipt,Inflow,Brahim Martinez,636.05,EUR
+BNK0001061,2025-09-07,Customer Receipt,Inflow,Cap Sud Equipement Holding,218.35,EUR
+BNK0001062,2025-10-23,Customer Receipt,Inflow,Ines Chevalier,504.49,eur
+BNK0001063,2025-10-29,Customer Receipt,Inflow,Maxime Diallo,560.51,EUR
+BNK0001064,2025-09-30,Customer Receipt,Inflow,Soleil Distribution SAS,117.6,EUR
+BNK0001065,2025-10-10,Customer Receipt,Inflow,Julie  Lefevre,11461.29,EUR
+BNK0001066,2025-10-07,Customer Receipt,Inflow,Bati Plus Group,1133.44,EUR
+BNK0001067,2025-09-12,Customer Receipt,Inflow,Blue Horizon Holding,569.46,EUR
+BNK0001068,2025-10-31,Customer Receipt,Inflow,Bati Plus Group,1896.82,EUR
+BNK0001069,2025-09-16,Customer Receipt,Inflow,Cap Sud Equipement SARL,2988.72,EUR
+BNK0001070,2025-09-11,Customer Receipt,Inflow,Atlas Trading Holding,339.03,EUR
+BNK0001071,2025-10-24,Customer Receipt,Inflow,Brahim Martinez,451.73,
+BNK0001072,2025-09-24,Customer Receipt,Inflow,Mehdi Moreau,3424.92,EUR
+BNK0001073,2025-09-12,Customer Receipt,Inflow,Mehdi Fournier, 797.37 ,EUR
+BNK0001074,2025-10-15,Customer Receipt,Inflow,Hugo Lefevre,126.2,EUR
+BNK0001075,2025-10-05,Customer Receipt,Inflow,Kevin Traore ,1943.75,EUR
+BNK0001076,2025-09-09,Customer Receipt,Inflow,Bati Plus Holding,226.44,EUR
+BNK0001077,2025-09-23,Customer Receipt,Inflow,Bati Plus Holding,47.5,EUR
+BNK0001078,2025-09-06,Customer Receipt,Inflow,Chloe Lefevre,441.14,EUR
+BNK0001079,2025-09-07,Customer Receipt,Inflow,Smart Office Group,2637.81,EUR
+BNK0001080,2025-10-17,Customer Receipt,Inflow,Julie Roux,580.64,EUR
+BNK0001081,2025-09-09,Customer Receipt,Inflow,Mediterra Shop Holding,634.84,EUR
+BNK0001082,2025-10-09,Customer Receipt,Inflow,  Paul Konate  ,203.01,EUR
+BNK0001083,2025-10-10,Customer Receipt,Inflow,Thomas Dubois,96.74,EUR
+BNK0001084,2025-09-28,Customer Receipt,Inflow,Atlas Trading SARL, 399.36 ,EUR
+BNK0001085,2025-09-27,Customer Receipt,Inflow,Antoine Leroy,149.72,EUR
+BNK0001086,2025-10-15,Customer Receipt,Inflow,Kevin Traore,1122.79,EUR
+BNK0001087,2025-09-27,Customer Receipt,Inflow,Prestige Home Services,618.24,EUR
+BNK0001088,2025-09-06,Customer Receipt,Inflow,Alpha Partners SAS,781.47,EUR
+BNK0001089,2025-09-05,Customer Receipt,Inflow,Noemie Leroy,3023.68,EUR
+BNK0001090,2025-09-27,Customer Receipt,Inflow,Laura Diallo,549.03,EUR
+BNK0001091,2025-09-25,Customer Receipt,Inflow,Urban Motion SAS,8543.6,EUR
+BNK0001092,2025-10-19,Customer Receipt,Inflow,Morgane Andre,1533.93,EUR
+BNK0001093,2025-10-06,Customer Receipt,Inflow,Noemie Lefevre,156.95,EUR
+BNK0001094,2025-10-15,Customer Receipt,Inflow,Salome Traore,203.98,EUR
+BNK0001095,2025-10-26,Customer Receipt,Inflow,Morgane Andre,988.92,EURO
+BNK0001096,2025-10-26,Customer Receipt,Inflow,Optima Conseil Holding,1119.44,EUR
+BNK0001097,2025-11-15,Customer Receipt,Inflow,Cap Sud Equipement SAS,2510.77,EUR
+BNK0001098,2025-09-03,Customer Receipt,Inflow,  Julie Diop  ,1522.0,EUR
+BNK0001099,2025-10-26,Customer Receipt,Inflow,Camille Diallo,3914.23,EUR
+BNK0001100,N/A,Customer Receipt,Inflow,Yassine Konate,634.2,EUR
+BNK0001101,2025-10-21,Customer Receipt,Inflow,Thomas Dubois,593.54,EUR
+BNK0001102,2025-11-06,Customer Receipt,Inflow,Thomas Thomas,2890.57,EUR
+BNK0001103,2025-11-12,Customer Receipt,Inflow,Urban Motion SAS,1840.01,EUR
+BNK0001104,2025-09-23,Customer Receipt,Inflow,  Alpha Partners SAS  ,623.21,EUR
+BNK0001105,2025-09-23,Customer Receipt,Inflow,Noemie Bamba,444.52,EUR
+BNK0001106,2025-10-17,Customer Receipt,Inflow,ahmed bertrand,3020.0,EUR
+BNK0001107,2025-10-15,Customer Receipt,Inflow,Soleil Distribution Group,385.22,EUR
+BNK0001108,2025-09-09,Customer Receipt,Inflow,Atlas Trading SARL,541.11,EUR
+BNK0001109,2025-09-01,Customer Receipt,Inflow,Cap Sud Equipement SAS,654.42,EUR
+BNK0001110,2025-11-11,Customer Receipt,Inflow,Fatou Bonnet,1640.43,EUR
+BNK0001111,2025-09-11,Customer Receipt,Inflow,Noemie Vincent,608.52,EUR
+BNK0001112,2025-11-08,Customer Receipt,Inflow,Vision Commerce Holding,686.93,EUR
+BNK0001113,2025-10-03,Customer Receipt,Inflow,Bati Plus Group,1180.73,EUR
+BNK0001114,2025-10-29,Customer Receipt,Inflow,Urban Motion Holding,4072.08,EUR
+BNK0001115,2025-09-06,Customer Receipt,Inflow,Noemie Vincent,507.24,EUR
+BNK0001116,2025-10-13,Customer Receipt,Inflow,Aicha Vincent,2803.63,EUR
+BNK0001117,2025-09-16,Customer Receipt,Inflow,Chloe Bamba,1914.42,EUR
+BNK0001118,2025-09-10,Customer Receipt,Inflow,Atlas Trading SAS,95.52,EUR
+BNK0001119,2025-09-14,Customer Receipt,Inflow,Chloe Bamba,197.48,EUR
+BNK0001120,2025-10-10,Customer Receipt,Inflow,Mediterra Shop Holding,207.88,EUR
+BNK0001121,2025-10-17,Customer Receipt,Inflow,Paul Konate,338.78,EUR
+BNK0001122,2025-11-02,Customer Receipt,Inflow,Soleil Distribution Group,175.79,EUR
+BNK0001123,2025-11-30,Customer Receipt,Inflow,Vision Commerce Group,2465.89,EUR
+BNK0001124,2025-10-18,Customer Receipt,Inflow,Fatou Robert ,127.51,EUR
+BNK0001125,2025-10-06,Customer Receipt,Inflow,Delta Market Holding,558.97,EUR
+BNK0001126,2025-11-10,Customer Receipt,Inflow,Smart Office Services,78.32,EUR
+BNK0001127,2025-11-03,Customer Receipt,Inflow,Salome Diallo,857.68,EUR
+BNK0001128,2025-10-23,Customer Receipt,Inflow,Elite Habitat SAS,64.56,EUR
+BNK0001129,2025-11-19,Customer Receipt,Inflow,Sarah Robert,44.01,EUR
+bnk0001130,18-10-2025,Customer Receipt,Inflow,Lea Konate,2074.67,EUR
+BNK0001131,2025-12-15,Customer Receipt,Inflow,Atlas Trading Services,4586.56,EUR
+BNK0001132,2025-10-17,Customer Receipt,Inflow,Atlas Trading SARL,109.63,EUR
+BNK0001133,2025-10-05,Customer Receipt,Inflow,Riviera Supply Group,379.35,EUR
+BNK0001134,2025-11-17,Customer Receipt,Inflow,Atlas Trading Holding,773.23,EUR
+BNK0001135,2025-11-23,Customer Receipt,Inflow,Mediterra Shop Holding,21.74,EUR
+BNK0001136,2025-12-21,Customer Receipt,Inflow,Optima Conseil Group,2603.97,EUR
+BNK0001137,2025-11-12,Customer Receipt,Inflow,Riviera Supply SAS,4475.41,EUR
+BNK0001138,2025-11-06,Customer Receipt,Inflow,Louis Lambert,595.98,EUR
+BNK0001139,2025-10-06,Customer Receipt,Inflow,Topline Solutions SARL,1830.36,EUR
+BNK0001140,2025-12-14,Customer Receipt,Inflow,Riviera Supply SARL,159.17,EUR
+BNK0001141,2025-12-09,Customer Receipt,Inflow,Mediterra Shop Services,1086.39,EUR
+BNK0001142,2025-12-16,Customer Receipt,Inflow,Chloe Moreau,100.27,EUR
+BNK0001143,2025-10-02,Customer Receipt,Inflow,Urban Motion SAS,1224.5,EUR
+BNK0001144,2025-11-18,Customer Receipt,Inflow,Dylan Chevalier,1670.61,EUR
+BNK0001145,2025-11-09,Customer Receipt,Inflow,Azur Concept SARL,9152.45,EUR
+BNK0001146,2025-11-22,Customer Receipt,Inflow,Louis Lambert,340.21,EUR
+BNK0001147,2025-11-20,Customer Receipt,Inflow,Riviera Supply SARL,568.84,EUR
+BNK0001148,2025-10-18,Customer Receipt,Inflow,Prestige Home Services,705.38,EUR
+BNK0001149,2025-10-06,Customer Receipt,Inflow,Smart Office Holding,1052.45,EUR
+BNK0001150,2025-11-28,Customer Receipt,Inflow,Salome  Bonnet,181.54,EUR
+BNK0001151,2025-11-29,Customer Receipt,Inflow,Thomas Thomas,3963.74,EUR
+BNK0001152,2025-10-28,Customer Receipt,Inflow,Smart Office Holding,4822.04,EUR
+BNK0001153,2025-11-26,Customer Receipt,Inflow,Smart Office Services,3322.05,EUR
+BNK0001154,2025-10-18,Customer Receipt,Inflow,Karim Dupont,3379.48,EUR
+BNK0001155,2025-10-13,Customer Receipt,Inflow,Vision Commerce SAS,519.5,EUR
+BNK0001156,2025-10-08,Customer Receipt,Inflow,Atlas Trading Group,90.86,EUR
+BNK0001157,2025-11-23,Customer Receipt,Inflow,Benoit Bamba,382.7,EUR
+BNK0001158,2025-10-04,Customer Receipt,Inflow,noemie leroy,1198.23,EUR
+BNK0001159,2025-10-13,Customer Receipt,Inflow,Chloe Lefevre,556.92,EUR
+BNK0001160,2025-11-18,Customer Receipt,Inflow,Brahim Morel,3329.84,EUR
+BNK0001161,2025-11-11,Customer Receipt,Inflow,Elite Habitat SARL,187.39,EUR
+BNK0001162,2025-11-27,Customer Receipt,Inflow,Kora Logistics SARL,"3482,22",EUR
+BNK0001163,2025-10-02,Customer Receipt,Inflow,Atlas Trading SAS,1392.09,EUR
+BNK0001164,2025-10-14,Customer Receipt,Inflow,Mehdi Fournier,975.61,EUR
+BNK0001165,2025-11-11,Customer Receipt,Inflow,Salome Traore,408.58,EUR
+BNK0001166,2025-10-05,Customer Receipt,Inflow,Morgane Vincent,229.92,EUR
+BNK0001167,2025-11-06,Customer Receipt,Inflow,Azur Concept Services,758.59,EUR
+BNK0001168,2025-10-21,Customer Receipt,Inflow,Elite Habitat SAS,1690.6,EUR
+BNK0001169,2025-10-22,Customer Receipt,Inflow,Vision Commerce Services,182.68,EUR
+BNK0001170,2025-12-16,Customer Receipt,Inflow,Mediterra Shop Services,525.77,EUR
+BNK0001171,2025-11-06,Customer Receipt,Inflow,Riviera Supply SAS,2122.0,EUR
+BNK0001172,2025-11-15,Customer Receipt,Inflow,Nicolas Laurent,2327.69,EUR
+BNK0001173,2025-11-26,Customer Receipt,Inflow,Fatou Bonnet,2568.22,EUR
+BNK0001174,2025-10-06,Customer Receipt,Inflow,Lucie Bertrand,640.02,EUR
+BNK0001175,2025-10-29,Customer Receipt,Inflow,Kora Logistics Group,544.79,EUR
+BNK0001176,2025-10-12,Customer Receipt,Inflow,Elite Habitat SAS,608.8,EUR
+BNK0001177,2025-11-19,Customer Receipt,Inflow,Optima Conseil Group,110.44,EUR
+BNK0001178,2025-12-09,Customer Receipt,Inflow,Antoine Diallo,4004.78,EUR
+BNK0001179,2025-11-01,Customer Receipt,Inflow,Hexa Services SARL,984.24,EUR
+BNK0001180,2025-12-01,Customer Receipt,Inflow,Maxime Bertrand,520.7,EUR
+ BNK0001181,2025-10-29,Customer Receipt,Inflow,URBAN MOTION SAS,214.32,NA
+BNK0001182,2025-11-29,Customer Receipt,Inflow,Dylan Chevalier,1464.43,EUR
+BNK0001183,2025-10-26,Customer Receipt,Inflow,Chloe Lefevre,174.36,EUR
+BNK0001184,2025-10-10,Customer Receipt,Inflow,Dylan Traore,125.94,EUR
+BNK0001185,2025-11-20,Customer Receipt,Inflow,Atlas Trading Holding,181.6,EUR
+BNK0001186,2025-10-12,Customer Receipt,Inflow,Prestige Home Services,1302.48,EUR
+BNK0001187,2025-11-29,Customer Receipt,Inflow,Nova Retail Group,2460.42,EUR
+BNK0001188,2025-12-15,Customer Receipt,Inflow,FATOU PETIT,NA,EUR
+BNK0001189,2025-10-24,Customer Receipt,Inflow,Prestige Home SARL,3515.7,EUR
+BNK0001190,2025-11-10,Customer Receipt,Inflow,Camille Petit,1175.4,EUR
+BNK0001191,2025-10-22,Customer Receipt,Inflow,Vision Commerce Services,217.52,EUR
+BNK0001192,2025-11-11,Customer Receipt,Inflow,Kora Logistics SARL,245.98,EUR
+BNK0001193,2025-11-30,Customer Receipt,Inflow,Ines Chevalier,243.76,EUR
+BNK0001194,2025-10-12,Customer Receipt,Inflow,Dylan Traore,2833.06,EUR
+BNK0001195,2025-12-04,Customer Receipt,Inflow,Soleil Distribution Group,251.1,EUR
+BNK0001196,2025-12-09,Customer Receipt,Inflow,Urban Motion SAS,6873.64,EUR
+BNK0001197,2025-10-11,Customer Receipt,Inflow,Karim Dupont,2902.37,EUR
+BNK0001198,2025-10-02,Customer Receipt,Inflow,Jade Lopez,1053.54,EUR
+BNK0001199,2025-11-08,Customer Receipt,Inflow,Paul Konate,3136.85,EUR
+BNK0001200,2025-11-21,Customer Receipt,Inflow,Azur Concept SARL,794.96,EUR
+BNK0001201,2025-11-25,Customer Receipt,Inflow,Optima Conseil Services,1166.21,EUR
+BNK0001202,2025-10-10,Customer Receipt,Inflow,Yassine Konate,623.18,EUR
+BNK0001203,2025-11-05,Customer Receipt,Inflow,Brahim Morel,80.39,EUR
+BNK0001204,2025-10-19,Customer Receipt,Inflow,Ahmed Lopez,398.22,EUR
+BNK0001205,2025-12-15,Customer Receipt,Inflow,Louis David,102.03,EUR
+BNK0001206,2025-11-14,Customer Receipt,Inflow,Kora Logistics SARL,161.81,EUR
+BNK0001207,2025-11-20,Customer Receipt,Inflow,Fatou Petit,282.88,EUR
+BNK0001208,2025-10-27,Customer Receipt,Inflow,Elite Habitat Services,5462.97,EUR
+BNK0001209,2025-11-21,Customer Receipt,Inflow,Antoine Dupont,1269.78,EUR
+BNK0001210,2025-12-08,Customer Receipt,Inflow,Lea Lambert,207.77,EUR
+BNK0001211,2025-11-01,Customer Receipt,Inflow,Paul Leroy,271.94,EUR
+BNK0001212,2025-10-18,Customer Receipt,Inflow,Karim Dupont,278.48,EUR
+BNK0001213,2025-11-15,Customer Receipt,Inflow,Prestige Home Holding,120.14,EUR
+BNK0001214,2025-11-17,Customer Receipt,Inflow,Nicolas Laurent,285.23,EUR
+BNK0001215,2025-10-21,Customer Receipt,Inflow,Laura Diallo,2353.57,EUR
+BNK0001216,2025-12-05,Customer Receipt,Inflow,Vision Commerce Holding,1059.16,EUR
+BNK0001217,2025-10-13,Customer Receipt,Inflow,Chloe Lefevre,2503.67,EUR
+BNK0001218,2025-11-28,Customer Receipt,Inflow,Nicolas Laurent, 834.14 ,EUR
+BNK0001219,2025-10-03,Customer Receipt,Inflow,Mehdi Fournier,6872.88,EUR
+BNK0001220,2025-11-18,Customer Receipt,Inflow,Salome Diallo,128.21,EUR
+BNK0001221,2025-12-01,Customer Receipt,Inflow,Hugo David,1372.1,eur
+BNK0001222,2025-10-17,Customer Receipt,Inflow,Elodie Girard,651.76,EUR
+BNK0001223,2025-12-05,Customer Receipt,Inflow,Elite Habitat SARL,1072.73,EUR
+BNK0001224,2025-11-06,Customer Receipt,Inflow,Lea Diallo,1753.51,EUR
+BNK0001225,2025-10-24,Customer Receipt,Inflow,Atlas Trading Holding,2563.82,EUR
+BNK0001226,2025-11-25,Customer Receipt,Inflow,Atlas Trading Holding,487.28,EUR
+BNK0001227,2025-10-20,Customer Receipt,Inflow,Mehdi Moreau,1262.9,EUR
+BNK0001228,2025-12-02,Customer Receipt,Inflow,Optima Conseil Services,265.51,EUR
+BNK0001229,2025-10-27,Customer Receipt,Inflow,Yassine Konate,490.59,EUR
+BNK0001230,2025-11-12,Customer Receipt,Inflow,Urban Motion Holding,37.38,EUR
+BNK0001231,2025-11-22,Customer Receipt,Inflow,Julie Roux,3279.3,EUR
+BNK0001232,2025-11-11,Customer Receipt,Inflow,Aurelien Lefevre,425.86,EUR
+BNK0001233,2025-10-19,Customer Receipt,Inflow,Lea Konate,219.92,EUR
+BNK0001234,2025-11-19,Customer Receipt,Inflow,Fatou Petit,492.59,EUR
+BNK0001235,2025-11-21,Customer Receipt,Inflow,Riviera Supply SARL,264.31,EUR
+BNK0001236,2025-11-26,Customer Receipt,Inflow,Laura Bertrand,823.08,EUR
+BNK0001237,2025-10-31,Customer Receipt,Inflow,NA,449.56,EUR
+BNK0001238,2025-11-16,Customer Receipt,Inflow,Riviera Supply SARL,286.33,EUR
+BNK0001239,2025-12-12,Customer Receipt,Inflow,Elite Habitat SARL,421.91,EUR
+Bnk0001240,2025-10-10,Customer Receipt,Inflow,Atlas Trading SARL,1158.71,EUR
+BNK0001241,2025-11-08,Customer Receipt,Inflow,Salome Diallo,2990.53,EUR
+BNK0001242,2025-11-06,Customer Receipt,Inflow,Julie Roux,1696.43,EUR
+BNK0001243,2025-10-08,Customer Receipt,Inflow,Noemie Vincent,173.88,EUR
+BNK0001244,2025-11-24,Customer Receipt,Inflow,Camille Richard,480.88,EUR
+BNK0001245,2025-10-25,Customer Receipt,Inflow,Riviera Supply Group,634.84,EUR
+BNK0001246,2025-10-30,Customer Receipt,Inflow,Blue Horizon SARL,3142.81,EUR
+BNK0001247,2025-10-24,Customer Receipt,Inflow,Atlas Trading Holding,2544.72,EUR
+BNK0001248,2025-10-05,Customer Receipt,Inflow,Elite Habitat Services,206.09,EUR
+BNK0001249,2025-11-09,Customer Receipt,Inflow,Aurelien Morel,83.75,EUR
+BNK0001250,2025-10-29,Customer Receipt,Inflow,Laura Diallo,1318.84,eur
+BNK0001251,2025-10-28,Customer Receipt,Inflow,Blue Horizon Holding,92.16,EUR
+BNK0001252,2025-10-07,Customer Receipt,Inflow,Noemie Leroy,299.28,EUR
+BNK0001253,2025-12-01,Customer Receipt,Inflow,Riviera Supply SARL,1013.24,EUR
+BNK0001254,2025-10-10,Customer Receipt,Inflow,Delta Market Holding,881.58,EUR
+BNK0001255,04/11/2025,Customer Receipt,Inflow,Sarah Petit,734.69,EUR
+BNK0001256,2025-11-09,Customer Receipt,Inflow,Soleil Distribution Group,1261.06,EUR
+BNK0001257,2025-11-15,Customer Receipt,Inflow,Louis Michel,125.97,EUR
+BNK0001258,2025-10-19,Customer Receipt,Inflow,Cap Sud Equipement SARL,43.11,EUR
+BNK0001259,2025-11-14,Customer Receipt,Inflow,Mariam Garcia,383.61,EUR
+BNK0001260,2025-10-17,Customer Receipt,Inflow,Cap Sud Equipement SAS,709.44,EUR
+BNK0001261,2025-11-15,Customer Receipt,Inflow,Thomas Dubois,824.89,EUR
+BNK0001262,2025-10-21,Customer Receipt,Inflow,Florian Legrand,1248.63,EUR
+BNK0001263,2025-10-17,Customer Receipt,Inflow,Blue Horizon Holding,48.72,EUR
+BNK0001264,2025-12-02,Customer Receipt,Inflow,Soleil Distribution SARL,1081.0,EUR
+BNK0001265,2025-10-31,Customer Receipt,Inflow,Mediterra Shop Holding,2351.36,EUR
+BNK0001266,2025-11-01,Customer Receipt,Inflow,Laura Diallo,151.4,EUR
+BNK0001267,2025-10-15,Customer Receipt,Inflow,Mediterra Shop Holding,305.17,EUR
+BNK0001268,2025-10-25,Customer Receipt,Inflow,Bati Plus Group,618.03,EUR
+BNK0001269,2025-12-23,Customer Receipt,Inflow,Lea Diallo,344.6,EUR
+BNK0001270,2025-12-21,Customer Receipt,Inflow,Elite Habitat SARL,790.13,EUR
+BNK0001271,2025-12-08,Customer Receipt,Inflow,Sarah Robert,2864.0,EUR
+BNK0001272,2025-11-09,Customer Receipt,Inflow,Chloe Legrand,23.31,EUR
+BNK0001273,2025-12-22,Customer Receipt,Inflow,Smart Office Services,1800.6,EUR
+BNK0001274,2025-11-05,Customer Receipt,Inflow,Smart Office Group,561.3,EUR
+BNK0001275,2025-12-16,Customer Receipt,Inflow,Brahim Martinez,464.54,EUR
+BNK0001276,2025-12-03,Customer Receipt,Inflow,Aicha Vincent,133.23,EUR
+BNK0001277,2025-12-13,Customer Receipt,Inflow,Paul Konate,321.67,EUR
+BNK0001278,2026-01-11,Customer Receipt,Inflow,Hugo David,1140.32,EUR
+BNK0001279,2025-12-10,Customer Receipt,Inflow,Aurelien Morel,232.82,EUR
+BNK0001280,2025-12-23,Customer Receipt,Inflow,Paul Leroy,547.81,EUR
+BNK0001281,2025-11-18,Customer Receipt,Inflow,Elodie Girard,3532.68,EUR
+BNK0001282,2025-12-08,Customer Receipt,Inflow,Florian Girard,5113.97,EUR
+BNK0001283,2025-12-16,Customer Receipt,Inflow,Vision Commerce Group,2166.93,EUR
+BNK0001284,2025-12-19,Customer Receipt,Inflow,Vision Commerce Group,699.91,EUR
+BNK0001285,2025-12-17,Customer Receipt,Inflow,Kora Logistics SARL,115.63,EUR
+BNK0001286,2025-11-18,Customer Receipt,Inflow,Atlas Trading Group,450.14,EUR
+ BNK0001287,2025-11-18,Customer Receipt,Inflow,Smart  Office  Group,649.02,EUR
+BNK0001288,2025-11-10,Customer Receipt,Inflow,Julie Diop,197.28,EUR
+BNK0001289,2025-11-14,Customer Receipt,Inflow,Bati Plus SARL,1412.71,EUR
+BNK0001290,2025-12-15,Customer Receipt,Inflow,Kora Logistics Group,404.53,EURO
+BNK0001291,2025-12-09,Customer Receipt,Inflow,Riviera Supply SAS,186.32,EUR
+BNK0001292,2026-01-03,Customer Receipt,Inflow,Smart Office Holding,814.56,EUR
+BNK0001293,2025-11-24,Customer Receipt,Inflow,Elodie Girard,601.7,EUR
+BNK0001294,2025-11-25,Customer Receipt,Inflow,Urban Motion SARL,1156.45,EUR
+BNK0001295,2025-11-16,Customer Receipt,Inflow,Mehdi Fournier,764.01,EUR
+BNK0001296,2025-11-23,Customer Receipt,Inflow,Alpha Partners SAS,119.45,EUR
+BNK0001297,2025-12-08,Customer Receipt,Inflow,Mariam Garcia,205.51,EUR
+BNK0001298,2025-11-23,Customer Receipt,Inflow,Atlas Trading SARL,101.02,EUR
+BNK0001299,2026-01-01,Customer Receipt,Inflow,Elite Habitat Holding,376.92,EUR
+BNK0001300,2025-12-12,Customer Receipt,Inflow,Aicha Francois,663.17,EUR
+BNK0001301,2025-12-09,Customer Receipt,Inflow,Hexa Services SARL,346.46,EUR
+BNK0001302,2025-12-22,Customer Receipt,Inflow,Hugo Lefevre,187.45,EUR
+BNK0001303,2025-12-17,Customer Receipt,Inflow,Riviera Supply SAS,1089.16,EUR
+BNK0001304,2025-12-20,Customer Receipt,Inflow,Ines Chevalier,122.5,EUR
+BNK0001305,2025-12-09,Customer Receipt,Inflow,Kora Logistics Group,2181.45,EUR
+BNK0001306,2026-01-01,Customer Receipt,Inflow,Louis Petit,439.16,EUR
+BNK0001307,2025-12-27,Customer Receipt,Inflow,Brahim Leroy,1305.96,EUR
+BNK0001308,2026-01-05,Customer Receipt,Inflow,Elite Habitat SARL,336.28,EUR
+BNK0001309,2025-12-12,Customer Receipt,Inflow,Camille Bertrand,2578.92,EUR
+BNK0001310,2025-12-13,Customer Receipt,Inflow,Sarah Petit,983.32,EUR
+BNK0001311,2025-12-09,Customer Receipt,Inflow,Riviera Supply Holding,1672.89,EUR
+bnk0001312,2025-12-19,Customer Receipt,Inflow,Louis Petit,4517.91,EUR
+BNK0001313,2025-12-11,Customer Receipt,Inflow,Bati Plus Group,1822.9,EUR
+BNK0001314,2025-12-29,Customer Receipt,Inflow,Kora Logistics SARL,332.18,EUR
+BNK0001315,2025-11-09,Customer Receipt,Inflow, Emma Dubois,1571.79,EURO
+BNK0001316,2026-01-09,Customer Receipt,Inflow,Hugo David,512.63,EUR
+BNK0001317,2025-12-24,Customer Receipt,Inflow,Ahmed Bertrand,1633.79,EUR
+BNK0001318,2025-12-16,Customer Receipt,Inflow,Elite Habitat Holding,336.82,EUR
+BNK0001319,2025-11-13,Customer Receipt,Inflow,Cap Sud Equipement SARL,738.72,EUR
+BNK0001320,2025-11-28,Customer Receipt,Inflow,Romain Konate,3875.97,EUR
+BNK0001321,2025-11-13,Customer Receipt,Inflow,Atlas Trading SARL,120.39,EUR
+BNK0001322,2025-11-12,Customer Receipt,Inflow,Alpha Partners Group,2421.6,EUR
+BNK0001323,2025-12-11,Customer Receipt,Inflow,Louis Vincent,17234.64,EUR
+BNK0001324,2025-11-16,Customer Receipt,Inflow,Vision Commerce Services,2304.34,EUR
+BNK0001325,2025-12-02,Customer Receipt,Inflow,Thomas Dubois,3072.36,EUR
+BNK0001326,2025-12-08,Customer Receipt,Inflow,Riviera Supply SAS,1578.08,EUR
+BNK0001327,2025-11-05,Customer Receipt,Inflow,Florian Legrand,2459.13,EUR
+BNK0001328,2025-11-18,Customer Receipt,Inflow,Hexa Services Group,431.01,EUR
+BNK0001329,2025-12-02,Customer Receipt,Inflow,Emma Dubois,2835.56,EUR
+BNK0001330,2025-11-21,Customer Receipt,Inflow,Nova Retail SAS,304.24,EUR
+BNK0001331,2025-11-19,Customer Receipt,Inflow,Prestige Home SAS,909.63,EUR
+BNK0001332,2025-11-10,Customer Receipt,Inflow,Alpha Partners SAS,1494.85,EUR
+BNK0001333,2025-12-02,Customer Receipt,Inflow,Kora Logistics SARL,3269.94,EUR
+BNK0001334,2025-11-07,Customer Receipt,Inflow,Riviera Supply Group,1296.28,EUR
+BNK0001335,2025-12-30,Customer Receipt,Inflow,Urban Motion SAS,85.27,EUR
+BNK0001336,2025-11-29,Customer Receipt,Inflow,Mehdi Fournier,195.84,EUR
+BNK0001337,2025-12-20,Customer Receipt,Inflow,Camille Diallo,944.64,EUR
+BNK0001338,2025-12-14,Customer Receipt,Inflow,Brahim Martinez,2598.12,EUR
+BNK0001339,2025-12-20,Customer Receipt,Inflow,Camille Diallo,296.46,EUR
+BNK0001340,2025-12-22,Customer Receipt,Inflow,Salome Bonnet,525.35,EUR
+BNK0001341,2025-12-28,Customer Receipt,Inflow,Florian Robert,2453.85,EUR
+BNK0001342,2025-11-19,Customer Receipt,Inflow,Fatou Robert,143.3,EUR
+BNK0001343,2025-11-10,Customer Receipt,Inflow,Cap Sud Equipement SARL,129.42,EUR
+BNK0001344,2025-11-07,Customer Receipt,Inflow,Karim Dupont,135.8,EUR
+BNK0001345,2025-12-02,Customer Receipt,Inflow,Elite Habitat Services,2286.5,EUR
+BNK0001346,2026-01-04,Customer Receipt,Inflow,Elite Habitat SARL,1660.65,EUR
+BNK0001347,2025-12-14,Customer Receipt,Inflow,Julie Lefevre,662.21,EUR
+BNK0001348,2025-12-16,Customer Receipt,Inflow,Florian Girard,369.25,EUR
+BNK0001349,2025-12-31,Customer Receipt,Inflow,Sarah Petit,4257.91,EUR
+BNK0001350,2025-12-01,Customer Receipt,Inflow,Nova Retail SAS,1965.12,EUR
+BNK0001351,2025-12-11,Customer Receipt,Inflow,Mediterra Shop Holding,402.18,EUR
+BNK0001352,2025-11-14,Customer Receipt,Inflow,Chloe Bamba,281.19,EUR
+BNK0001353,2025-12-18,Customer Receipt,Inflow,Louis Michel,5037.57,EUR
+BNK0001354,2025-12-12,Customer Receipt,Inflow,Morgane Andre,532.46,EUR
+BNK0001355,2025-12-15,Customer Receipt,Inflow,Brahim Morel,495.19,EUR
+BNK0001356,2025-11-14,Customer Receipt,Inflow,Elite Habitat Services,679.18,EUR
+BNK0001357,11-23-2025,Customer Receipt,Inflow,Bati Plus Group,1855.0,EUR
+BNK0001358,2025-11-24,Customer Receipt,Inflow,Jade Richard,93.87,EUR
+BNK0001359,2025-11-30,Customer Receipt,Inflow,Hexa Services SARL,585.9,EUR
+BNK0001360,2026-01-17,Customer Receipt,Inflow,Antoine Dupont,731.99,EUR
+BNK0001361,2025-11-19,Customer Receipt,Inflow,Karim Dupont,3444.84,EUR
+BNK0001362,2025-12-14,Customer Receipt,Inflow,Louis Lambert,830.8,EUR
+BNK0001363,2026-01-07,Customer Receipt,Inflow,Optima Conseil Holding,694.85,EUR
+BNK0001364,,Customer Receipt,Inflow,Kora Logistics SARL,"770,96",EUR
+BNK0001365,2026-01-13,Customer Receipt,Inflow,Hugo David,288.33,EUR
+BNK0001366,2025-12-30,Customer Receipt,Inflow,Riviera Supply SAS,44.5,EUR
+BNK0001367,2025-12-16,Customer Receipt,Inflow,Camille Bertrand,338.77,EUR
+BNK0001368,2025-11-10,Customer Receipt,Inflow,Atlas Trading SARL,335.16,EUR
+BNK0001369,2025-12-18,Customer Receipt,Inflow,Azur Concept Services,607.32,EUR
+BNK0001370,2026-01-07,Customer Receipt,Inflow,Ahmed Bertrand,79.9,EUR
+BNK0001371,2025-11-29,Customer Receipt,Inflow,Riviera Supply Group,410.5,EUR
+BNK0001372,2025-12-28,Customer Receipt,Inflow,Aicha Francois,1094.46,EUR
+BNK0001373,2026-01-20,Customer Receipt,Inflow,Prestige Home Holding,699.6,EUR
+BNK0001374,2025-12-26,Customer Receipt,Inflow,Lea Lambert,547.16,EUR
+BNK0001375,2025-12-23,Customer Receipt,Inflow,Brahim Leroy,443.88,EUR
+BNK0001376,2025-11-22,Customer Receipt,Inflow,Cap Sud Equipement Holding,3666.26,EUR
+BNK0001377,2026-01-02,Customer Receipt,Inflow,Soleil Distribution Group,448.59,EUR
+BNK0001378,2025-11-19,Customer Receipt,Inflow,Mediterra Shop Holding,133.21,EUR
+BNK0001379,2026-01-15,Customer Receipt,Inflow,Soleil Distribution Group,996.58,EUR
+BNK0001380,2026-01-05,Customer Receipt,Inflow,Lea Diallo,1130.55,EUR
+BNK0001381,2025-12-29,Customer Receipt,Inflow,Antoine Petit,5343.07,EUR
+BNK0001382,2025-12-15,Customer Receipt,Inflow,Thomas Martin,66.59,EUR
+BNK0001383,2025-12-31,Customer Receipt,Inflow,Nicolas Durand,5537.54,EUR
+BNK0001384,2025-11-11,Customer Receipt,Inflow,Mehdi Moreau,549.67,EUR
+BNK0001385,2026-01-05,Customer Receipt,Inflow,Florian Robert,6137.69,EUR
+BNK0001386,2025-11-08,Customer Receipt,Inflow,Delta Market Holding,716.0,EUR
+BNK0001387,2025-11-11,Customer Receipt,Inflow,Noemie Bamba,2081.99,EUR
+BNK0001388,2025-11-20,Customer Receipt,Inflow,Noemie Vincent,41.49,EUR
+BNK0001389,2025-12-07,Customer Receipt,Inflow,Atlas Trading Holding,1270.14,EUR
+BNK0001390,2025-11-06,Customer Receipt,Inflow,Morgane Vincent,533.29,EUR
+BNK0001391,2025-12-12,Customer Receipt,Inflow,Elodie Martinez,311.22,EUR
+BNK0001392,2025-12-30,Customer Receipt,Inflow,Optima Conseil Holding,1401.84,EUR
+BNK0001393,2025-12-08,Customer Receipt,Inflow,Delta Market Group,925.35,EUR
+BNK0001394 ,2026-01-06,Customer Receipt,Inflow,Soleil Distribution SARL,120.4,EURO
+BNK0001395,2025-12-16,Customer Receipt,Inflow,Brahim Martinez,598.04,EUR
+BNK0001396,2025-12-28,Customer Receipt,Inflow,Louis David,326.97,EUR
+BNK0001397,2025-11-19,Customer Receipt,Inflow,Azur Concept Services,2635.99,EUR
+BNK0001398,2025-12-01,Customer Receipt,Inflow,Noemie Bamba,325.56,EUR
+BNK0001399,2025-12-10,Customer Receipt,Inflow,Ines Chevalier,2195.18,EUR
+BNK0001400,2025-12-22,Customer Receipt,Inflow,Atlas Trading Holding,43.34,EUR
+BNK0001401,2026-01-09,Customer Receipt,Inflow,Soleil Distribution SARL,3473.77,EUR
+BNK0001402,2025-11-25,Customer Receipt,Inflow,Alpha Partners Group,389.41,EUR
+BNK0001403,2025-11-12,Customer Receipt,Inflow,Riviera Supply Group,624.21,EUR
+BNK0001404,2025-12-18,Customer Receipt,Inflow, Vision Commerce Group ,37.0,EUR
+BNK0001405,2025-12-24,Customer Receipt,Inflow,Sarah Bernard,41.51,EUR
+BNK0001406,2025-11-19,Customer Receipt,Inflow,Atlas Trading SARL,133.89,eur
+BNK0001407,2025-11-11,Customer Receipt,Inflow,Riviera Supply Group,1789.0,EUR
+BNK0001408,2025-12-11,Customer Receipt,Inflow,Aurelien Lefevre,161.9,EUR
+BNK0001409,2025-11-27,Customer Receipt,Inflow,Lucie Bertrand,513.43,EUR
+BNK0001410,2025-11-26,Customer Receipt,Inflow,Urban Motion Services,776.79,EUR
+BNK0001411,2025-12-19,Customer Receipt,Inflow,Riviera Supply Holding,83.94,EUR
+BNK0001412,2025-12-27,Customer Receipt,Inflow,Riviera Supply SAS,530.77,EUR
+BNK0001413,2025-12-04,Customer Receipt,Inflow,Brahim Morel,128.67,EUR
+BNK0001414,2025-12-13,Customer Receipt,Inflow,Paul Konate,135.67,EUR
+BNK0001415,2025-11-05,Customer Receipt,Inflow,Dylan Lambert,150.48,EUR
+BNK0001416,2025-12-30,Customer Receipt,Inflow,Optima Conseil Holding,813.45,EUR
+BNK0001417,12/01/2026,Customer Receipt,Inflow,Riviera Supply SARL,410.48,EUR
+BNK0001418,2025-11-16,Customer Receipt,Inflow,Fatou Garcia,2141.83,EUR
+BNK0001419,2026-01-17,Customer Receipt,Inflow,Ahmed Bertrand,3393.53,EUR
+BNK0001420,2025-11-29,Customer Receipt,Inflow,Jade Lopez,357.25,EUR
+BNK0001421,2025-11-07,Customer Receipt,Inflow,Prestige Home Services,861.71,EUR
+BNK0001422,2025-11-26,Customer Receipt,Inflow,Hexa Services Group,140.0,eur
+BNK0001423,2025-12-14,Customer Receipt,Inflow,Atlas Trading Holding,1764.26,EUR
+BNK0001424,2025-12-30,Customer Receipt,Inflow,Urban Motion SAS,999.54,EUR
+BNK0001425,2025-11-07,Customer Receipt,Inflow,Fatou Robert,92.66,EUR
+BNK0001426,2025-12-16,Customer Receipt,Inflow,N/A,305.59,EUR
+BNK0001427,2025-11-18,Customer Receipt,Inflow,Lea Konate,744.48,EUR
+BNK0001428,2025-12-16,Customer Receipt,Inflow,Elite Habitat Holding,205.51,EUR
+BNK0001429,2025-12-06,Customer Receipt,Inflow,Nova Retail Group,44.68,EUR
+BNK0001430,2026-01-16,Customer Receipt,Inflow,Benoit Bamba,3548.46,EUR
+BNK0001431,2025-12-07,Customer Receipt,Inflow,Julie Lefevre, 258.45 ,EUR
+BNK0001432,2025-12-04,Customer Receipt,Inflow,Aicha Francois,785.9,EUR
+BNK0001433,2026-01-03,Customer Receipt,Inflow,Optima Conseil Holding,264.88,EUR
+BNK0001434,2025-11-09,Customer Receipt,Inflow,Alpha Partners SAS ,"1744,71",EUR
+BNK0001435,2025-11-17,Customer Receipt,Inflow,Prestige Home SARL,974.16,EUR
+BNK0001436,2025-12-31,Customer Receipt,Inflow,Optima Conseil Holding,3560.91,EUR
+BNK0001437,2025-12-16,Customer Receipt,Inflow,Antoine Dupont,43.61,EUR
+BNK0001438,2025-11-13,Customer Receipt,Inflow,Karim Dupont,2434.83,EUR
+BNK0001439,2025-11-09,Customer Receipt,Inflow,Jade Richard,196.37,EUR
+BNK0001440,2025-12-25,Customer Receipt,Inflow,Azur Concept SARL,1939.43,EUR
+BNK0001441,2025-11-19,Customer Receipt,Inflow,Morgane Vincent,205.77,EUR
+BNK0001442,2025-11-14,Customer Receipt,Inflow,Azur Concept Services,2854.16,EUR
+BNK0001443,2025-11-14,Customer Receipt,Inflow,Riviera Supply Group,97.4,EUR
+BNK0001444,2025-12-31,Customer Receipt,Inflow,Alpha Partners SAS,318.45,EUR
+BNK0001445,2026-01-23,Customer Receipt,Inflow,Salome Traore,208.53,EUR
+BNK0001446,2025-12-27,Customer Receipt,Inflow,Blue Horizon SARL,383.84,EUR
+ BNK0001447,2026-01-02,Customer Receipt,Inflow,Elite Habitat SARL,676.82,EUR
+BNK0001448,2025-12-08,Customer Receipt,Inflow,Yassine Legrand,141.43,EUR
+BNK0001449,2025-12-25,Customer Receipt,Inflow,Emma Bernard,637.89,EUR
+BNK0001450,2025-12-16,Customer Receipt,Inflow,Morgane Vincent,1286.1,EUR
+ BNK0001451,2026-01-19,Customer Receipt,Inflow,Riviera Supply SAS,261.0,EUR
+BNK0001452,2026-01-14,Customer Receipt,Inflow,Atlas Trading Holding,2753.77,EUR
+BNK0001453,2026-01-25,Customer Receipt,Inflow,Hugo Lefevre,1056.96,EUR
+BNK0001454,2026-01-22,Customer Receipt,Inflow,Urban Motion Holding,36.8,EUR
+BNK0001455,2025-12-02,Customer Receipt,Inflow,Karim Dupont,2360.04,EUR
+BNK0001456,2026-01-28,Customer Receipt,Inflow,Chloe Robert,4346.52,EUR
+BNK0001457,2025-12-22,Customer Receipt,Inflow,Chloe Bamba,1802.78,EUR
+BNK0001458,2025-12-20,Customer Receipt,Inflow,Mehdi Fournier,2697.69,EUR
+BNK0001459,2026-02-07,Customer Receipt,Inflow,Maxime Diallo,2163.73,EUR
+BNK0001460,2026-01-12,Customer Receipt,Inflow,Azur Concept SARL,3340.63,EUR
+BNK0001461,2025-12-07,Customer Receipt,Inflow,Lucie Bertrand,2256.0,EUR
+BNK0001462,2025-12-05,Customer Receipt,Inflow,Ahmed Lopez,891.3,EUR
+BNK0001463,2026-02-03,Customer Receipt,Inflow,Benoit Bamba,261.91,EUR
+BNK0001464,2025-12-05,Customer Receipt,Inflow,Julie Diop,2949.3,EUR
+BNK0001465,2025-12-04,Customer Receipt,Inflow,Emma Bernard,1930.77,EUR
+BNK0001466,2025-12-31,Customer Receipt,Inflow,Smart Office Holding,16007.07,EUR
+BNK0001467,2026-02-01,Customer Receipt,Inflow,Maxime Bertrand,2482.46,EUR
+BNK0001468,2026-01-06,Customer Receipt,Inflow,Sarah Petit,568.04,EUR
+BNK0001469,2025-12-08,Customer Receipt,Inflow,Elite Habitat Services,109.76,EUR
+BNK0001470,2025-12-09,Customer Receipt,Inflow,N/A,1572.98,EUR
+BNK0001471,2025-12-31,Customer Receipt,Inflow,Fatou Robert,855.2,EUR
+BNK0001472,2026-01-26,Customer Receipt,Inflow,Atlas Trading Services,305.46,EUR
+BNK0001473,2025-12-16,Customer Receipt,Inflow,Lea Konate,8511.92,EUR
+BNK0001474,2025-12-12,Customer Receipt,Inflow,Bati Plus Group,182.02,EUR
+BNK0001475,2026-01-26,Customer Receipt,Inflow,Dylan Chevalier,3293.2,EUR
+BNK0001476,2025-12-19,Customer Receipt,Inflow,Emma Bernard,1762.84,EUR
+BNK0001477,2025-12-03,Customer Receipt,Inflow,Riviera Supply Group,178.61,EUR
+BNK0001478,2026-02-12,Customer Receipt,Inflow,Urban Motion SAS,445.19,EUR
+BNK0001479,2025-12-21,Customer Receipt,Inflow,Atlas Trading Group,787.95,EUR
+BNK0001480,2026-01-24,Customer Receipt,Inflow,Optima Conseil Holding,260.16,EUR
+BNK0001481,2026-01-15,Customer Receipt,Inflow,Optima Conseil Holding,594.4,EUR
+BNK0001482,2025-12-24,Customer Receipt,Inflow,Smart Office Holding,3089.96,EUR
+BNK0001483,2026-01-28,Customer Receipt,Inflow,Vision Commerce Group,285.85,EUR
+BNK0001484,2025-12-08,Customer Receipt,Inflow,Prestige Home SARL,1024.95,EUR
+BNK0001485,2025-12-22,Customer Receipt,Inflow,Atlas Trading Group,3550.22,EUR
+BNK0001486,2026-01-28,Customer Receipt,Inflow,Topline Solutions SAS,362.08,EUR
+BNK0001487,2026-01-27,Customer Receipt,Inflow,Kora Logistics SARL,86.53,EUR
+BNK0001488,2026-01-17,Customer Receipt,Inflow,Optima Conseil Group,185.55,EUR
+BNK0001489,2026-02-09,Customer Receipt,Inflow,Kora Logistics SARL,175.63,EUR
+BNK0001490,2025-12-09,Customer Receipt,Inflow,Romain Konate,361.04,EUR
+BNK0001491,2026-01-31,Customer Receipt,Inflow,Brahim Martinez,1748.5,EUR
+BNK0001492,2025-12-13,Customer Receipt,Inflow,Noemie Bamba,297.22,EUR
+BNK0001493,2026-01-13,Customer Receipt,Inflow,Camille Diallo,307.23,EUR
+BNK0001494,2026-01-29,Customer Receipt,Inflow,Riviera Supply SAS,733.26,EUR
+BNK0001495,2026-02-06,Customer Receipt,Inflow,Thomas Dubois,258.51,EUR
+BNK0001496,2025-12-18,Customer Receipt,Inflow,Vision Commerce SAS,3787.49,EUR
+BNK0001497,2025-12-19,Customer Receipt,Inflow,Riviera Supply Group,2897.52,EUR
+BNK0001498,2026-01-21,Customer Receipt,Inflow,Delta Market Group,260.63,EUR
+BNK0001499,2026-01-16,Customer Receipt,Inflow,Vision Commerce Group,785.07,EUR
+BNK0001500,2026-02-11,Customer Receipt,Inflow,Soleil Distribution SARL,3230.94,EUR
+BNK0001501,2026-01-13,Customer Receipt,Inflow,Kora Logistics SARL,223.73,EUR
+BNK0001502,2025-12-21,Customer Receipt,Inflow,Emma  Bernard,5997.86, Eur 
+BNK0001503,2025-12-28,Customer Receipt,Inflow,N/A,1271.6,eur
+BNK0001504,2026-01-29,Customer Receipt,Inflow,Kevin Traore,2154.86,EUR
+BNK0001505,2026-01-02,Customer Receipt,Inflow,Camille Petit,2196.0,EUR
+BNK0001506,2026-01-22,Customer Receipt,Inflow,Elodie Martinez,1976.38,EUR
+BNK0001507,2026-01-02,Customer Receipt,Inflow,Salome Diallo,137.41,EUR
+BNK0001508,2026-01-26,Customer Receipt,Inflow,Lea Lambert,70.08,EUR
+BNK0001509,2026-01-10,Customer Receipt,Inflow,Riviera Supply Holding,277.43,EUR
+BNK0001510,2025-12-06,Customer Receipt,Inflow,Jade Richard,214.47,EUR
+BNK0001511,2026-01-17,Customer Receipt,Inflow,Mediterra Shop Holding,826.47,EUR
+BNK0001512,2026-01-22,Customer Receipt,Inflow,Urban Motion SAS,2263.29,EUR
+BNK0001513,2025-12-10,Customer Receipt,Inflow,Yassine Konate,2396.28,EUR
+BNK0001514,2026-01-02,Customer Receipt,Inflow,Aurelien Lefevre,1826.62,EUR
+BNK0001515,2026-01-21,Customer Receipt,Inflow,Optima Conseil Services,227.89,EUR
+BNK0001516,2026-01-23,Customer Receipt,Inflow,Thomas Dubois,3268.12,EURO
+BNK0001517,2025-12-15,Customer Receipt,Inflow,Azur Concept Services,532.64,EUR
+BNK0001518,2026-01-24,Customer Receipt,Inflow,Paul Dubois,252.63,EUR
+BNK0001519,,Customer Receipt,Inflow,Soleil Distribution SARL,606.42,EUR
+BNK0001520,2025-12-17,Customer Receipt,Inflow,Lucie Bertrand,99.17,EUR
+BNK0001521,2026-01-02,Customer Receipt,Inflow,Bati Plus Group,1266.03,EUR
+BNK0001522,2025-12-17,Customer Receipt,Inflow,Karim Roux,2313.0,EUR
+BNK0001523,2026-02-11,Customer Receipt,Inflow,Antoine Dupont,7254.14,EUR
+BNK0001524,2026-01-06,Customer Receipt,Inflow,Mariam Garcia,2118.18,EUR
+BNK0001525,2025-12-05,Customer Receipt,Inflow,Cap Sud Equipement SARL,1680.72,EUR
+BNK0001526,2026-01-29,Customer Receipt,Inflow,Thomas Dupont,718.01,EUR
+BNK0001527,2025-12-28,Customer Receipt,Inflow,blue horizon holding, 279.04 ,EUR
+BNK0001528,2026-01-24,Customer Receipt,Inflow,Elite Habitat SARL,1474.77,EUR
+BNK0001529,2026-01-06,Customer Receipt,Inflow,Elodie Martinez, 89.77 ,EUR
+BNK0001530,2026-02-07,Customer Receipt,Inflow,Optima Conseil Group,112.86,EUR
+BNK0001531,2025-12-17,Customer Receipt,Inflow,Jade Richard,131.4,EUR
+BNK0001532,2025-12-26,Customer Receipt,Inflow,Atlas Trading SARL,1230.77,EUR
+BNK0001533,2025-12-12,Customer Receipt,Inflow,Ines Simon,619.28,EUR
+BNK0001534,2026-01-24,Customer Receipt,Inflow,Julie Roux,18860.18,EUR
+BNK0001535,2025-12-23,Customer Receipt,Inflow,Prestige Home Services,1227.86,EUR
+BNK0001536,2026-01-20,Customer Receipt,Inflow,Kevin Traore,128.72,EUR
+BNK0001537,2025-12-14,Customer Receipt,Inflow,  Lucie Bertrand   ,2824.57,EUR
+BNK0001538,2025-12-31,Customer Receipt,Inflow,Soleil Distribution SAS,429.84,EUR
+BNK0001539,2026-01-11,Customer Receipt,Inflow,Brahim Martinez,320.76,EUR
+BNK0001540,2026-01-23,Customer Receipt,Inflow,Urban Motion SAS,1971.64,EUR
+BNK0001541,2025-12-17,Customer Receipt,Inflow,Emma Bernard,24.42,EUR
+BNK0001542,2026-01-24,Customer Receipt,Inflow,Thomas Thomas,230.79,EUR
+BNK0001543,2026-02-08,Customer Receipt,Inflow,Fatou Petit,260.88,EUR
+BNK0001544,2026-01-19,Customer Receipt,Inflow,Chloe Moreau,2577.66,EUR
+BNK0001545,2025-12-24,Customer Receipt,Inflow,Azur Concept Services,2415.87,EUR
+BNK0001546,2025-12-10,Customer Receipt,Inflow,Karim Roux,1107.61,EUR
+BNK0001547,2026-01-20,Customer Receipt,Inflow,Camille Garnier,251.92,EUR
+BNK0001548,2026-01-03,Customer Receipt,Inflow,Atlas Trading Holding,626.09,EUR
+BNK0001549,2025-12-03,Customer Receipt,Inflow,Fatou Robert,726.24,EUR
+BNK0001550,2026-01-17,Customer Receipt,Inflow,Paul Dubois,271.58,EUR
+BNK0001551,2026-01-09,Customer Receipt,Inflow,Aurelien Lefevre,250.34,EUR
+BNK0001552,2025-12-25,Customer Receipt,Inflow,Morgane Vincent,237.71,EUR
+BNK0001553,2025-12-04,Customer Receipt,Inflow,Smart Office Group,276.32,EUR
+BNK0001554,2026-01-23,Customer Receipt,Inflow,Julie Roux,3206.81,EUR
+BNK0001555,2025-12-24,Customer Receipt,Inflow,Blue Horizon SARL,262.01,EUR
+BNK0001556,2026-01-30,Customer Receipt,Inflow,Salome Bonnet,41.65,EUR
+BNK0001557,2025-12-21,Customer Receipt,Inflow,Karim Roux,1038.46,EUR
+BNK0001558,2026-01-05,Customer Receipt,Inflow,Kora Logistics SARL,203.81,EUR
+BNK0001559,2025-12-20,Customer Receipt,Inflow,Noemie Vincent,2260.6,EUR
+BNK0001560,2026-01-11,Customer Receipt,Inflow,Salome Michel,1018.25,EUR
+BNK0001561,2026-02-06,Customer Receipt,Inflow,Louis Petit,467.24,EUR
+BNK0001562,2026-01-17,Customer Receipt,Inflow,Optima Conseil Holding,4500.68,EUR
+BNK0001563,2026-01-30,Customer Receipt,Inflow,Brahim Morel,235.31,EUR
+BNK0001564,2026-01-15,Customer Receipt,Inflow,Delta Market Group,239.09,EUR
+BNK0001565,2025-12-06,Customer Receipt,Inflow,Prestige Home SAS,551.96,EUR
+BNK0001566,2026-02-08,Customer Receipt,Inflow,Paul Bamba,115.55,EUR
+BNK0001567,2026-01-18,Customer Receipt,Inflow,Louis David,163.61,EUR
+BNK0001568,2025-12-07,Customer Receipt,Inflow,Morgane Vincent,84.02,EUR
+BNK0001569,2026-01-23,Customer Receipt,Inflow,Nova Retail Group,2927.57,EUR
+BNK0001570,2026-01-02,Customer Receipt,Inflow,Mariam Garcia,1015.86,EUR
+BNK0001571,2026-02-01,Customer Receipt,Inflow,Thomas Dupont,12189.93,EUR
+BNK0001572,2025-12-15,Customer Receipt,Inflow,Riviera Supply Group,6664.9,EUR
+BNK0001573,2025-12-24,Customer Receipt,Inflow,Topline Solutions SARL,187.36,EUR
+BNK0001574,2026-01-01,Customer Receipt,Inflow,Chloe Lefevre,381.04,EUR
+BNK0001575,2026-01-12,Customer Receipt,Inflow,Lea Diallo,547.54,EUR
+BNK0001576,2026-01-06,Customer Receipt,Inflow,Brahim Martinez,325.92,EUR
+BNK0001577,2026-01-19,Customer Receipt,Inflow,Louis David,671.57,EUR
+BNK0001578,2026-01-08,Customer Receipt,Inflow,Louis Lambert,167.66, Eur 
+BNK0001579,19/01/2026,Customer Receipt,Inflow,ELITE HABITAT HOLDING,1056.35,EUR
+BNK0001580,2026-01-18,Customer Receipt,Inflow,Atlas Trading Services,414.18,EUR
+BNK0001581,2025-12-21,Customer Receipt,Inflow,Bati Plus Holding,454.86,EUR
+BNK0001582,2025-12-12,Customer Receipt,Inflow,Karim Dupont,1806.06, Eur 
+BNK0001583,2026-01-10,Customer Receipt,Inflow,Salome Diallo,631.39,EUR
+BNK0001584,2026-01-07,Customer Receipt,Inflow,Dylan Chevalier,112.24,EUR
+BNK0001585,2025-12-16,Customer Receipt,Inflow,Elodie Girard,2021.73,EUR
+BNK0001586,2026-01-12,Customer Receipt,Inflow,Aicha Francois,3090.59,EUR
+BNK0001587,2026-01-07,Customer Receipt,Inflow,Maxime Bertrand,2467.36,EUR
+BNK0001588,2026-01-21,Customer Receipt,Inflow,Brahim Martinez,1181.32,EUR
+BNK0001589,2026-01-16,Customer Receipt,Inflow,Camille Diallo,1857.17,EUR
+BNK0001590,2026-01-07,Customer Receipt,Inflow,Julie Roux,2558.27,EUR
+BNK0001591,2025-12-11,Customer Receipt,Inflow,Jade Richard,414.9,EUR
+BNK0001592,2025-12-08,Customer Receipt,Inflow,Emma Dubois,4679.16,EUR
+BNK0001593,2026-01-26,Customer Receipt,Inflow,Thomas Thomas,254.43,EUR
+BNK0001594,2025-12-03,Customer Receipt,Inflow,Mehdi Fournier,3500.4,EUR
+BNK0001595,2026-01-18,Customer Receipt,Inflow,Optima Conseil Services,389.86,EUR
+BNK0001596,2025-12-04,Customer Receipt,Inflow,Morgane Vincent,383.92,EUR
+BNK0001597,12-30-2025,Customer Receipt,Inflow,Salome Traore,326.25,EUR
+BNK0001598,2026-01-18,Customer Receipt,Inflow,Azur Concept SARL,81.95,EUR
+BNK0001599,2026-01-18,Customer Receipt,Inflow,Salome Traore,3199.84,EUR
+BNK0001600,2026-01-06,Customer Receipt,Inflow,Atlas Trading Holding,876.91,EUR
+BNK0001601,2025-12-18,Customer Receipt,Inflow,Urban Motion SARL,670.66,EUR
+BNK0001602,2026-01-22,Customer Receipt,Inflow,Julie Roux,330.45,EUR
+BNK0001603,2025-12-22,Customer Receipt,Inflow,Alpha Partners SAS,286.96,EUR
+BNK0001604,2026-01-08,Customer Receipt,Inflow,Brahim Thomas,557.23,EUR
+BNK0001605,2026-02-06,Customer Receipt,Inflow,Smart Office Services,329.8,EUR
+BNK0001606,2025-12-21,Customer Receipt,Inflow,Julie Diop,2216.68,EUR
+BNK0001607,2026-02-04,Customer Receipt,Inflow,Azur Concept SARL,153.66,EUR
+BNK0001608,2026-02-06,Customer Receipt,Inflow,Optima Conseil Services,1601.91,EUR
+BNK0001609,2025-12-06,Customer Receipt,Inflow,Cap Sud Equipement SAS,644.89,EUR
+BNK0001610,2025-12-16,Customer Receipt,Inflow,Azur Concept Services,"904,41",EUR
+BNK0001611,2025-12-04,Customer Receipt,Inflow,Urban Motion SARL,1670.58,EUR
+BNK0001612,2026-01-06,Customer Receipt,Inflow,Brahim Thomas,146.09,EUR
+BNK0001613,2025-12-19,Customer Receipt,Inflow,Bati Plus Holding,388.76,EUR
+BNK0001614,2026-02-01,Customer Receipt,Inflow,Antoine Dupont,521.57,EUR
+BNK0001615,2026-02-16,Customer Receipt,Inflow,Vision Commerce Holding,249.99,EUR
+BNK0001616,2026-01-16,Customer Receipt,Inflow,Thomas Martin,86.13,EUR
+BNK0001617,2026-01-06,Customer Receipt,Inflow,Louis Vincent,1632.04,EUR
+BNK0001618,2025-12-23,Customer Receipt,Inflow,Topline Solutions SARL,3445.32,EUR
+BNK0001619,2025-12-21,Customer Receipt,Inflow,Bati Plus SARL,1165.84,EUR
+BNK0001620,2026-01-27,Customer Receipt,Inflow,Julie Roux,21.41,EUR
+BNK0001621,2026-01-25,Customer Receipt,Inflow,Atlas Trading Services,114.53,EUR
+BNK0001622,2025-12-05,Customer Receipt,Inflow,Urban Motion Services,156.08,EUR
+BNK0001623,2026-01-05,Customer Receipt,Inflow,Smart Office Services,1012.92,EUR
+  BNK0001624  ,2025-12-06,Customer Receipt,Inflow,Atlas Trading Holding,224.28,EUR
+BNK0001625,2026-01-25,Customer Receipt,Inflow,Optima Conseil Services,2225.82,EUR
+BNK0001626,2026-01-25,Customer Receipt,Inflow,Florian Girard,188.91,EUR
+BNK0001627,2025-12-25,Customer Receipt,Inflow,Riviera Supply Group,22.73,EUR
+BNK0001628,2026-01-19,Customer Receipt,Inflow,Optima Conseil Holding,200.64,EUR
+BNK0001629,2026-01-22,Customer Receipt,Inflow,Chloe Robert,81.22,EUR
+BNK0001630,2025-12-17,Customer Receipt,Inflow,Julie Diop,6162.04,EUR
+BNK0001631,2025-12-09,Customer Receipt,Inflow,Lea Konate,6299.59,EUR
+BNK0001632,2026-01-27,Customer Receipt,Inflow,Louis David,503.98,EUR
+BNK0001633,2026-01-09,Customer Receipt,Inflow,Kora Logistics SARL,502.51,EUR
+BNK0001634,2025-01-03,Rent Payment,Outflow,SCI Riviera Immo,18218.79,EUR
+BNK0001635,2025-01-28,Payroll Payment,Outflow,Cabinet Paye Sud,110435.27,EUR
+BNK0001636,2025-02-16,Software Payment,Outflow,OVHcloud,975.02,EUR
+BNK0001637,2025-02-02,Software Payment,Outflow,Notion,2153.37,eur
+BNK0001638,2025-01-28,Software Payment,Outflow,Microsoft,2741.45,EUR
+BNK0001639,2025-01-27,Marketing Payment,Outflow,Meta Ads,2262.01,EUR
+BNK0001640,2025-01-28,Marketing Payment,Outflow,Agence Pulse,3870.41,EUR
+BNK0001641,2025-02-22,Marketing Payment,Outflow,Google Ads,6783.01,EUR
+BNK0001642,2025-01-26,Marketing Payment,Outflow,Agence Pulse,2655.03,EUR
+BNK0001643,2025-01-21,Marketing Payment,Outflow,Meta Ads,5913.4,EUR
+BNK0001644,2025-01-30,Marketing Payment,Outflow,Meta Ads,2446.66,EUR
+BNK0001645,2025-02-06,Marketing Payment,Outflow,TikTok Ads,1425.66,EUR
+BNK0001646,2025-02-09,Marketing Payment,Outflow,Agence Pulse,3399.59,EUR
+BNK0001647,2025-01-18,Marketing Payment,Outflow,Agence Pulse,8166.48,EUR
+BNK0001648,2025-02-06,Logistics Payment,Outflow,FedEx,1271.98,EUR
+BNK0001649,2025-02-01,Logistics Payment,Outflow,DHL,1929.79,EUR
+BNK0001650,2025-02-10,Logistics Payment,Outflow,FedEx,1759.01,EUR
+BNK0001651,2025-01-24,Logistics Payment,Outflow,Chronopost,1645.09,EUR
+BNK0001652,NA,Logistics Payment,Outflow,UPS,1136.54,EUR
+BNK0001653,2025-02-06,Logistics Payment,Outflow,DHL,365.1,EUR
+BNK0001654,2025-01-21,Logistics Payment,Outflow,FedEx,1849.26,EUR
+BNK0001655,2025-02-03,Logistics Payment,Outflow,DHL,1223.2,EUR
+BNK0001656,01-21-2025,Office Payment,Outflow,Office Depot,468.42,
+BNK0001657,2025-01-16,Travel Payment,Outflow,SNCF,1646.0,EUR
+BNK0001658 ,2025-01-20,Professional Fees Payment,Outflow,Compta Expert,1468.14,EUR
+BNK0001659,2025-01-23,Professional Fees Payment,Outflow,Compta Expert,3051.37,EUR
+BNK0001660,2025-01-26,Utilities Payment,Outflow,Veolia,3224.83,EUR
+BNK0001661,2025-02-12,Professional Fees Payment,Outflow,Compta Expert,768.21,EUR
+BNK0001662,2025-01-28,Professional Fees Payment,Outflow,Compta Expert,3082.75,EUR
+BNK0001663,2025-01-29,Travel Payment,Outflow,Air France,1894.28,EUR
+BNK0001664,2025-02-04,Travel Payment,Outflow,Booking Business,946.93,EUR
+BNK0001665,2025-02-05,Professional Fees Payment,Outflow,Compta Expert,1619.86,EUR
+BNK0001666,2025-02-06,Rent Payment,Outflow,SCI Riviera Immo,17672.92,EUR
+BNK0001667,2025-02-26,Payroll Payment,Outflow,Cabinet Paye Sud,110996.0,EUR
+BNK0001668,2025-03-01,Software Payment,Outflow,Adobe,2121.86,EUR
+BNK0001669,02-18-2025,Software Payment,Outflow,Adobe,1677.71,EUR
+BNK0001670,2025-03-02,Software Payment,Outflow,HubSpot,2091.5,EUR
+BNK0001671,2025-02-27,Software Payment,Outflow,HubSpot,889.17,eur
+BNK0001672,2025-02-21,Software Payment,Outflow,Adobe,2381.67,EUR
+BNK0001673,2025-03-11,Marketing Payment,Outflow,  Agence Pulse  ,2078.0,EUR
+BNK0001674,2025-03-12,Marketing Payment,Outflow,TikTok Ads,1834.9,EUR
+BNK0001675,2025-03-02,Marketing Payment,Outflow,Meta Ads,7388.9,EUR
+BNK0001676,2025-03-06,Marketing Payment,Outflow,Agence Pulse,2637.35,EUR
+BNK0001677,2025-02-17,Marketing Payment,Outflow,Agence Pulse,8442.43,EUR
+BNK0001678,2025-02-26,Marketing Payment,Outflow,Google Ads,4996.4,EUR
+BNK0001679,2025-03-14,Marketing Payment,Outflow,TikTok Ads,4830.03,EUR
+BNK0001680,2025-02-19,Logistics Payment,Outflow,UPS,841.68,EUR
+BNK0001681,2025-03-03,Logistics Payment,Outflow,FedEx,1629.11,EUR
+BNK0001682,2025-03-04,Logistics Payment,Outflow,FedEx,2208.37,EUR
+BNK0001683,2025-03-10,Logistics Payment,Outflow,FedEx,284.87,EUR
+BNK0001684,2025-03-10,Logistics Payment,Outflow,Chronopost,1317.15,EUR
+BNK0001685,2025-03-09,Logistics Payment,Outflow,FedEx,2029.02,EUR
+BNK0001686,2025-02-26,Logistics Payment,Outflow,Chronopost,513.18,EUR
+BNK0001687,2025-03-04,Logistics Payment,Outflow,DHL,2188.23,EUR
+BNK0001688,06-03-2025,Logistics Payment,Outflow,UPS,1276.79,EUR
+BNK0001689,2025-03-09,Logistics Payment,Outflow,UPS,1970.11,EUR
+BNK0001690,2025-03-02,Logistics Payment,Outflow,DHL,624.53,EUR
+BNK0001691,2025-02-19,Logistics Payment,Outflow,Chronopost,817.81,EUR
+BNK0001692,2025-02-19,Logistics Payment,Outflow,UPS,1012.25,EUR
+BNK0001693,2025-02-28,Office Payment,Outflow,Bureau Vallee,1145.6,EUR
+BNK0001694,2025-03-24,Office Payment,Outflow,Bureau Vallee,2428.92,EUR
+BNK0001695,2025-02-16,Utilities Payment,Outflow,EDF,2505.21,EUR
+BNK0001696,2025-02-24,Travel Payment,Outflow,Booking Business,423.9,EUR
+BNK0001697,2025-02-27,Utilities Payment,Outflow,Orange Business,2825.68,EUR
+BNK0001698,2025-02-27,Travel Payment,Outflow,Booking Business,2401.0,EUR
+BNK0001699,2025-02-24,Office Payment,Outflow,Office Depot,848.64,EUR
+BNK0001700,2025-03-02,Rent Payment,Outflow,SCI Riviera Immo,18045.24,EUR
+BNK0001701,2025-03-29,Payroll Payment,Outflow,Cabinet Paye Sud,109278.32,EUR
+BNK0001702,2025-03-31,Software Payment,Outflow,HubSpot,697.82,EUR
+BNK0001703,2025-03-22,Software Payment,Outflow,HubSpot,532.3,EUR
+BNK0001704,2025-04-03,Software Payment,Outflow,Adobe,599.52,EUR
+BNK0001705,2025-03-31,Software Payment,Outflow,Adobe,2294.96,EUR
+bnk0001706,2025-03-22,Marketing Payment,Outflow,Meta Ads,7722.49,EUR
+BNK0001707,2025-04-05,Marketing Payment,Outflow,Meta Ads,4110.51,EUR
+BNK0001708,2025-04-06,Marketing Payment,Outflow,TikTok Ads,6639.31,EUR
+BNK0001709,2025-03-09,Marketing Payment,Outflow,Google Ads,3698.36,EUR
+BNK0001710,2025-04-18,Marketing Payment,Outflow,Google Ads,7179.68,EUR
+BNK0001711,2025-03-16,Marketing Payment,Outflow,TikTok Ads,4510.88,EUR
+BNK0001712,2025-04-04,Marketing Payment,Outflow,Meta Ads,4626.86,EUR
+BNK0001713,2025-04-09,Marketing Payment,Outflow,Google Ads,5593.05,EUR
+BNK0001714,2025-04-03,Marketing Payment,Outflow,META ADS,3125.26,EUR
+BNK0001715,2025-03-19,Marketing Payment,Outflow,TikTok Ads,3471.95,EUR
+BNK0001716,2025-03-25,Logistics Payment,Outflow,Chronopost,1756.36,EUR
+BNK0001717,2025-04-04,Logistics Payment,Outflow,FedEx,1517.73,EUR
+BNK0001718,2025-04-06,Logistics Payment,Outflow,UPS,977.62,EUR
+BNK0001719,2025-03-22,Logistics Payment,Outflow,FedEx,561.48,EUR
+BNK0001720,2025-03-29,Logistics Payment,Outflow,FedEx,526.47,EUR
+BNK0001721,2025-03-15,Logistics Payment,Outflow,FedEx,1520.18,EUR
+BNK0001722,2025-04-14,Logistics Payment,Outflow,Chronopost,1217.49,EUR
+BNK0001723,2025-04-17,Logistics Payment,Outflow,FedEx,395.17,EUR
+BNK0001724,2025-04-12,Logistics Payment,Outflow,FedEx,430.48,EUR
+BNK0001725,03-04-2025,Professional Fees Payment,Outflow,Cabinet Audit Conseil,2315.93,EUR
+BNK0001726,2025-04-08,Professional Fees Payment,Outflow,Compta Expert,2928.36,EUR
+BNK0001727,2025-04-07,Travel Payment,Outflow,Booking Business,4134.15,EUR
+BNK0001728,2025-03-28,Office Payment,Outflow,Office Depot,2927.22,EUR
+BNK0001729,2025-03-16,Travel Payment,Outflow,SNCF,1286.02,EUR
+BNK0001730,2025-03-24,Professional Fees Payment,Outflow,Cabinet Audit Conseil,749.34,EUR
+BNK0001731,2025-04-04,Professional Fees Payment,Outflow,Legal Partners,4016.31,EUR
+BNK0001732,2025-03-14,Professional Fees Payment,Outflow,Compta Expert,881.2,EUR
+BNK0001733,2025-03-25,Utilities Payment,Outflow,EDF,3474.05,EUR
+BNK0001734,2025-04-05,Rent Payment,Outflow,SCI Riviera Immo,17881.71,EUR
+BNK0001735,2025-04-24,Payroll Payment,Outflow,Cabinet Paye Sud,114089.78,EUR
+  BNK0001736  ,18/04/2025,Software Payment,Outflow,Adobe,398.02,EUR
+BNK0001737,2025-05-04,Software Payment,Outflow,Adobe,2147.77,EUR
+BNK0001738,2025-05-11,Software Payment,Outflow,HubSpot,2333.57,EUR
+BNK0001739,2025-05-17,Marketing Payment,Outflow,Google Ads,8607.3,EUR
+BNK0001740,2025-05-14,Marketing Payment,Outflow,Google Ads,5039.27,EUR
+BNK0001741,2025-04-18,Marketing Payment,Outflow,Meta Ads,7353.04,EUR
+BNK0001742,2025-04-28,Marketing Payment,Outflow,TikTok Ads,5995.38,EUR
+BNK0001743,2025-04-28,Marketing Payment,Outflow,TikTok  Ads,1377.22,EUR
+BNK0001744,2025-04-13,Marketing Payment,Outflow,Agence Pulse,9464.27,EUR
+Bnk0001745,2025-05-03,Marketing Payment,Outflow,TikTok Ads,7713.36, Eur 
+BNK0001746,2025-05-09,Marketing Payment,Outflow,Tiktok Ads,4134.89,EUR
+BNK0001747,2025-05-04,Logistics Payment,Outflow,DHL,1064.17,EUR
+BNK0001748,2025-05-10,Logistics Payment,Outflow,Chronopost,606.77,EUR
+BNK0001749,2025-04-23,Logistics Payment,Outflow,FedEx,1513.57,EUR
+BNK0001750,2025-04-23,Logistics Payment,Outflow,FedEx,2397.74,EUR
+  BNK0001751  ,2025-04-25,Logistics Payment,Outflow,DHL,1863.21,EUR
+BNK0001752,2025-04-29,Logistics Payment,Outflow,FedEx,1928.43,EUR
+BNK0001753,2025-04-21,Logistics Payment,Outflow,FedEx,372.51,EURO
+BNK0001754,2025-05-11,Logistics Payment,Outflow,DHL,2278.64,EUR
+BNK0001755,2025-05-04,Logistics Payment,Outflow,UPS,971.14,EUR
+BNK0001756,01-05-2025,Logistics Payment,Outflow,UPS,1389.1,EUR
+BNK0001757,2025-05-07,Logistics Payment,Outflow,FedEx,2214.98,EUR
+BNK0001758,2025-05-07,Logistics Payment,Outflow,FedEx,2308.16,EUR
+BNK0001759,2025-05-16,Logistics Payment,Outflow,Chronopost,737.25,EUR
+BNK0001760,2025-05-04,Travel Payment,Outflow,SNCF,2435.16,EUR
+BNK0001761,2025-04-22,Professional Fees Payment,Outflow,Legal Partners,4081.24,EUR
+BNK0001762,2025-05-12,Travel Payment,Outflow,SNCF,1932.88,eur
+BNK0001763,2025-05-09,Travel Payment,Outflow,Air France,4022.0,EUR
+BNK0001764,2025-04-27,Travel Payment,Outflow,Booking Business,3722.37,EUR
+BNK0001765,2025-04-25,Office Payment,Outflow,Office Depot,2294.94,EUR
+BNK0001766,2025-05-17,Office Payment,Outflow,Bureau Vallee,1007.24,EUR
+BNK0001767,2025-05-04,Rent Payment,Outflow,SCI Riviera Immo,17626.66,EUR
+BNK0001768,2025-05-23,Payroll Payment,Outflow,Cabinet Paye Sud,112679.01,EUR
+BNK0001769,2025-05-14,Software Payment,Outflow,HubSpot,2290.83,EUR
+BNK0001770,2025-05-26,Software Payment,Outflow,OVHcloud,549.04,EUR
+BNK0001771,2025-06-05,Software Payment,Outflow,OVHcloud,804.59,EUR
+BNK0001772,2025-06-02,Software Payment,Outflow,Microsoft,2625.6,EUR
+BNK0001773,2025-06-13,Software Payment,Outflow,Microsoft,1576.23,EUR
+BNK0001774,2025-06-15,Marketing Payment,Outflow,TikTok Ads,5384.23,EUR
+BNK0001775,NA,Marketing Payment,Outflow,Google Ads,4339.66,EUR
+BNK0001776,2025-06-19,Marketing Payment,Outflow,TikTok Ads,2436.87,EUR
+BNK0001777,2025-05-16,Marketing Payment,Outflow,Google Ads,8026.01,EUR
+BNK0001778,2025-06-16,Marketing Payment,Outflow,Meta Ads,7029.37,EUR
+BNK0001779,2025-05-31,Marketing Payment,Outflow,Agence Pulse,5688.68,EUR
+BNK0001780,2025-05-13,Marketing Payment,Outflow,TikTok Ads,1548.05,EUR
+BNK0001781,2025-05-20,Marketing Payment,Outflow,Agence Pulse,5431.88,EUR
+BNK0001782,2025-05-23,Logistics Payment,Outflow,CHRONOPOST,2188.57,EUR
+BNK0001783,2025-05-28,Logistics Payment,Outflow,FedEx,1366.05,EUR
+BNK0001784,2025-05-28,Logistics Payment,Outflow,UPS,795.1,EUR
+BNK0001785,2025-05-28,Logistics Payment,Outflow,UPS,1952.55,EUR
+BNK0001786,2025-06-06,Logistics Payment,Outflow,FEDEX,1931.98,eur
+BNK0001787,2025-05-23,Logistics Payment,Outflow,UPS,379.78,EUR
+BNK0001788,2025-06-04,Logistics Payment,Outflow,FedEx,731.78,EUR
+BNK0001789,2025-05-19,Logistics Payment,Outflow,UPS,828.73,EUR
+BNK0001790,2025-05-31,Logistics Payment,Outflow,DHL,441.1,EUR
+BNK0001791,2025-05-25,Logistics Payment,Outflow,FedEx,1624.63,EUR
+BNK0001792,05-29-2025,Logistics Payment,Outflow,DHL,1058.0,EUR
+BNK0001793,2025-06-12,Logistics Payment,Outflow,DHL,2350.88,EUR
+BNK0001794,2025-06-14,Professional Fees Payment,Outflow,Cabinet Audit Conseil,520.53,EUR
+BNK0001795,2025-05-19,Utilities Payment,Outflow,Veolia,3672.13,EUR
+BNK0001796,2025-05-04,Utilities Payment,Outflow,EDF,3735.64,EUR
+BNK0001797,2025-06-03,Office Payment,Outflow,Bureau Vallee,1474.76,EUR
+BNK0001798,2025-05-18,Utilities Payment,Outflow,Veolia,1198.51,EUR
+BNK0001799,2025-06-06,Office Payment,Outflow,Bureau Vallee,684.12,EUR
+BNK0001800,2025-05-21,Office Payment,Outflow,Office Depot,3639.13,EUR
+BNK0001801,2025-05-08,Utilities Payment,Outflow,Veolia,3785.64,EUR
+BNK0001802,2025-05-26,Office Payment,Outflow,Office Depot,3430.06,EUR
+BNK0001803,2025-06-06,Rent Payment,Outflow,SCI Riviera Immo,18052.75,EUR
+BNK0001804,2025-06-26,Payroll Payment,Outflow,Cabinet Paye Sud,112093.64,EUR
+BNK0001805,2025-06-24,Software Payment,Outflow,Notion,2416.34,EUR
+BNK0001806,2025-06-11,Software Payment,Outflow,Notion,2389.06,EUR
+BNK0001807,2025-07-13,Software Payment,Outflow,Adobe,1607.03,EUR
+ BNK0001808,06-24-2025,Software Payment,Outflow,OVHcloud,1541.48,EUR
+BNK0001809,2025-07-01,Marketing Payment,Outflow,Meta Ads,7019.83,EUR
+BNK0001810,2025-07-04,Marketing Payment,Outflow,Google Ads,8979.54,EUR
+BNK0001811,2025-07-08,Marketing Payment,Outflow,Agence Pulse,6173.87,EUR
+BNK0001812,2025-06-28,Marketing Payment,Outflow,Meta Ads,4688.62,EUR
+BNK0001813,2025-07-02,Marketing Payment,Outflow,Meta Ads,1977.59,EUR
+BNK0001814,2025-06-27,Marketing Payment,Outflow,Agence Pulse,7785.96,EUR
+BNK0001815,2025-07-15,Marketing Payment,Outflow,TikTok Ads,8480.68,EUR
+BNK0001816,2025-07-15,Marketing Payment,Outflow,TikTok Ads,5490.0,EUR
+BNK0001817,2025-07-10,Marketing Payment,Outflow,Google Ads,1535.29,EUR
+BNK0001818,2025-07-08,Marketing Payment,Outflow,Meta Ads,7072.41,EUR
+BNK0001819,2025-06-17,Logistics Payment,Outflow,Chronopost,249.08,EUR
+BNK0001820,2025-07-01,Logistics Payment,Outflow,DHL,1328.84,EUR
+BNK0001821,2025-06-20,Logistics Payment,Outflow,UPS,764.39,EUR
+BNK0001822,2025-06-22,Logistics Payment,Outflow,DHL,1937.34,EUR
+BNK0001823,2025-07-14,Logistics Payment,Outflow,DHL,1842.95,EUR
+BNK0001824,2025-07-09,Logistics Payment,Outflow,UPS,371.9,EUR
+BNK0001825,2025-07-13,Logistics Payment,Outflow,FedEx,1323.63,EUR
+BNK0001826,2025-07-17,Logistics Payment,Outflow,UPS,1431.14,EUR
+BNK0001827,2025-06-28,Logistics Payment,Outflow,DHL,314.64,EUR
+BNK0001828,2025-06-21,Logistics Payment,Outflow,UPS,191.41,EUR
+BNK0001829,06-14-2025,Utilities Payment,Outflow,Orange Business,1284.4,EUR
+BNK0001830,2025-07-21,Travel Payment,Outflow,SNCF,576.73,EUR
+BNK0001831,2025-06-25,Travel Payment,Outflow,Air France,4089.83,EUR
+BNK0001832,2025-07-03,Travel Payment,Outflow,Booking Business,2427.24,EUR
+BNK0001833,2025-06-26,Office Payment,Outflow,Office Depot,4192.58,EUR
+BNK0001834,2025-07-02,Office Payment,Outflow,Office Depot,4103.0,EUR
+BNK0001835,2025-06-28,Travel Payment,Outflow,Air France,3474.22,EUR
+BNK0001836,2025-07-12,Travel Payment,Outflow,Booking Business,2747.73,EUR
+BNK0001837,2025-06-12,Professional Fees Payment,Outflow,Legal Partners,1057.05,EUR
+BNK0001838,2025-07-17,Office Payment,Outflow,Bureau Vallee,2419.18,EUR
+BNK0001839,2025-07-05,Rent Payment,Outflow,SCI Riviera Immo,18383.39,EUR
+BNK0001840,2025-07-24,Payroll Payment,Outflow,Cabinet Paye Sud,115045.79,EUR
+BNK0001841,2025-08-14,Software Payment,Outflow,Notion,2328.27,EUR
+BNK0001842,2025-08-14,Software Payment,Outflow,HubSpot,1863.98,EUR
+BNK0001843,2025-07-15,Software Payment,Outflow,Adobe,660.18,EUR
+BNK0001844,NA,Software Payment,Outflow,HubSpot,339.66,EUR
+BNK0001845,2025-07-31,Marketing Payment,Outflow,TikTok Ads,7159.56,EUR
+BNK0001846,2025-07-26,Marketing Payment,Outflow,Agence Pulse,2376.89,EUR
+BNK0001847,2025-07-30,Marketing Payment,Outflow,Meta Ads,1702.04,EUR
+BNK0001848,2025-07-22,Marketing Payment,Outflow,TikTok Ads,8215.32,EUR
+BNK0001849,2025-07-24,Marketing Payment,Outflow,Agence Pulse,8709.94,EUR
+BNK0001850,2025-07-27,Marketing Payment,Outflow,Google Ads,8638.06,EUR
+BNK0001851,2025-08-16,Marketing Payment,Outflow,TikTok Ads,4891.56,EUR
+BNK0001852,2025-07-27,Marketing Payment,Outflow,Google Ads,7594.42,EUR
+BNK0001853,2025-08-19,Logistics Payment,Outflow,UPS,2017.72,EUR
+BNK0001854,2025-08-05,Logistics Payment,Outflow,UPS,371.43,EUR
+BNK0001855,2025-08-01,Logistics Payment,Outflow,UPS,2251.6,EUR
+BNK0001856,2025-08-01,Logistics Payment,Outflow,UPS,1699.83,EUR
+BNK0001857,2025-07-26,Logistics Payment,Outflow,UPS,2376.84,EUR
+BNK0001858,2025-08-09,Logistics Payment,Outflow,DHL,218.53,EUR
+BNK0001859,2025-07-23,Logistics Payment,Outflow,Chronopost,1524.26,EUR
+BNK0001860,2025-07-23,Logistics Payment,Outflow,DHL,2280.65,EUR
+BNK0001861,,Logistics Payment,Outflow,Chronopost,562.15,EUR
+BNK0001862,2025-08-07,Logistics Payment,Outflow,FedEx,1691.28, Eur 
+BNK0001863,2025-08-03,Logistics Payment,Outflow,FedEx,1988.5,EUR
+BNK0001864,2025-08-13,Logistics Payment,Outflow,Chronopost,486.94,EUR
+BNK0001865,2025-07-29,Logistics Payment,Outflow,FedEx,1796.22,EUR
+BNK0001866,2025-07-21,Travel Payment,Outflow,Air France,3126.4,EUR
+BNK0001867,2025-07-13,Utilities Payment,Outflow,EDF,228.95,EUR
+BNK0001868,2025-07-23,Professional Fees Payment,Outflow,Cabinet Audit Conseil,2711.61,EUR
+BNK0001869,2025-08-10,Travel Payment,Outflow,Booking Business,4036.05,EUR
+BNK0001870,2025-07-31,Office Payment,Outflow,Office Depot,1786.82,EUR
+BNK0001871,2025-07-24,Professional Fees Payment,Outflow,Legal Partners,2478.34,EUR
+BNK0001872,07-28-2025,Professional Fees Payment,Outflow,Legal Partners,3155.69,EUR
+BNK0001873,2025-07-15,Professional Fees Payment,Outflow,Legal Partners,2862.46,EUR
+BNK0001874,2025-07-25,Travel Payment,Outflow,Air France,1077.45,EUR
+BNK0001875,2025-08-10,Professional Fees Payment,Outflow,Legal Partners,244.88,EUR
+BNK0001876,2025-08-03,Rent Payment,Outflow,SCI Riviera Immo,17686.01,EUR
+BNK0001877,2025-08-21,Payroll Payment,Outflow,Cabinet Paye Sud,117516.37,EUR
+BNK0001878,2025-08-15,Software Payment,Outflow,Adobe,1462.72,EUR
+BNK0001879,2025-08-30,Software Payment,Outflow,Microsoft,502.11,EUR
+BNK0001880,2025-09-15,Software Payment,Outflow,Adobe,914.0,EUR
+BNK0001881,2025-08-28,Marketing Payment,Outflow,Agence Pulse,4045.16,EUR
+BNK0001882,2025-09-08,Marketing Payment,Outflow,Meta Ads,6356.18,EUR
+BNK0001883,,Marketing Payment,Outflow,Google Ads,5606.32, Eur 
+BNK0001884,2025-08-29,Marketing Payment,Outflow,Google Ads,6413.63,EUR
+BNK0001885,2025-09-18,Marketing Payment,Outflow,Google Ads,8120.77,EUR
+BNK0001886,18-08-2025,Marketing Payment,Outflow,TikTok Ads,8741.41,EUR
+BNK0001887,2025-08-25,Marketing Payment,Outflow,Agence Pulse ,2422.81,EURO
+BNK0001888,2025-09-07,Marketing Payment,Outflow,Agence Pulse,2191.85,EUR
+BNK0001889,2025-08-31,Logistics Payment,Outflow,DHL,463.23,EUR
+BNK0001890,2025-09-18,Logistics Payment,Outflow,Chronopost,1048.72,EUR
+BNK0001891,2025-09-19,Logistics Payment,Outflow,UPS,870.74,EUR
+BNK0001892,2025-08-30,Logistics Payment,Outflow,Chronopost,216.37,EUR
+BNK0001893,03-09-2025,Logistics Payment,Outflow,UPS,1727.45,EUR
+BNK0001894,2025-09-13,Logistics Payment,Outflow,Chronopost,194.06,EUR
+BNK0001895,2025-08-18,Logistics Payment,Outflow,UPS,1436.49,EUR
+BNK0001896,2025-09-02,Logistics Payment,Outflow,DHL,1936.13,EUR
+BNK0001897,2025-09-13,Logistics Payment,Outflow,Chronopost,471.09,EUR
+BNK0001898,2025-09-12,Logistics Payment,Outflow,UPS,2340.57,EUR
+BNK0001899,2025-09-17,Logistics Payment,Outflow,DHL,651.45,EUR
+BNK0001900,2025-08-26,Logistics Payment,Outflow,DHL,1510.76,EUR
+BNK0001901,2025-09-02,Logistics Payment,Outflow,UPS,989.99,EUR
+BNK0001902,2025-08-29,Logistics Payment,Outflow,Chronopost,1657.73,EUR
+BNK0001903,2025-09-01,Logistics Payment,Outflow,FedEx,1327.44,EUR
+BNK0001904,2025-08-25,Utilities Payment,Outflow,EDF,3971.08,EUR
+BNK0001905,2025-09-05,Professional Fees Payment,Outflow,Legal Partners,3996.27,EUR
+BNK0001906,2025-09-14,Travel Payment,Outflow,Air France,4114.03,EUR
+BNK0001907,2025-08-21,Professional Fees Payment,Outflow,Cabinet Audit Conseil,2772.67,EUR
+BNK0001908,2025-08-30,Utilities Payment,Outflow,Orange Business,1124.23,EUR
+BNK0001909,2025-08-27,Travel Payment,Outflow,SNCF,1204.44,EUR
+BNK0001910,2025-09-06,Rent Payment,Outflow,SCI Riviera Immo,18356.3,EUR
+BNK0001911,2025-09-28,Payroll Payment,Outflow,Cabinet Paye Sud,117826.07,EUR
+BNK0001912,15-10-2025,Software Payment,Outflow,MICROSOFT,1163.52,EUR
+BNK0001913,2025-10-09,Software Payment,Outflow,HubSpot,2720.59,EUR
+BNK0001914,2025-10-10,Software Payment,Outflow,HubSpot,1770.94,EUR
+BNK0001915,2025-09-29,Marketing Payment,Outflow,Meta Ads,3962.37,EUR
+BNK0001916,2025-09-20,Marketing Payment,Outflow,Meta Ads,8317.51,EUR
+BNK0001917,2025-09-12,Marketing Payment,Outflow,Google Ads,8697.98,EUR
+BNK0001918,2025-10-12,Marketing Payment,Outflow,Google Ads,7394.61,EUR
+BNK0001919,2025-10-02,Marketing Payment,Outflow,Agence Pulse,1368.89,EUR
+BNK0001920,2025-10-06,Marketing Payment,Outflow,Meta Ads,1347.97,EUR
+BNK0001921,2025-09-29,Marketing Payment,Outflow,Google Ads,2661.46,EUR
+BNK0001922,2025-09-18,Marketing Payment,Outflow,Meta Ads,7988.15,EUR
+BNK0001923 ,2025-10-13,Marketing Payment,Outflow,TikTok Ads ,"7558,64",EUR
+BNK0001924,2025-10-06,Logistics Payment,Outflow,Chronopost,1567.69,EUR
+BNK0001925,2025-09-28,Logistics Payment,Outflow,FedEx,2192.61,EUR
+BNK0001926,2025-09-17,Logistics Payment,Outflow,FedEx,2278.92,EUR
+BNK0001927,2025-09-29,Logistics Payment,Outflow,FedEx,628.47,EUR
+BNK0001928,2025-10-07,Logistics Payment,Outflow,UPS,905.49,EUR
+BNK0001929,2025-10-08,Logistics Payment,Outflow,FedEx,1115.1,EUR
+BNK0001930,2025-10-02,Logistics Payment,Outflow,UPS,1781.46,EUR
+BNK0001931,2025-09-14,Logistics Payment,Outflow,DHL,874.47,EUR
+BNK0001932,11-09-2025,Logistics Payment,Outflow,DHL,1612.97,EUR
+BNK0001933,2025-10-14,Logistics Payment,Outflow,Chronopost,589.72,EUR
+BNK0001934,2025-09-23,Logistics Payment,Outflow,Chronopost,218.94,EUR
+BNK0001935,2025-09-26,Logistics Payment,Outflow,UPS,2198.05,EUR
+BNK0001936,2025-10-07,Logistics Payment,Outflow,DHL ,359.26,EUR
+BNK0001937,2025-09-26,Logistics Payment,Outflow,Chronopost,509.31,EUR
+BNK0001938,2025-10-06,Logistics Payment,Outflow,Chronopost,1407.86,EUR
+BNK0001939,2025-10-01,Office Payment,Outflow,Bureau Vallee,3572.76,EUR
+BNK0001940,2025-10-06,Office Payment,Outflow,Bureau Vallee,2444.53,EUR
+BNK0001941,2025-09-09,Travel Payment,Outflow,Air France,1777.27,EUR
+BNK0001942,2025-09-14,Travel Payment,Outflow,Air France,4179.62,EUR
+BNK0001943,2025-09-08,Utilities Payment,Outflow,EDF,1535.88,EUR
+BNK0001944,2025-10-06,Professional Fees Payment,Outflow,COMPTA EXPERT,3728.01,EUR
+BNK0001945,2025-09-29,Professional Fees Payment,Outflow,Compta Expert,1980.43,EUR
+BNK0001946,2025-09-20,Travel Payment,Outflow,SNCF,1241.12,EUR
+BNK0001947,2025-09-24,Office Payment,Outflow,Office Depot,4013.22,EUR
+BNK0001948,2025-10-06,Rent Payment,Outflow,SCI Riviera Immo,17612.27,EUR
+BNK0001949,2025-10-27,Payroll Payment,Outflow,Cabinet Paye Sud,115147.21,EUR
+BNK0001950,2025-11-14,Software Payment,Outflow,OVHcloud,1199.08,EUR
+BNK0001951,2025-11-05,Software Payment,Outflow,Adobe,2193.02,EUR
+BNK0001952,2025-10-28,Software Payment,Outflow,HubSpot,2331.98,EUR
+BNK0001953,2025-10-29,Software Payment,Outflow,Microsoft,254.78,EUR
+BNK0001954,2025-11-01,Marketing Payment,Outflow,Google Ads,1435.93,EUR
+BNK0001955,2025-10-18,Marketing Payment,Outflow,Google Ads,5459.89,EUR
+BNK0001956,2025-10-19,Marketing Payment,Outflow,Agence Pulse,8767.95,EUR
+BNK0001957,2025-10-24,Marketing Payment,Outflow,Google Ads,6949.07,EUR
+BNK0001958,2025-11-04,Marketing Payment,Outflow,Meta Ads,6000.71,EUR
+BNK0001959,2025-10-25,Marketing Payment,Outflow,Meta Ads,2668.2,EUR
+BNK0001960,2025-10-26,Marketing Payment,Outflow,Google Ads,3641.67,EUR
+BNK0001961,2025-11-05,Logistics Payment,Outflow,ups,1022.13, Eur 
+BNK0001962,2025-11-11,Logistics Payment,Outflow,UPS,253.38,EUR
+BNK0001963,2025-10-24,Logistics Payment,Outflow,FedEx,1699.6,EUR
+BNK0001964,2025-11-19,Logistics Payment,Outflow,DHL,1625.61,EUR
+BNK0001965,2025-10-23,Logistics Payment,Outflow,FedEx,1003.12,EUR
+bnk0001966,2025-11-06,Logistics Payment,Outflow,UPS,1921.84,EUR
+BNK0001967,2025-11-11,Logistics Payment,Outflow,FedEx,1794.02,EUR
+BNK0001968,2025-10-29,Logistics Payment,Outflow,UPS,1549.05,EUR
+BNK0001969,2025-11-12,Logistics Payment,Outflow,FedEx,797.85,EUR
+BNK0001970,2025-10-26,Logistics Payment,Outflow,FedEx,545.98,EUR
+BNK0001971,2025-11-17,Logistics Payment,Outflow,DHL,224.72,EUR
+BNK0001972,2025-11-02,Logistics Payment,Outflow,DHL,2098.96,EUR
+BNK0001973,2025-11-18,Travel Payment,Outflow,Booking Business,1464.47,EUR
+BNK0001974,2025-11-06,Professional Fees Payment,Outflow,Compta Expert,1050.85,EUR
+BNK0001975,2025-10-15,Professional Fees Payment,Outflow,Cabinet Audit Conseil,1704.7,EUR
+BNK0001976,2025-10-15,Utilities Payment,Outflow,EDF,4030.69,EUR
+BNK0001977,2025-10-11,Utilities Payment,Outflow,Veolia,1339.58,EUR
+BNK0001978,2025-10-13,Professional Fees Payment,Outflow,Compta Expert,379.46,EUR
+BNK0001979,2025-10-12,Utilities Payment,Outflow,EDF,3464.75,EUR
+BNK0001980,2025-10-24,Travel Payment,Outflow,Booking Business,3581.9,EUR
+BNK0001981,2025-11-06,Travel Payment,Outflow,Air France,4061.23,EUR
+BNK0001982,2025-11-04,Office Payment,Outflow,Office Depot,1502.24,EUR
+BNK0001983,2025-11-07,Rent Payment,Outflow,SCI Riviera Immo,17856.39,EUR
+BNK0001984,2025-11-26,Payroll Payment,Outflow,Cabinet Paye Sud,115127.59,EUR
+BNK0001985,2025-11-18,Software Payment,Outflow,HubSpot,1527.21,EUR
+BNK0001986,2025-12-04,Software Payment,Outflow,Microsoft,2586.99,EUR
+BNK0001987,2025-12-07,Software Payment,Outflow,HubSpot,810.39,EUR
+BNK0001988,2025-11-25,Software Payment,Outflow,Notion,628.17,EUR
+BNK0001989,2025-12-06,Marketing Payment,Outflow,TikTok Ads,6706.24,EUR
+BNK0001990,2025-12-03,Marketing Payment,Outflow, Agence Pulse,8162.04,EUR
+BNK0001991,2025-12-06,Marketing Payment,Outflow,Agence Pulse,8867.91,EUR
+BNK0001992,2025-11-28,Marketing Payment,Outflow,Meta Ads,5082.61,EUR
+BNK0001993,2025-12-20,Marketing Payment,Outflow,Google Ads,3595.89,EUR
+BNK0001994,2025-12-06,Marketing Payment,Outflow,Agence Pulse,8989.55,EUR
+BNK0001995,2025-11-23,Marketing Payment,Outflow,TikTok Ads,3999.25,EUR
+BNK0001996,2025-12-09,Marketing Payment,Outflow,TikTok Ads,2954.79,EUR
+BNK0001997,2025-12-02,Marketing Payment,Outflow,Agence Pulse,7641.68, Eur 
+BNK0001998,2025-12-02,Marketing Payment,Outflow,TikTok Ads,950.56,EUR
+BNK0001999,2025-11-27,Logistics Payment,Outflow,DHL,752.96,EUR
+BNK0002000,2025-12-16,Logistics Payment,Outflow,FedEx,1752.69,EUR
+BNK0002001,2025-11-23,Logistics Payment,Outflow,DHL,829.55,EUR
+BNK0002002,2025-12-04,Logistics Payment,Outflow,UPS,226.33,EUR
+BNK0002003,2025-11-22,Logistics Payment,Outflow,UPS,452.16,EUR
+BNK0002004,2025-12-16,Logistics Payment,Outflow,UPS,176.23,EUR
+BNK0002005,2025-11-18,Logistics Payment,Outflow,DHL,1107.25,EUR
+BNK0002006,2025-12-03,Logistics Payment,Outflow,FedEx,660.2,EUR
+BNK0002007,2025-12-23,Logistics Payment,Outflow,DHL,995.76,EUR
+BNK0002008,2025-11-20,Logistics Payment,Outflow,FedEx,2313.99,EUR
+BNK0002009,2025-11-24,Logistics Payment,Outflow,FedEx,1326.68,EUR
+BNK0002010,2025-11-22,Logistics Payment,Outflow,DHL,458.08,EUR
+BNK0002011,2025-11-30,Logistics Payment,Outflow,Chronopost,1028.89,EUR
+BNK0002012,2025-11-18,Logistics Payment,Outflow,UPS,1657.26,EUR
+BNK0002013,2025-12-12,Logistics Payment,Outflow,FedEx,1562.48,EUR
+BNK0002014,2025-12-03,Travel Payment,Outflow,SNCF,2072.76,EUR
+BNK0002015,2025-12-04,Office Payment,Outflow,Office Depot,1380.16,EUR
+BNK0002016,2025-12-17,Office Payment,Outflow,Office Depot,1475.2,EUR
+BNK0002017,2025-11-27,Travel Payment,Outflow,Booking Business,3663.57,EUR
+BNK0002018,2025-12-12,Travel Payment,Outflow,SNCF,1174.88,EUR
+BNK0002019,2025-11-29,Utilities Payment,Outflow,Veolia,273.22,eur
+BNK0002020,2025-12-02,Rent Payment,Outflow,sci riviera immo,17536.57,EUR
+BNK0002021,2025-12-24,Payroll Payment,Outflow,Cabinet Paye Sud,108481.65,EUR
+BNK0002022,2026-01-07,Software Payment,Outflow,OVHcloud,746.32,EUR
+BNK0002023,2025-12-24,Software Payment,Outflow,Adobe,2078.05,EUR
+BNK0002024,2026-01-16,Software Payment,Outflow,Adobe,883.43,EUR
+BNK0002025,2025-12-19,Software Payment,Outflow,Notion,304.67,EUR
+BNK0002026,2025-12-20,Marketing Payment,Outflow,Meta Ads,9145.57,EURO
+BNK0002027,2026-01-17,Marketing Payment,Outflow,TikTok Ads,4618.49,EUR
+BNK0002028,2026-01-01,Marketing Payment,Outflow,Meta Ads,3710.65,EUR
+BNK0002029,30-12-2025,Marketing Payment,Outflow,NA,2083.7,EUR
+BNK0002030,2026-01-21,Marketing Payment,Outflow,Meta Ads,7024.82,EUR
+BNK0002031,2026-01-06,Marketing Payment,Outflow,TikTok Ads,8917.83,EUR
+BNK0002032,2026-01-01,Marketing Payment,Outflow,Meta Ads,6841.92,EUR
+BNK0002033,2025-12-28,Marketing Payment,Outflow,Google Ads,8652.66,EUR
+BNK0002034,2025-12-29,Marketing Payment,Outflow,TikTok Ads,7535.33,EUR
+BNK0002035,2025-12-27,Marketing Payment,Outflow,Agence Pulse,4129.37,EUR
+BNK0002036,2025-12-23,Logistics Payment,Outflow,UPS,1921.58,EUR
+BNK0002037,2026-01-03,Logistics Payment,Outflow, FedEx,2301.71,EUR
+BNK0002038,2025-12-26,Logistics Payment,Outflow,FedEx,170.45,EUR
+BNK0002039,2025-12-27,Logistics Payment,Outflow,FedEx,784.65,EUR
+BNK0002040,2026-01-13,Logistics Payment,Outflow,Chronopost,1133.75,EUR
+BNK0002041,2025-12-30,Logistics Payment,Outflow,FedEx,380.49,EUR
+BNK0002042,2026-01-11,Logistics Payment,Outflow,Chronopost,123.04, Eur 
+BNK0002043,2026-01-16,Logistics Payment,Outflow,FedEx,1607.35,EUR
+BNK0002044,2025-12-31,Logistics Payment,Outflow,Chronopost,2334.38,EUR
+BNK0002045,2026-01-03,Logistics Payment,Outflow,Chronopost,2030.94,EUR
+BNK0002046,2025-12-23,Logistics Payment,Outflow,DHL,331.69,EUR
+BNK0002047,2026-01-03,Professional Fees Payment,Outflow,Legal Partners,959.41,EUR
+BNK0002048,2026-01-10,Professional Fees Payment,Outflow,Compta Expert,3716.1,EUR
+BNK0002049,2026-01-05,Professional Fees Payment,Outflow,Cabinet Audit Conseil, 2617.07 ,EUR
+BNK0002050,2026-01-05,Professional Fees Payment,Outflow,Compta Expert,2980.65,EUR
+BNK0002051,2026-01-18,Professional Fees Payment,Outflow,Compta Expert,3900.33,EUR
+BNK0002052,19/12/2025,Travel Payment,Outflow,SNCF,162.54,EUR
+BNK0002053,2025-02-18,Capex,Outflow,Ikea Pro,13266.8,EUR
+BNK0002054,2025-05-09,Capex,Outflow,Ikea Pro,25500.84,EUR
+BNK0002055,2025-09-14,Capex,Outflow,HP Pro,16788.31,EUR
+BNK0002056,2025-11-18,Capex,Outflow,HP Pro,27582.65,EUR
