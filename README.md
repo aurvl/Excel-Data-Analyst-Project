@@ -3,7 +3,7 @@
 Projet Excel end-to-end orienté **data analysis, business reporting et dashboarding**, conçu pour simuler une mission réaliste de **Data Analyst / Financial Analyst / Contrôle de gestion**.
 
 <p align="center">
-  <img src="exceldapjt.png" alt="Dashboard preview" width="700">
+  <img src="dashboard_preview.png" alt="Dashboard preview" width="700">
 </p>
 
 L'objectif est de partir de **données brutes volontairement imparfaites**, de les **nettoyer**, les **structurer**, les **enrichir**, puis de produire des **tables analytiques prêtes pour le reporting** ainsi qu'un **dashboard financier annuel** exploitable dans un contexte métier.
